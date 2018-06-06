@@ -37,6 +37,7 @@ weight = 60
 
 **Other**
 
-* Second Lieutenant, Republic of China Air Force
-* Deacon, Taiwanese Presbyterian Church of Greater St. Louis
+* Research Assistant, National Cheng Kung University, 2011-2012
+* Second Lieutenant, Republic of China Air Force, 2010-2011
+* Deacon, Taiwanese Presbyterian Church of Greater St. Louis, 2018
 

@@ -11,7 +11,7 @@ tags = []
 summary = "A scalable networking architecture to allow effective virtual interactions."
 
 # Optional image to display on homepage.
-image_preview = "vworld.jpg"
+image_preview = "vworld1.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
