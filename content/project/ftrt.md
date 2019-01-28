@@ -1,6 +1,6 @@
 +++
-title = "Fault-Tolerant Real-Time Messaging Middleware (FRAME) (2017-current)"
-date = 2018-06-05
+title = "Fault-Tolerant Real-Time Messaging for Edge Computing (2017-2019)"
+date = 2019-01-28
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -11,7 +11,7 @@ tags = []
 summary = "Meeting subscribers' heterogeneous requirements of message-loss tolerance and urgency."
 
 # Optional image to display on homepage.
-image_preview = "IIoT-arch.png"
+image_preview = "IIoT.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,12 @@ highlight = false
 image = ""
 caption = ""
 
+[[gallery_item]]
+album = "1"
+image = "IIoT.png"
+caption = ""
+
 +++
+Descrption
+
+{{< gallery album="1" >}}

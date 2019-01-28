@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ {name = "Department of Computer Science and Engineering", url = "https://cse.wustl.edu"},{ name = "Washington University in St. Louis, USA", url = "https://wustl.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "2019Jan.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "chaowang@wustl.edu"
   address = "Jolley Hall Room 507, One Brookings Drive, St. Louis, MO 63130, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -105,7 +105,7 @@ defaultContentLanguageInSubdir = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -215,9 +215,19 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/chao-wang-58488179/"
+
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:chaowang@wustl.edu"
+
+  [[params.social]]
+    icon = "facebook-square"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/cs.cwang.tw"
 
 #  [[params.social]]
 #    icon = "twitter"

@@ -1,6 +1,6 @@
 +++
 title = "Cyber-Physical Event Processing Middleware (CPEP) (2015-2018)"
-date = 2018-06-02T17:32:04-05:00
+date = 2019-01-27
 draft = false
 
 # Tags: can be used for filtering projects.

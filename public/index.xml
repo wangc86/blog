@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao Wang 王超 @ WashU on Chao Wang 王超 @ WashU</title>
+    <link>https://wangc86.github.io/</link>
+    <description>Recent content in Chao Wang 王超 @ WashU on Chao Wang 王超 @ WashU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fault-Tolerant Real-Time Messaging for Edge Computing (2017-2019)</title>
+      <link>https://wangc86.github.io/project/ftrt/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://wangc86.github.io/project/ftrt/</guid>
+      <description>&lt;p&gt;Descrption&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/IIoT.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/IIoT.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyber-Physical Event Processing Middleware (CPEP) (2015-2018)</title>
+      <link>https://wangc86.github.io/project/cpep/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://wangc86.github.io/project/cpep/</guid>
+      <description>&lt;p&gt;Cyber-physical systems (CPS) involve tight integration of cyber (computation) and physical domains, and both the effectiveness and correctness of a CPS application may rely on successful enforcement of constraints such as bounded latency and temporal validity subject to physical conditions. For many such systems (e.g., edge computing in the Industrial Internet of Things), it is desirable to enforce such constraints within a common middleware service (e.g., during event processing). In this project, we introduce &lt;em&gt;CPEP&lt;/em&gt;, a new real-time middleware for cyber-physical event processing, with&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;extensible support for complex event processing operations&lt;/li&gt;
+&lt;li&gt;execution prioritization and sharing&lt;/li&gt;
+&lt;li&gt;enforcement of time consistency with load shedding&lt;/li&gt;
+&lt;li&gt;efficient memory management and concurrent data processing&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We present the design, implementation, and empirical evaluation of CPEP and show that it can&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;support complex operations needed by many applications&lt;/li&gt;
+&lt;li&gt;schedule data processing according to consumers&amp;rsquo; priority levels&lt;/li&gt;
+&lt;li&gt;enforce temporal validity&lt;/li&gt;
+&lt;li&gt;reduce processing delay and improve throughput of time-consistent events.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We have implemented CPEP within the &lt;a href=&#34;http://www.dre.vanderbilt.edu/~schmidt/TAO.html&#34; target=&#34;_blank&#34;&gt;TAO real-time event service&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/cpep.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/cpep.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/eventProcessors.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/eventProcessors.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety Software Systems Design for Self-Driving Cars (2014-2015)</title>
+      <link>https://wangc86.github.io/project/safety/</link>
+      <pubDate>Sat, 02 Jun 2018 17:31:34 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/project/safety/</guid>
+      <description>&lt;p&gt;In this project, we collaborated with both the &lt;a href=&#34;https://rtg.cis.upenn.edu&#34; target=&#34;_blank&#34;&gt;Real Time Systems Group&lt;/a&gt; at the University of Pennsylvania and &lt;a href=&#34;https://www.gm.com/&#34; target=&#34;_blank&#34;&gt;General Motors&lt;/a&gt;. In particular, we studied safe software systems interaction for self-driving cars. Adaptive Cruise Control (ACC), for example, is a self-driving feature that maintains a safe distance to the leading car by managing the vehicle speed. Unintended interactions between self-driving features may occur, however, in situations such as driving on a curvy road. Changing vehicle speed may cause oversteering/understeering in the presence of another self-driving feature, called Lane-Keeping Control (LKC), which tries to steer the vehicle to make it stay in the current lane.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, there are ways to identify such interactions (e.g., ACC vs. LKC) at the design time of the self-driving features. But since at run-time some identified interactions rarely happen (which is a good thing though), it may be an overkill if we build a system that aggressively guards those conditions (for example, by restricting the allowed vehicle speed every time both ACC and LKC are functioning). A way to improve the situation is to check those rare conditions at run-time and respond with verified consolidating strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Networked Virtual Worlds (2012-2013)</title>
+      <link>https://wangc86.github.io/project/nvm/</link>
+      <pubDate>Sat, 02 Jun 2018 17:30:43 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/project/nvm/</guid>
+      <description>&lt;p&gt;In 2012-2013, I worked with &lt;a href=&#34;https://www.arl.wustl.edu/~jst/&#34; target=&#34;_blank&#34;&gt;Dr. Jon Turner&lt;/a&gt; on a design and implementation of scalable networked virtual worlds, on top of the &lt;a href=&#34;https://sites.google.com/site/forestoverlaynet/&#34; target=&#34;_blank&#34;&gt;Forest Overlay Network&lt;/a&gt;. Our application aims to allow people to join a 3D virtual environment and effectively interact with others. I was working on enabling thousands of avatars to communicate within a local area (e.g., where they can see each other). This includes the design of a scalable networking architecture as well as the study of efficient multicast communcation mechanisms.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/vworld1.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/vworld1.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/vworld3.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/vworld3.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/vworld4.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/vworld4.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scheduling Wireless Sensor Networks (2009-2010)</title>
+      <link>https://wangc86.github.io/project/dcls/</link>
+      <pubDate>Sat, 02 Jun 2018 17:30:13 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/project/dcls/</guid>
+      <description>&lt;p&gt;In scheduling TDMA-based wireless sensor networks, people often model the problem as certain type of &lt;a href=&#34;https://en.wikipedia.org/wiki/Graph_coloring&#34; target=&#34;_blank&#34;&gt;graph coloring&lt;/a&gt;. However, such an approach could under-utilize available bandwidth for transmission, because of a phenomenon we called &lt;em&gt;hidden square&lt;/em&gt;: Consider coloring n-by-n squares. It may be possible to color each square with additional colors while still maintaining that no adjacent square will have same color. Applied to wireless scheduling, the above observation suggests that there may be some &lt;em&gt;hidden&lt;/em&gt; time slot assignments opportunities, and with the additional slot assigned to wireless nodes one may reduce the delay for nodes to wait for next transmission.&lt;/p&gt;
+
+&lt;p&gt;This project has borne three fruits. (1) We studied the hidden square phenomenon and accordingly introduced &lt;em&gt;DCLS&lt;/em&gt;, a distributed collision-free low-latency link scheduling for wireless sensor networks. The delay performance of DCLS is asymptotically smaller than that of conventional graph coloring. (2) We further analyzed the conventional unit disk graph model, and derived the upper bound of the maximum vertex degree on vertex insertion. Potential applications include efficient local rescheduling by slot stealing, useful for wireless networks subject to dynamic changes in node connectivity (e.g., due to node mobility, failure, or re-deployment). (3) The idea of local rescheduling then was further explored by &lt;a href=&#34;https://dcl.ee.ncku.edu.tw/wordpress/?p=35&#34; target=&#34;_blank&#34;&gt;Dr. Chun-Hao Yang&lt;/a&gt; and &lt;a href=&#34;https://dcl.ee.ncku.edu.tw/wordpress/?p=71&#34; target=&#34;_blank&#34;&gt;Dr. Kuo-Feng Ssu&lt;/a&gt;, who introduced algorithms for wireless local rescheduling, along with experimental evaluation.&lt;/p&gt;
+
+&lt;p&gt;The first part of the contribution has been published in 2010, and the second and third parts have been published in 2018.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/hidden-square.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/hidden-square.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://wangc86.github.io/img/dcls-ijahuc.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://wangc86.github.io/img/dcls-ijahuc.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Middleware for Cyber-Physical Event Processing</title>
+      <link>https://wangc86.github.io/publication/cpep-tcps-18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/publication/cpep-tcps-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Vertex Insertion on Local Rescheduling in Wireless Sensor Networks</title>
+      <link>https://wangc86.github.io/publication/dcls-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://wangc86.github.io/publication/dcls-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Middleware for Cyber-Physical Event Processing</title>
+      <link>https://wangc86.github.io/publication/cpep-iwqos-17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/publication/cpep-iwqos-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dead-End Free Topology Maintenance Protocol for Geographic Forwarding in Wireless Sensor Networks</title>
+      <link>https://wangc86.github.io/publication/dftm-11/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/publication/dftm-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Latency Link Scheduling in Wireless Sensor Networks</title>
+      <link>https://wangc86.github.io/publication/ms-thesis-10/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/publication/ms-thesis-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed Collision-Free Low-Latency Link Scheduling Scheme in Wireless Sensor Networks</title>
+      <link>https://wangc86.github.io/publication/dcls-10/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://wangc86.github.io/publication/dcls-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

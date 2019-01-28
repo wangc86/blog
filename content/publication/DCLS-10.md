@@ -18,7 +18,7 @@ authors = ["Chao Wang", "Kuo-Feng Ssu"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Wireless Communications and Networking Conference (WCNC'10)"
+publication = "IEEE Wireless Communications and Networking Conference (WCNC)"
 publication_short = ""
 
 # Abstract and optional shortened version.
