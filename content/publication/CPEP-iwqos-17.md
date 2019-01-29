@@ -18,7 +18,7 @@ authors = ["Chao Wang", "Christopher Gill", "Chenyang Lu"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ACE/IEEE International Symposium on Quality of Service (IWQoS)"
+publication = "ACM/IEEE International Symposium on Quality of Service (IWQoS)"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -34,7 +34,7 @@ weight = 60
 **Organizer for International Research Conference**
 
 * Web Chair, [IEEE International Conference on Industrial Internet (ICII)](http://www.ieee-icii.org/), 2018
-* Web Chair, [ACE/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)](http://conferences.computer.org/IoTDI/), 2018
+* Web Chair, [ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)](http://conferences.computer.org/IoTDI/), 2018
 
 **Other**
 
