@@ -34,6 +34,5 @@ image = "IIoT.png"
 caption = ""
 
 +++
-Descrption
 
 {{< gallery album="1" >}}

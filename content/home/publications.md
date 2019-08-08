@@ -2,7 +2,7 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
-active = true
+active = false
 date = 2018-06-02
 
 title = "Research Publications"

@@ -6,7 +6,8 @@
 baseurl = "https://wangc86.github.io"
 
 # Title of your site
-title = "Chao Wang @ NTNU CSIE"
+#title = "Chao Wang @ NTNU CSIE"
+title = "Chao Wang - National Taiwan Normal University - Computer Science and Information Engineering"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -44,6 +45,7 @@ defaultContentLanguageInSubdir = false
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
+  #color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -55,14 +57,14 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name = "Department of Computer Science and Information Engineering", url = "csie.ntnu.edu.tw"},{ name = "National Taiwan Normal University", url = "https://www.ntnu.edu.tw" } ]
+  organizations = [ {name = "Department of Computer Science and Information Engineering", url = "http://w1.csie.ntnu.edu.tw"},{ name = "National Taiwan Normal University", url = "https://www.ntnu.edu.tw" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "2019Jul.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "chaowang@wustl.edu"
-  address = "116 台北市汀州路四段 88 號"
-  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  email = "cw@ntnu.edu.tw"
+  address = "116 台北市汀州路四段 88 號, 應用科學大樓, 國立台灣師範大學資訊工程學系"
+  office_hours = "Office hours: 10am-noon, Wednesdays and Fridays (Room 511)"
+  phone = "(02)7734-6691"
   #skype = "echo123"
   #telegram = ""
 
@@ -75,7 +77,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "ntnu_logo_only.png"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -214,20 +216,20 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/chao-wang-58488179/"
+#  [[params.social]]
+#    icon = "linkedin"
+#    icon_pack = "fa"
+#    link = "https://www.linkedin.com/in/chao-wang-58488179/"
 
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:chaowang@wustl.edu"
+    link = "mailto:cw@ntnu.edu.tw"
 
-  [[params.social]]
-    icon = "facebook-square"
-    icon_pack = "fa"
-    link = "https://www.facebook.com/cs.cwang.tw"
+#  [[params.social]]
+#    icon = "facebook-square"
+#    icon_pack = "fa"
+#    link = "https://www.facebook.com/cs.cwang.tw"
 
 #  [[params.social]]
 #    icon = "twitter"
@@ -251,7 +253,7 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = true
+  align_right = false
 
 [[menu.main]]
   name = "Home"
@@ -259,8 +261,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Course"
+  url = "csc0056/"
   weight = 2
 
 [[menu.main]]
@@ -269,14 +271,24 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Services"
-  url = "#services"
+  name = "Publications"
+  url = "publication/"
   weight = 4
+
+#[[menu.main]]
+#  name = "Services"
+#  url = "service/"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 5
+
+[[menu.main]]
+  name = "More"
+  url = "more/"
+  weight = 6
 
 # Taxonomies.
 [taxonomies]

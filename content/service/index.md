@@ -1,19 +1,15 @@
-+++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = false
-date = "2019-01-28"
+---
+title: Professional Services
+#summary: Here we describe how to add a page to your site.
+date: "2019-07-27T00:00:00Z"
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Professional Services"
-subtitle = ""
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-# Order that this section will appear in.
-weight = 60
 
-+++
+---
 **Guest Lecturer for Graduate/Undergraduate Course**
 
 * CSE 521, [Wireless Sensor Networks](http://www.cs.wustl.edu/~lu/cse521s/), 2018
