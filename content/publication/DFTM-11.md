@@ -18,7 +18,7 @@ authors = ["Chih-Hsun Chou", "Kuo-Feng Ssu", "Hewijin Christine Jiau", "Wei-Tong
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Computers"
+publication = "IEEE Transactions on Computers, vol. 60, no. 11, pp. 1610-1621"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,7 +35,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+#projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

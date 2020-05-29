@@ -18,7 +18,7 @@ authors = ["Chao Wang", "Christopher Gill", "Chenyang Lu"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE International Conference on Distributed Computing Systems (ICDCS), accepted"
+publication = "IEEE 39th International Conference on Distributed Computing Systems (ICDCS), 2019, pp. 976-985"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,7 +35,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["ftrt"]
+#projects = ["ftrt"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

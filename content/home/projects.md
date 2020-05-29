@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"
-active = true
+active = false
 date = "2018-06-02T00:00:00"
 
 title = "Research Projects"
@@ -13,7 +13,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "projects"
 
 # View.
 # Customize how projects are displayed.
