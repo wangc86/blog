@@ -7,8 +7,10 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-
 ---
+[Link to a list of publications.](../publication/)
+
+
 * (2020-2022) Energy-Efficient Internet-of-Things Edge Computing Architecture for Smart Cities
 
 * (2020) Effective IoT Software Architecture Utilizing Heterogeneous Processing Resources

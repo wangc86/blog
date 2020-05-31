@@ -69,7 +69,7 @@ math: true
 | May 7  | Serving Periodic/Aperiodic Real-Time Tasks | <span style="color:red">Critique 2 </span> | Textbook 3, Sections 5.1-5.4; 5.6|
 | May 14| Patterns for Building RealTime Software |  | Textbook 2, Chapter 11 |
 | May 21| <span style="color:brown">Project Demo 2</span> | | |
-| May 28| Fault-Tolerant Real-Time Messaging | <span style="color:blue">Lab 3</span><a name="resource"></a>| Reference 9|
+| May 28| Fault-Tolerant Real-Time Messaging | [<span style="color:blue">Lab 3</span>](https://github.com/wangc86/csc9006)<a name="resource"></a>| Reference 9|
 | Jun 4 | Real-Time CPS: Power and Energy Awareness | <span style="color:red">Critique 3</span> | |
 | Jun 11| The Time-Triggered Architecture |  | |
 | Jun 18| <span style="color:brown">Project Final Demo</span> |  | |
