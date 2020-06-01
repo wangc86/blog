@@ -64,10 +64,10 @@ math: true
 | 9 | Apr 27   | [First Exam](midtermExam.pdf);<br>[updated solution](MidtermSol_corrected.pdf) | | |
 | 10 | May 4   | [The MOSFET Switch (1)](lecture10-12.pdf) | Sec. 6.1-6.4; 5.5 | [Homework 3](homework03.pdf);<br>[solution](homework03_solutionSketch.pdf) |
 | 11 | May 11   | The MOSFET Switch (2);<br>see the lecture note on May 4| Sec. 6.5-6.8 | |
-| 12 | May 18   | The MOSFET Amplifier (1);<br>see the lecture note on May 4;<br>[lecture recordings](https://drive.google.com/drive/folders/1nHWGbp_EVOgjo6S_lTtPWJwu18pItKPM?usp=sharing)| Sec 6.8-6.9; 7.1-7.3 | [Homework 4](homework04.pdf);<br>[solution](homework04_solution.pdf) |
-| 13 | May 25   | The MOSFET Amplifier (2);<br>[lecture recordings](https://drive.google.com/open?id=1lEhEYzQzUkZUhyIxLnIZbC4eJNXx2tRV) | Sec. 7.3-7.5; 7.7; 2.6;<br>skip Examples 7.13-7.18 | <a name="resource"></a>|
-| 14 | Jun 1   | The Small-Signal Model |  | Homework 5|
-| 15 | Jun 8   | Energy Storage Elements |  | Bonus Homework|
+| 12 | May 18   | The MOSFET Amplifier (1);<br>see the lecture note on May 4;<br>[lecture recordings](https://drive.google.com/drive/folders/1nHWGbp_EVOgjo6S_lTtPWJwu18pItKPM?usp=sharing)| Sec. 6.8-6.9; 7.1-7.3 | [Homework 4](homework04.pdf);<br>[solution](homework04_solution.pdf) |
+| 13 | May 25   | The MOSFET Amplifier (2);<br>see the lecture note on June 1;<br>[lecture recordings](https://drive.google.com/open?id=1lEhEYzQzUkZUhyIxLnIZbC4eJNXx2tRV) | Sec. 7.3-7.5; 7.7; 2.6;<br>skip Examples 7.13-7.18 | <a name="resource"></a>|
+| 14 | Jun 1   | [MOSFET Amplifier Analysis](lecture13-14.pdf);<br>[lecture recordings](https://drive.google.com/open?id=1fohG7_8kJbuJrUqwJ8vnvp4NaiEnImSe) | Sec. 7.5-7.7 | Homework 5|
+| 15 | Jun 8   | The Small-Signal Analysis |  | Bonus Homework|
 | 16 | Jun 15   | Final Exam |  | |
 | 17 | Jun 22   | The Operational Amplifier Abstraction |  | |
 | 18 | Jun 29   | Diodes |  | |
