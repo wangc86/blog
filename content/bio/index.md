@@ -17,22 +17,68 @@ Chao Wang is an assistant professor in the [Department of Computer Science and I
 
 Chao Wang received the B.S. degree in electrical engineering in 2009 from [National Cheng Kung University](https://web.ncku.edu.tw/), Taiwan, the M.S. degree in computer and communication engineering in 2010 from National Cheng Kung University, Taiwan, under the direction of Professor [Kuo-Feng Ssu](https://dcl.ee.ncku.edu.tw/wordpress/?p=71), and the Ph.D. degree in computer science in 2019 from [Washington University in St. Louis](https://wustl.edu/), USA, under the direction of Professor [Christopher Gill](https://www.cse.wustl.edu/~cdgill/) and Professor [Chenyang Lu](https://www.cse.wustl.edu/~lu/). He is a member of [IEEE](https://www.ieee.org/), [ACM](https://www.acm.org/), [IICM](http://iicm.org.tw/), and [AIoT Society](https://chineseai.weebly.com/).
 
+<style type="text/css" rel="stylesheet">
+<!--
+divMy {
+        height: 300px;
+        width: 230px;
+        margin: 5px;
+        float: left;
+}
+-->
+</style>
+
 ### M.S. Students:
-陳治瑋  David Cheng
-<img src="../../img/members/david_fit.jpg" alt="David's photo"/>  
 
-余承恩  Chengen Yu
-<img src="../../img/members/en_fit.jpg" alt="En's photo" />
+<divMy>
+陳治瑋<br>
+David Cheng
+<img src="../../img/members/david_fit.jpg" alt="David's photo" />  
+</divMy>
 
-梅志碩  Eric Mei
-<img src="../../img/members/mei_fit.jpg" alt="Mei's photo" />
+<divMy>
+余承恩<br>
+Chengen Yu
+<img src="../../img/members/en_fit.jpg" alt="Chengen's photo" />
+</divMy>
 
-鍾尚值  Shang-Chih Zhong
+<divMy>
+梅志碩<br>
+Eric Mei
+<img src="../../img/members/mei_fit.jpg" alt="Eric's photo" />
+</divMy>
+
+<divMy>
+鍾尚值<br>
+Shang-Chih Zhong
 <img src="../../img/members/shang_fit.jpg" alt="Shang's photo" />
+</divMy>
 
-林政佑  Nick Lin
+<divMy>
+林政佑<br>
+Nick Lin
 <img src="../../img/members/nick_fit.jpg" alt="Nick's photo" />
+</divMy>
 
+<divMy>
+彭成聖<br>
+ChengSheng Peng
+<img src="../../img/members/peng_fit.jpg" alt="ChengSheng's photo" />
+</divMy>
+
+<divMy>
+李奕萱<br>
+Yih-Shiuan Lee
+<img src="../../img/members/shiuan_fit.jpg" alt="Yih-Shiuan's photo" />
+</divMy>
+
+<divMy>
+莊承勳<br>
+Cheng-Husn Chuang
+<img src="../../img/members/lawrence_fit.jpg" alt="Cheng-Husn's photo" />
+</divMy>
+
+<br style="clear:both" />
 
 ### B.S. Students:
 呂學昊  James Lu
