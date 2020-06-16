@@ -29,7 +29,6 @@ divMy {
 </style>
 
 ### M.S. Students:
-
 <divMy>
 陳治瑋<br>
 David Cheng
@@ -81,5 +80,15 @@ Cheng-Husn Chuang
 <br style="clear:both" />
 
 ### B.S. Students:
-呂學昊  James Lu
+<divMy>
+呂學昊<br>
+James Lu
 <img src="../../img/members/lu_fit.jpg" alt="Lu's photo" />
+</divMy>
+
+<divMy>
+李俊彥<br>
+Jun-Yan Lee
+<img src="../../img/members/jun_fit.jpg" alt="Jun-Yan's photo" />
+</divMy>
+<br style="clear:both" />
