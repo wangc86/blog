@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 曾敬豪 
+title: 曾敬豪 Ching-Hao Tseng
 
 # Username (this should match the folder name)
 authors:
-- jingHow
+- chingHao
 
 weight: 52
 
