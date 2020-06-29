@@ -91,7 +91,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cw@ntnu.edu.tw"
-phone = "+886 2 7749 6691"
+phone = "+886 02-7749-6691"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
