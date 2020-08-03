@@ -28,10 +28,10 @@ user_groups:
 - FrontPage
 ---
 
-研究室簡介 [PDF](pdf/ncl_intro_2020May.pdf)
-
-[網宇實體系統](https://zh.wikipedia.org/zh-tw/網宇實體系統)在情理內有效整合物理與資訊工程，為社會服務，並一窺自然的奧妙。<br>
-Cyber-Physical Systems [(CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system) highlight a sensible integration of natural and computing, for the serving of this generation, and for the appreciation of the nature.
+在 NCL，我們的團隊致力於研究[網宇實體系統](https://zh.wikipedia.org/zh-tw/網宇實體系統)，在情理內有效地整合資訊工程與物理環境，為社會服務，並一窺自然的奧妙。<br>
+At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system) --- a reasoned integration of computing and environment --- for the serving of this generation, and for the appreciation of the nature.
+* [NCL general intro](pdf/ncl_intro_2020May.pdf)
+* [Research CV](pdf/ncl_cv_2020Aug.pdf)
 
 
   
