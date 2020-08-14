@@ -31,12 +31,13 @@ user_groups:
 在 NCL，我們的團隊致力於研究[網宇實體系統](https://zh.wikipedia.org/zh-tw/網宇實體系統)，在情理內有效地整合資訊工程與物理環境，為社會服務，並一窺自然的奧妙。<br>
 At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system) --- a reasoned integration of computing and environment --- for the serving of this generation, and for the appreciation of the nature.
 * [NCL general intro](pdf/ncl_intro_2020May.pdf)
-* [Research CV](pdf/ncl_cv_2020Aug.pdf)
+* [NCL research CV](pdf/ncl_cv_2020Aug.pdf)
 
 
   
 # News
 
+* <span style="color:green">*[Call for papers]*</span> [2020 International Computer Symposium (ICS'20)](http://ics2020.ncku.edu.tw/callforpaper.html).  
 * <span style="color:green">*[Slides]*</span> [Our research presentation at the CPS-IoT Week 2020](pdf/iotdi20-arrec-presentation.pdf).  
 * <span style="color:green">*[Essay]*</span> ["漫談人工智慧物聯網時代的網宇實體系統"](https://jaiiot.weebly.com/jaiiot-2020-05.html), [中華物聯網與AI開發研究學會](https://jaiiot.weebly.com/), 人工智慧與物聯網研究期刊 JAIIoT 2020-05.  
 * <span style="color:green">*[Paper]*</span> Chao Wang, Christopher Gill, Chenyang Lu. ["Adaptive Data Replication in Real-Time Relibable Edge Computing for Internet of Things"](pdf/iotdi20-arrec.pdf), accepted for publication at [IoTDI 2020](https://conferences.computer.org/iotdi/2020/).  
