@@ -21,7 +21,7 @@ comments: false  # Show comments?
 
 ### 資料通訊  Data Communication (CSC0056)
 * [Fall 2020](../csc0056)
-* [Fall 2019](../csc0056/fall2019)
+* [Fall 2019](../csc0056_fall2019)
 
 ### 即時系統  Real-Time Systems (CSC9006)
 * [Spring 2020](../csc9006)
