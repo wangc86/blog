@@ -13,8 +13,8 @@ comments: false  # Show comments?
 ## Courses Offered at NTNU
 
 ### 基礎電子學  Basic Electronics (CSU0007)
-* Fall 2020
-* [Spring 2020](../csu0007)
+* [Fall 2020](../csu0007)
+* [Spring 2020](../csu0007_spring2020)
 
 ### 基礎電子學實驗  Basic Electronics Laboratory (CSU0008)
 * Fall 2020

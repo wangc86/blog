@@ -14,7 +14,7 @@ math: true
 **Instructor:** Chao Wang 王超  
 **Course Meetings:** Mondays 9:10 - 12:10 in room B102, Gongguan Campus  
 **Office Hours:** Wednesdays and Fridays, 8-10am (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
-**First Exam:** Nov 9, Monday 9:10 - 12:10, in class  
+**Midterm Exam:** Nov 9, Monday 9:10 - 12:10, in class  
 **Final Exam:** Jan 11, Monday 9:10 - 12:10, in class  
 
 This course is offered as an _all-English_ course. 此門課程為全英語授課.
@@ -66,7 +66,7 @@ Basic working experience in C, C++, and Linux.
 | 6 | Oct 19   |  |  |
 | 7 | Oct 26   |  |  |
 | 8 | Nov 2   |  |  |
-| 9 | Nov 9   | **First Exam** |  |
+| 9 | Nov 9   | **Midterm Exam** |  |
 | 10 | Nov 16   |  |  |
 | 11 | Nov 23   |  |  |
 | 12 | Nov 30   |  |  |
