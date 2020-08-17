@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Teaching"
+  name = "Course"
   url = "courses"
   weight = 40
 

@@ -17,7 +17,7 @@ comments: false  # Show comments?
 * [Spring 2020](../csu0007_spring2020)
 
 ### 基礎電子學實驗  Basic Electronics Laboratory (CSU0008)
-* Fall 2020
+* [Fall 2020](../csu0008)
 
 ### 資料通訊  Data Communication (CSC0056)
 * [Fall 2020](../csc0056)
@@ -27,5 +27,5 @@ comments: false  # Show comments?
 * [Spring 2020](../csc9006)
 
 ### 資訊系統專論 (一)  Special Topic: Information Systems (1) (CSC0065)
-* Fall 2020
+* [Fall 2020](../csc0065)
 
