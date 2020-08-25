@@ -37,7 +37,7 @@ At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cy
   
 # News
 
-* <span style="color:green">[Call for papers]</span> [2020 International Computer Symposium (ICS'20)](http://ics2020.ncku.edu.tw/callforpaper.html).  
+* <span style="color:green">[Call for paper]</span> [2020 International Computer Symposium (ICS'20)](http://ics2020.ncku.edu.tw/callforpaper.html).  
 * <span style="color:green">[Slides]</span> [Our research presentation at the CPS-IoT Week 2020](pdf/iotdi20-arrec-presentation.pdf).  
 * <span style="color:green">[Essay]</span> ["漫談人工智慧物聯網時代的網宇實體系統"](https://jaiiot.weebly.com/jaiiot-2020-05.html), [中華物聯網與AI開發研究學會](https://jaiiot.weebly.com/), 人工智慧與物聯網研究期刊 JAIIoT 2020-05.  
 * <span style="color:green">[Paper]</span> Chao Wang, Christopher Gill, Chenyang Lu. ["Adaptive Data Replication in Real-Time Relibable Edge Computing for Internet of Things"](pdf/iotdi20-arrec.pdf), accepted for publication at [IoTDI 2020](https://conferences.computer.org/iotdi/2020/).  
