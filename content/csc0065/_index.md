@@ -14,8 +14,8 @@ math: true
 **Instructor:** 王弘倫, 王超  
 **Course Meetings:** 每週四 9:10--12:10 @ 公館校區 綜合館B1小型演講廳  
 **Office Hours:** 每週二週三, 8-10am @ 公館校區應用科學大樓 511, or [by appointment](mailto:cw@ntnu.edu.tw)  
-**Midterm Exam:** TBD  
-**Final Exam:** TBD
+**Midterm Exam:** N/A  
+**Final Exam:** N/A  
 
 
 ## Course Syllabus
@@ -23,10 +23,8 @@ math: true
 > But what exactly is Concrete Mathematics? It is a blend of CONtinuous and disCRETE mathematics. More concretely, it is the controlled manipulation of mathematical formulas, using a collection of techniques for solving problems. Once you, the reader, have learned the material in this book, all you will need is a cool head, a large sheet of paper, and fairly decent handwriting in order to evaluate horrendous-looking sums, to solve complex recurrence relations, and to discover subtle patterns in data. You will be so fluent in algebraic techniques that you will often find it easier to obtain exact results than to settle for approximate answers that are valid only in a limiting sense.
 
 **Grading:**  
-* 作業 40%  
-* 期中考 20%
-* 期末考 25%
-* 課堂討論參與 15%
+* 作業 81%  
+* 課堂討論參與 19%
 
 ## Textbook
 
