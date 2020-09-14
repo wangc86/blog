@@ -106,7 +106,7 @@ directions = "Enter the \"Applied Science Building\" and take the stairs to Offi
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Office hours: Tuesdays and Wednesdays 9--11AM"]
+office_hours = ["Office hours: Wednesdays and Fridays 8--10AM"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
