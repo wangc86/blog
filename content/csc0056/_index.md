@@ -58,8 +58,8 @@ Basic working experience in C, C++, and Linux.
 
 | \#  | Date | Topic | [Readings](#resource) |
 | --- | ---  | --- | --- |
-| 1 | Sep 14   | Course Introduction | Sec. 1.1-1.2 |
-| 2 | Sep 21   |  |  |
+| 1 | Sep 14   | [Course Introduction](lecture01.pdf) (video recording [part 1](https://drive.google.com/file/d/1efXti8tu8hUW7ek6XpucEkQupAYMlkqZ/view?usp=sharing), [part 2](https://drive.google.com/file/d/1d_DSEr23MLleiwZ_jEDHkAtJ4s_C120a/view?usp=sharing), [part 3](https://drive.google.com/file/d/1D0Ol1xQT9Zrshc6_HulyVfxjFag1bBxo/view?usp=sharing)) | Sec. 1.1-1.2 |
+| 2 | Sep 21   | Layered Network Architecture and The Physical Layer | Sec. 1.3; 2.1-2.2.2; 2.2.6 |
 | 3 | Sep 28   |  |  |
 | 4 | Oct 5   |  |  |
 | 5 | Oct 12   |  |  |
@@ -87,7 +87,7 @@ Basic working experience in C, C++, and Linux.
 
 **References:**  
 
-[1] Harchol-Balter, Mor. _Performance modeling and design of computer systems: queueing theory in action._ Cambridge University Press, 2013. ISBN 9781107027503.
+[1] Harchol-Balter, Mor. _Performance modeling and design of computer systems: queueing theory in action._ Cambridge University Press, 2013. ISBN 9781107027503. ([Read it at NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2FtPerformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputing%2Bsystems%2Ftperformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputing%2Bsystems%2F-3%252C0%252C0%252CB%2Fframeset%26FF%3Dtperformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputer%2Bsystems%2Bqueueing%2Btheory%2Bin%2Baction%261%252C1%252C%2Findexsort%3D-))
 
 [2] Kurose, Jim and Ross, Keith. _Computer Networking: A Top-Down Approach (5th edition or newer)_. Pearson, 2010. ISBN 0136079679.
 
