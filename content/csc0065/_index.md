@@ -34,6 +34,8 @@ math: true
 ISBN-10: 0201558025  
 ISBN-13: 978-0201558029  
 
+You may read it at [the NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2FtConcrete%2BMathematics%2Ftconcrete%2Bmathematics%2F1%252C2%252C2%252CB%2Fframeset%26FF%3Dtconcrete%2Bmathematics%2Ba%2Bfoundation%2Bfor%2Bcomputer%2Bscience%261%252C1%252C)
+
 
 ## Accessibility
 <a name="integrity"></a>

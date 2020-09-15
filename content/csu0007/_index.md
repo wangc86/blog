@@ -42,8 +42,8 @@ This course is designed for first-year undergraduate students, in particular for
 
 | \#  | Date | Topic | [Reading](#resource) |
 | --- | ---  | --- | --- | 
-| 1 | Sep 15, 18   |  |  |
-| 2 | Sep 22, 25, 26   |  |  |
+| 1 | Sep 15, 18   | The Circuit Abstraction ([slides 1](lecture01-1.pdf)) | Chapter 1; Appendix A.1 |
+| 2 | Sep 22, 25, 26   | Resistive Networks | Chapter 2 |
 | 3 | Sep 29   |  |  |
 | 4 | Oct 6   |  |  |
 | 5 | Oct 13, 16   |  |  |
