@@ -12,7 +12,7 @@ math: true
 
 **Course Name:** CSU0007 Basic Electronics 基礎電子學 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** Chao Wang 王超  
-**Course Meetings:** Tuesdays 9:10--10:00 and Fridays <span style="color:red">15:30--17:20</span>, in room C007, Gongguan Campus  
+**Course Meetings:** Tuesdays 9:10--10:00 and Fridays <span style="color:red">15:30--17:20</span>, in room <span style="color:red">E302</span>, Gongguan Campus  
 **Office Hours:** Wednesdays and Fridays, 8-10am (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** Nov 13, Friday 14:20--16:20, in class  
 **Final Exam:** Jan 15, Friday 14:20--16:20, in class  

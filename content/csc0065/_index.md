@@ -13,7 +13,7 @@ math: true
 **Course Name:** CSC0065 Special Topic: Information Systems  資訊系統專論 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** 王弘倫, 王超  
 **Course Meetings:** 每週四 9:10--12:10 @ 公館校區 綜合館B1小型演講廳  
-**Office Hours:** 每週二週三, 8-10am @ 公館校區應用科學大樓 511, or [by appointment](mailto:cw@ntnu.edu.tw)  
+**Office Hours:** 每週三週五, 8-10am @ 公館校區應用科學大樓 511, or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** N/A  
 **Final Exam:** N/A  
 
