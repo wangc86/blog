@@ -58,8 +58,8 @@ Basic working experience in C, C++, and Linux.
 
 | \#  | Date | Topic | [Readings](#resource) |
 | --- | ---  | --- | --- |
-| 1 | Sep 14   | [Course Introduction](lecture01.pdf) (video recording [part 1](https://drive.google.com/file/d/1efXti8tu8hUW7ek6XpucEkQupAYMlkqZ/view?usp=sharing), [part 2](https://drive.google.com/file/d/1d_DSEr23MLleiwZ_jEDHkAtJ4s_C120a/view?usp=sharing), [part 3](https://drive.google.com/file/d/1D0Ol1xQT9Zrshc6_HulyVfxjFag1bBxo/view?usp=sharing)) | Sec. 1.1-1.2 |
-| 2 | Sep 21   | Layered Network Architecture and The Physical Layer | Sec. 1.3; 2.1-2.2.2; 2.2.6 |
+| 1 | Sep 14   | Course Introduction ([slides](lecture01.pdf))  | Sec. 1.1-1.2 |
+| 2 | Sep 21   | Layered Network Architecture and The Physical Layer ([slides](lecture02.pdf)) | Sec. 1.3; 2.1-2.2.2; 2.2.6 |
 | 3 | Sep 28   |  |  |
 | 4 | Oct 5   |  |  |
 | 5 | Oct 12   |  |  |
