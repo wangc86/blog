@@ -112,7 +112,7 @@ Academic integrity is a key component of your education, which is for your benef
 
 Students should submit all their homework assignments via [Moodle](https://moodle.ntnu.edu.tw/).
 
-* Homework1
+* [Homework1](https://github.com/wangc86/csc0056/blob/master/Homework1.md), due on Oct 5th, 9AM, according to the Moodle clock.
 * Homework2
 * Homework3
 * Homework4
