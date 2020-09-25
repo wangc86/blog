@@ -43,7 +43,7 @@ This course is designed for first-year undergraduate students, in particular for
 | \#  | Date | Topic | [Reading](#resource) |
 | --- | ---  | --- | --- | 
 | 1 | Sep 15, 18   | The Circuit Abstraction ([slides](lecture01-1.pdf); [lecture note](lecture01-2.pdf)) | Chapter 1; Appendix A.1 |
-| 2 | Sep 22, 25, 26   | Resistive Networks | Chapter 2 |
+| 2 | Sep 22, 25, 26   | Resistive Networks | Chapter 2 to Sec. 2.5 |
 | 3 | Sep 29   |  |  |
 | 4 | Oct 6   |  |  |
 | 5 | Oct 13, 16   |  |  |
@@ -82,7 +82,7 @@ Please reflect on the university's [motto](http://archives.lib.ntnu.edu.tw/c2/c2
 
 Students should submit all their homework assignments via [Moodle](https://moodle.ntnu.edu.tw/).
 
-* Homework1
+* [Homework1](homework01.pdf); due on October 6th, 9AM.
 * Homework2
 * Homework3
 * Homework4
