@@ -26,6 +26,29 @@ math: true
 * 作業 81%  
 * 課堂討論參與 19%
 
+## Course Schedule
+
+| \#  | Date | Topic | Homework |
+| --- | ---  | --- | --- | 
+| 1 | Sep 17   | 第一章 |  |
+| 2 | Sep 24   | 第一章 ([note](note1.pdf)) | 1.1~1.11; 1.16 |
+| 3 | Oct 1   | 中秋節放假 |  |
+| 4 | Oct 8   |  |  |
+| 5 | Oct 15   |  |  |
+| 6 | Oct 22   |  |  |
+| 7 | Oct 29   |  |  |
+| 8 | Nov 5   |  |  |
+| 9 | Nov 12   |  |  |
+| 10 | Nov 19   |  |  |
+| 11 | Nov 26   |  |  |
+| 12 | Dec 3   |  |  |
+| 13 | Dec 10   |  |  |
+| 14 | Dec 17   |  |  |
+| 15 | Dec 24   |  |  |
+| 16 | Dec 31   |  |  |
+| 17 | Jan 7   |  |  |
+| 18 | Jan 14   |  |  |
+
 ## Textbook
 
 書名: Concrete Mathematics: A Foundation for Computer Science (Second Edition)  
