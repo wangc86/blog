@@ -43,8 +43,8 @@ This course is designed for first-year undergraduate students, in particular for
 | \#  | Date | Topic | [Reading](#resource) |
 | --- | ---  | --- | --- | 
 | 1 | Sep 15, 18   | The Circuit Abstraction ([slides](lecture01-1.pdf); [lecture note](lecture01-2.pdf)) | Chapter 1; Appendix A.1 |
-| 2 | Sep 22, 25, 26   | Resistive Networks | Chapter 2 to Sec. 2.5 |
-| 3 | Sep 29   |  |  |
+| 2 | Sep 22, 25, 26   | Resistive Networks ([lecture note](lecture02.pdf)) | Chapter 2 to Sec. 2.5 |
+| 3 | Sep 29   | The Node Analysis Method ([lecture note](lecture03.pdf)) | Sec. 3.1-3.3 (except Sec. 3.3.3) |
 | 4 | Oct 6   |  |  |
 | 5 | Oct 13, 16   |  |  |
 | 6 | Oct 20, 23   |  |  |
