@@ -50,7 +50,7 @@ math: true
 | 1 | Sep 15   | 課程介紹及分組 |  |
 | 2 | Sep 22   | [工具介紹與基本電阻電壓電流量測](https://github.com/wangc86/csu0008) |  |
 | 3 | Sep 29   | [Voltage Divider and Current Divider](https://github.com/wangc86/csu0008) |  |
-| 4 | Oct 6   | Superposition in practice |  |
+| 4 | Oct 6   | [加法電路 and Superposition](https://github.com/wangc86/csu0008/blob/master/2020-10-6%20%E9%A0%90%E5%A0%B1.md) |  |
 | 5 | Oct 13   | |  |
 | 6 | Oct 20   |  |  |
 | 7 | Oct 27   |  |  |
