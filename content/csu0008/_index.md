@@ -13,7 +13,7 @@ math: true
 **Course Name:** CSU0008 Basic Electronics Laboratory 基礎電子學實驗 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** 王超  
 **Course Meetings:** 每週二 10:20--12:10 @ 公館校區 C208  
-**Office Hours:** 每週二週三, 8-10am @ 公館校區應用科學大樓 511, or [by appointment](mailto:cw@ntnu.edu.tw)  
+**Office Hours:** 每週三週五, 8-10am @ 公館校區應用科學大樓 511, or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** N/A  
 **Final Exam:** N/A
 
@@ -50,8 +50,8 @@ math: true
 | 1 | Sep 15   | 課程介紹及分組 |  |
 | 2 | Sep 22   | [工具介紹與基本電阻電壓電流量測](https://github.com/wangc86/csu0008) |  |
 | 3 | Sep 29   | [Voltage Divider and Current Divider](https://github.com/wangc86/csu0008) |  |
-| 4 | Oct 6   |  |  |
-| 5 | Oct 13   |  |  |
+| 4 | Oct 6   | Superposition in practice |  |
+| 5 | Oct 13   | |  |
 | 6 | Oct 20   |  |  |
 | 7 | Oct 27   |  |  |
 | 8 | Nov 3   |  |  |
