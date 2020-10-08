@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 呂學昊 James Lu
+title: 林佳為 Chia Wei Lin
 
 # Username (this should match the folder name)
 authors:
-- james
+- vincent
 
-weight: 50
+weight: 54
 
 # Is this the primary user of the site?
 superuser: false
@@ -73,8 +73,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
-#- Researchers
+- Researchers
 # - Visitors
 ---
 

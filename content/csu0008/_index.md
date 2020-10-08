@@ -51,7 +51,7 @@ math: true
 | 2 | Sep 22   | [工具介紹與基本電阻電壓電流量測](https://github.com/wangc86/csu0008) |  |
 | 3 | Sep 29   | [Voltage Divider and Current Divider](https://github.com/wangc86/csu0008) |  |
 | 4 | Oct 6   | 加法電路 and Superposition ([預習報告](https://github.com/wangc86/csu0008/blob/master/2020-10-6%20%E9%A0%90%E7%BF%92%E5%A0%B1%E5%91%8A.md); [實驗步驟及結報](https://github.com/wangc86/csu0008/blob/master/2020-10-6%20%E5%AF%A6%E9%A9%97%E6%AD%A5%E9%A9%9F.md)) |  |
-| 5 | Oct 13   | |  |
+| 5 | Oct 13   | 驗證及使用 Thevenin Theorem ([預習報告](https://github.com/wangc86/csu0008/blob/master/2020-10-13%20%E9%A0%90%E7%BF%92%E5%A0%B1%E5%91%8A.md)) |  |
 | 6 | Oct 20   |  |  |
 | 7 | Oct 27   |  |  |
 | 8 | Nov 3   |  |  |
