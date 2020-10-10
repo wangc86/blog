@@ -62,7 +62,7 @@ Basic working experience in C, C++, and Linux.
 | 2 | Sep 21   | Layered Network Architecture and The Physical Layer ([slides](lecture02.pdf)) ([note](note1.pdf) regarding convolution and the use of Fourier transform) | Sec. 1.3; 2.1-2.2.2; 2.2.6 |
 | 3 | Sep 28   | Error Detection and Correction ([note](note2.pdf)) | Sec. 2.3 |
 | 4 | Oct 5   | Hamming Code and Data Retransmissioin Strategies ([slides](lecture04.pdf))([note](lecture04-note.pdf)) | Sec. 2.4-2.4.1 (the note has been updated and merged to the file on the left)|
-| 5 | Oct 12   |  |  |
+| 5 | Oct 12   | Queueing Model and Little's Theorem | Sec 3.1-3.2 |
 | 6 | Oct 19   |  |  |
 | 7 | Oct 26   |  |  |
 | 8 | Nov 2   |  |  |
