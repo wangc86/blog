@@ -45,8 +45,8 @@ This course is designed for first-year undergraduate students, in particular for
 | 1 | Sep 15, 18   | The Circuit Abstraction ([slides](lecture01-1.pdf); [lecture note](lecture01-2.pdf)) | Chapter 1; Appendix A.1 |
 | 2 | Sep 22, 25, 26   | Resistive Networks ([lecture note](lecture02.pdf)) | Chapter 2 to Sec. 2.5 |
 | 3 | Sep 29   | The Node Analysis Method ([lecture note](lecture03.pdf)) | Sec. 3.1-3.3 (except Sec. 3.3.3) |
-| 4 | Oct 6   | Superposition | Sec. 3.5 up to Example 3.16 |
-| 5 | Oct 13, 16   | |  |
+| 4 | Oct 6   | Superposition ([lecture note](lecture04.pdf)) | Sec. 3.5 up to Example 3.16 |
+| 5 | Oct 13, 16   | Thevenin's Theorem, Norton's Theorem, and Their Applications ([lecture note1](lecture05-1.pdf))| Sec. 3.6 |
 | 6 | Oct 20, 23   |  |  |
 | 7 | Oct 27, 30   |  |  |
 | 8 | Nov 3, 6   |  |  |
@@ -82,8 +82,8 @@ Please reflect on the university's [motto](http://archives.lib.ntnu.edu.tw/c2/c2
 
 Students should submit all their homework assignments via [Moodle](https://moodle.ntnu.edu.tw/).
 
-* [Homework1](homework01.pdf); due on October 6th, 9AM.
-* Homework2
+* [Homework1](homework01.pdf); due on October 6th, 9AM. ([solution](hw1_solution.pdf))
+* [Homework2](homework02.pdf); due on October 27th, 9AM.
 * Homework3
 * Homework4
 * Homework5
