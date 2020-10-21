@@ -62,8 +62,8 @@ Basic working experience in C, C++, and Linux.
 | 2 | Sep 21   | Layered Network Architecture and The Physical Layer ([slides](lecture02.pdf)) ([note](note1.pdf) regarding convolution and the use of Fourier transform) | Sec. 1.3; 2.1-2.2.2; 2.2.6 |
 | 3 | Sep 28   | Error Detection and Correction ([note](note2.pdf)) | Sec. 2.3 |
 | 4 | Oct 5   | Hamming Code and Data Retransmissioin Strategies ([slides](lecture04.pdf))([note](lecture04-note.pdf)) | Sec. 2.4-2.4.1 (the note has been updated and merged to the file on the left)|
-| 5 | Oct 12   | Queueing Model and Little's Theorem | Sec. 3.1-3.2 |
-| 6 | Oct 19   | Markov Chains and The M/M/1 Queueing Systems | Sec. 3.3-3.3.1 and Appendix A |
+| 5 | Oct 12   | Queueing Model and Little's Theorem ([note](1012.pdf)) | Sec. 3.1-3.2 |
+| 6 | Oct 19   | Markov Chains and The M/M/1 Queueing Systems ([note](1019.pdf)) | Sec. 3.3-3.3.1 and Appendix A |
 | 7 | Oct 26   | M/M/m and Time Reversibility | Sec. 3.4.1 and 3.7 |
 | 8 | Nov 2   | Network of Queues | Sec. 3.8 before 3.3.1; 3.8.2 |
 | 9 | Nov 9   | **Midterm Exam** |  |

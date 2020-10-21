@@ -34,7 +34,7 @@ math: true
 | 2 | Sep 24   | 第一章 ([note](note1.pdf)) | 作業一： 1.1~1.11; 1.16 |
 | 3 | Oct 1   | 中秋節放假 |  |
 | 4 | Oct 8   | 調課 |  |
-| 5 | Oct 15   | 第二章 (作業一參考解答) | |
+| 5 | Oct 15   | 第二章 | [作業一參考解答](sol_hw1.pdf); Problem 1.16 [alternative 1](sol_prob_1-16_1.jpg), and [alternative 2](sol_prob_1-16_2.pdf) |
 | 6 | Oct 22   | 第二章 | 作業二 |
 | 7 | Oct 29   | 第二章 |  |
 | 8 | Nov 5   |  |  |
