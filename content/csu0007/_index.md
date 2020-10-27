@@ -83,8 +83,8 @@ Please reflect on the university's [motto](http://archives.lib.ntnu.edu.tw/c2/c2
 Students should submit all their homework assignments via [Moodle](https://moodle.ntnu.edu.tw/).
 
 * [Homework1](homework01.pdf); due on October 6th, 9AM. ([solution](hw1_solution.pdf))
-* [Homework2](homework02.pdf); due on October 27th, 9AM.
-* Homework3
+* [Homework2](homework02.pdf); due on October 27th, 9AM. ([solution](hw2_solution.pdf))
+* Homework3 will be available on October 28th evening.
 * Homework4
 * Homework5
 * Homework6

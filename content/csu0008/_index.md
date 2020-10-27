@@ -53,7 +53,7 @@ math: true
 | 4 | Oct 6   | 加法電路 and Superposition | [link](https://github.com/wangc86/csu0008/tree/master/10-06) |
 | 5 | Oct 13   | 驗證及使用 Thevenin Theorem | [link](https://github.com/wangc86/csu0008/tree/master/10-13) |
 | 6 | Oct 20   | 非線性元件的操作及基本的資料視覺化 | [link](https://github.com/wangc86/csu0008/tree/master/10-20) |
-| 7 | Oct 27   |  |  |
+| 7 | Oct 27   | 訊號產生器、示波器、半波整流電路 | [link](https://github.com/wangc86/csu0008/tree/master/10-27) |
 | 8 | Nov 3   |  |  |
 | 9 | Nov 10   |  |  |
 | 10 | Nov 17   |  |  |
