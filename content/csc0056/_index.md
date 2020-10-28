@@ -114,7 +114,7 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 
 * [Homework1](https://github.com/wangc86/csc0056/blob/master/Homework1.md), due on Oct 5th, 9AM.
 * [Homework2](https://github.com/wangc86/csc0056), due on Oct 26th, 9AM. ([solution](hw2_solution.pdf))
-* Homework3
+* [Homework3](https://github.com/wangc86/csc0056); Part 1 is due on Nov 6th, 9PM (Friday) and Part 2 is due on Nov 12th, 9PM (Wednesday).
 * Homework4
 * Homework5
 * Homework6
