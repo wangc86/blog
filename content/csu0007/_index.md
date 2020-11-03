@@ -12,6 +12,7 @@ math: true
 
 **Course Name:** CSU0007 Basic Electronics 基礎電子學 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** Chao Wang 王超  
+**Teaching Assistant:** Eric Mei 梅志碩  
 **Course Meetings:** Tuesdays 9:10--10:00 and Fridays <span style="color:red">15:30--17:20</span>, in room <span style="color:red">E302</span>, Gongguan Campus  
 **Office Hours:** Wednesdays and Fridays, 8-10am (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** Nov 13, Friday 14:20--16:20, in class  
@@ -47,10 +48,10 @@ This course is designed for first-year undergraduate students, in particular for
 | 3 | Sep 29   | The Node Analysis Method ([lecture note](lecture03.pdf)) | Sec. 3.1-3.3 (except Sec. 3.3.3) |
 | 4 | Oct 6   | Superposition ([lecture note](lecture04.pdf)) | Sec. 3.5 up to Example 3.16 |
 | 5 | Oct 13, 16   | Thevenin's Theorem, Norton's Theorem, and Their Applications ([lecture note 1](lecture05-1.pdf)) ([lecture note 2](lecture05-2.pdf))| Sec. 3.6 |
-| 6 | Oct 20, 23   | Nonlinear Circuits and Basic Analysis ([lecture note 1](lecture06-1.pdf)) | Sec. 4 up to Sec. 4.3 |
-| 7 | Oct 27, 30   | Approximation and The Small-Signal Analysis | Sec. 4.4-4.5 |
-| 8 | Nov 3, 6   | The Digital Abstraction | Sec. 5 |
-| 9 | Nov 10, 13   | **Midterm Exam on Nov 13** |  |
+| 6 | Oct 20, 23   | Nonlinear Circuits and Basic Analysis ([lecture note 1](lecture06-1.pdf)) ([lecture note 2](lecture06-2.pdf)) | Sec. 4 up to Sec. 4.3 |
+| 7 | Oct 27, 30   | Approximation and The Small-Signal Analysis ([lecture note](lecture07.pdf)) | Sec. 4.4-4.5 |
+| 8 | Nov 3, 6   | The Digital Abstraction ([lecture note 1](lecture08-1.pdf))| Sec. 5 |
+| 9 | Nov 10, 13   | review session on Nov 10; **Midterm Exam on Nov 13** |  |
 | 10 | Nov 17   |  |  |
 | 11 | Nov 24, 27   |  |  |
 | 12 | Dec 1, 4   |  |  |

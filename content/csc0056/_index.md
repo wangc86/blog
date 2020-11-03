@@ -64,8 +64,8 @@ Basic working experience in C, C++, and Linux.
 | 4 | Oct 5   | Hamming Code and Data Retransmissioin Strategies ([slides](lecture04.pdf))([note](lecture04-note.pdf)) | Sec. 2.4-2.4.1 (the note has been updated and merged to the file on the left)|
 | 5 | Oct 12   | Queueing Model and Little's Theorem ([note](1012.pdf)) | Sec. 3.1-3.2 |
 | 6 | Oct 19   | Markov Chains and The M/M/1 Queueing Systems ([note](1019.pdf)) | Sec. 3.3-3.3.1 and Appendix A |
-| 7 | Oct 26   | M/M/m and Time Reversibility | Sec. 3.4.1 and 3.7 |
-| 8 | Nov 2   | Network of Queues | Sec. 3.8 before 3.3.1; 3.8.2 |
+| 7 | Oct 26   | (continuning the topic of Oct 19) |  |
+| 8 | Nov 2   | Applications and The M/M/m Queueing Systems ([note](1102.pdf)) | Sec. 3.4.1 |
 | 9 | Nov 9   | **Midterm Exam** |  |
 | 10 | Nov 16   |  |  |
 | 11 | Nov 23   |  |  |
