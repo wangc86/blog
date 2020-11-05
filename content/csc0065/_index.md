@@ -36,9 +36,9 @@ math: true
 | 4 | Oct 8   | 調課 |  |
 | 5 | Oct 15   | 第二章 | [作業一參考解答](sol_hw1.pdf); Problem 1.16 [alternative 1](sol_prob_1-16_1.jpg), and [alternative 2](sol_prob_1-16_2.pdf) |
 | 6 | Oct 22   | 第二章 ([note](1022.pdf)) | 作業二： 2.2~2.3, 2.5~2.6, and 2.12~2.14, 總共七題 |
-| 7 | Oct 29   | 第二章 |  |
-| 8 | Nov 5   |  |  |
-| 9 | Nov 12   |  |  |
+| 7 | Oct 29   | 第二章 | 作業三： 2.7~2.9, 2.17, 2.19, 2.21 |
+| 8 | Nov 5   | 第二章 finished Section 2.6 | 作業四： 2.11, 2.23, 2.24, 2.27, 2.29 |
+| 9 | Nov 12   | 第五章 |  |
 | 10 | Nov 19   |  |  |
 | 11 | Nov 26   |  |  |
 | 12 | Dec 3   |  |  |
