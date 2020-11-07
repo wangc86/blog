@@ -51,7 +51,7 @@ This course is designed for first-year undergraduate students, in particular for
 | 6 | Oct 20, 23   | Nonlinear Circuits and Basic Analysis ([lecture note 1](lecture06-1.pdf)) ([lecture note 2](lecture06-2.pdf)) | Sec. 4 up to Sec. 4.3 |
 | 7 | Oct 27, 30   | Approximation and The Small-Signal Analysis ([lecture note](lecture07.pdf)) | Sec. 4.4-4.5 |
 | 8 | Nov 3, 6   | The Digital Abstraction ([lecture note 1](lecture08-1.pdf))| Sec. 5 |
-| 9 | Nov 10, 13   | review session on Nov 10; **Midterm Exam on Nov 13** |  |
+| 9 | Nov 10, 13   | review session on Nov 10 ([exercise](small-signal-exercise.pdf)); **Midterm Exam on Nov 13** |  |
 | 10 | Nov 17   |  |  |
 | 11 | Nov 24, 27   |  |  |
 | 12 | Dec 1, 4   |  |  |
