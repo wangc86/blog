@@ -66,7 +66,7 @@ Basic working experience in C, C++, and Linux.
 | 6 | Oct 19   | Markov Chains and The M/M/1 Queueing Systems ([note](1019.pdf)) | Sec. 3.3-3.3.1 and Appendix A |
 | 7 | Oct 26   | (continuning the topic of Oct 19) |  |
 | 8 | Nov 2   | Applications and The M/M/m Queueing Systems ([note](1102.pdf)) | Sec. 3.4.1 |
-| 9 | Nov 9   | **Midterm Exam** |  |
+| 9 | Nov 9   | **Midterm Exam** ([solution](midterm2020.pdf)) |  |
 | 10 | Nov 16   |  |  |
 | 11 | Nov 23   |  |  |
 | 12 | Nov 30   |  |  |
