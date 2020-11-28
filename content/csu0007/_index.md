@@ -53,8 +53,8 @@ This course is designed for first-year undergraduate students, in particular for
 | 8 | Nov 3, 6   | The Digital Abstraction ([lecture note 1](lecture08-1.pdf))| Sec. 5 |
 | 9 | Nov 10, 13   | review session on Nov 10 ([exercise](small-signal-exercise.pdf)); **Midterm Exam on Nov 13** | [solution](midterm_solution.pdf) |
 | 10 | Nov 17   | Discussion of Exam Questions |  |
-| 11 | Nov 24, 27   | The MOSFET Switch | Sec. 6.1-6.7 |
-| 12 | Dec 1, 4   |  |  |
+| 11 | Nov 24, 27   | The MOSFET Switch | Sec. 6.1-6.8 (self-study: Sec. 6.8.1) |
+| 12 | Dec 1, 4   | Amplification: Concepts and Applications | Sec. 6.9 and more |
 | 13 | Dec 8, 11   |  |  |
 | 14 | Dec 15, 18   |  |  |
 | 15 | Dec 22, 25   |  |  |
@@ -86,7 +86,7 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework1](homework01.pdf); due on October 6th, 9AM. ([solution](hw1_solution.pdf))
 * [Homework2](homework02.pdf); due on October 27th, 9AM. ([solution](hw2_solution.pdf))
 * [Homework3](homework03.pdf); due on November 10th, 9AM. ([solution](hw3_solution.pdf))
-* Homework4
+* [Homework4](homework04.pdf); due on December 4th, 9PM.
 * Homework5
 * Homework6
 * Homework7 (bonus)

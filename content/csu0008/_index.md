@@ -56,9 +56,9 @@ math: true
 | 7 | Oct 27   | 訊號產生器、示波器、半波整流電路 | [link](https://github.com/wangc86/csu0008/tree/master/10-27) |
 | 8 | Nov 3   | 驗證操作點的概念 | [link](https://github.com/wangc86/csu0008/tree/master/11-03) |
 | 9 | Nov 10   | 期中回顧 | [link](https://github.com/wangc86/csu0008/tree/master/11-10) |
-| 10 | Nov 17   |  |  |
-| 11 | Nov 24   |  |  |
-| 12 | Dec 1   |  |  |
+| 10 | Nov 17   | 邏輯閘的使用及 Static Discipline | [link](https://github.com/wangc86/csu0008/tree/master/11-17) |
+| 11 | Nov 24   | 3-Bit Full Adder Implementation | [link](https://github.com/wangc86/csu0008/tree/master/11-24) |
+| 12 | Dec 1   | Arduino 初探 | [link](https://github.com/wangc86/csu0008/tree/master/12-01) |
 | 13 | Dec 8   |  |  |
 | 14 | Dec 15   |  |  |
 | 15 | Dec 22   |  |  |
