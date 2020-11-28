@@ -67,14 +67,14 @@ Basic working experience in C, C++, and Linux.
 | 7 | Oct 26   | (continuning the topic of Oct 19) |  |
 | 8 | Nov 2   | Applications and The M/M/m Queueing Systems ([note](1102.pdf)) | Sec. 3.4.1 |
 | 9 | Nov 9   | **Midterm Exam** ([solution](midterm2020.pdf)) |  |
-| 10 | Nov 16   |  |  |
-| 11 | Nov 23   |  |  |
-| 12 | Nov 30   |  |  |
-| 13 | Dec 7   |  |  |
-| 14 | Dec 14   |  |  |
-| 15 | Dec 21   |  |  |
-| 16 | Dec 28   |  |  |
-| 17 | Jan 4   |  |  |
+| 10 | Nov 16   | Introducing Multiaccess Communication | Sec. 4.1; [CAN Specification, Version 2.0](http://esd.cs.ucr.edu/webres/can20.pdf) |
+| 11 | Nov 23   | The Aloha System and Its Analysis ([note](1127.pdf))| Sec. 4.2 |
+| 12 | Nov 30   | Broker-Based Communication |  |
+| 13 | Dec 7   | Scheduling Sensor Network Communication |  |
+| 14 | Dec 14   | Routing Strategies |  |
+| 15 | Dec 21   | Network Flow Algorithms |  |
+| 16 | Dec 28   | Flow Control |  |
+| 17 | Jan 4   | Time Synchronization and Selected Topics |  |
 | 18 | Jan 11   | **Final Exam** |  |
 
 <a name="resource"></a> The readings assignment each week is designed for you to gain some background of the topic _before_ class. Read them and note where you found interesting and/or challenging. Bring your findings to class. We will cover additional materials when needed.

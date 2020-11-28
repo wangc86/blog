@@ -33,8 +33,8 @@ This course is offered as an _all-English_ course. 此門課程為全英語授�
 This course is designed for first-year undergraduate students, in particular for those who major in computer science and information engineering. The goal is to unveil some part of the "mysterious connections" between physics and computing systems. It is our hope that through this course, students will acquire basic skills to explore modern computing systems such as those for Internet of Things (IoT).
 
 **Grading:**  
-* Homework 45%  
-* First Exam 20%<a name="schedule"></a>  
+* Homework 45% (will count the highest six out of seven assignments) 
+* First Exam 20%<a name="schedule"></a> ([solution](midterm_solution.pdf)) 
 * Final Exam 25%  
 * Participation 5%  
 * Attendance 5%  
@@ -51,9 +51,9 @@ This course is designed for first-year undergraduate students, in particular for
 | 6 | Oct 20, 23   | Nonlinear Circuits and Basic Analysis ([lecture note 1](lecture06-1.pdf)) ([lecture note 2](lecture06-2.pdf)) | Sec. 4 up to Sec. 4.3 |
 | 7 | Oct 27, 30   | Approximation and The Small-Signal Analysis ([lecture note](lecture07.pdf)) | Sec. 4.4-4.5 |
 | 8 | Nov 3, 6   | The Digital Abstraction ([lecture note 1](lecture08-1.pdf))| Sec. 5 |
-| 9 | Nov 10, 13   | review session on Nov 10 ([exercise](small-signal-exercise.pdf)); **Midterm Exam on Nov 13** |  |
-| 10 | Nov 17   |  |  |
-| 11 | Nov 24, 27   |  |  |
+| 9 | Nov 10, 13   | review session on Nov 10 ([exercise](small-signal-exercise.pdf)); **Midterm Exam on Nov 13** | [solution](midterm_solution.pdf) |
+| 10 | Nov 17   | Discussion of Exam Questions |  |
+| 11 | Nov 24, 27   | The MOSFET Switch | Sec. 6.1-6.7 |
 | 12 | Dec 1, 4   |  |  |
 | 13 | Dec 8, 11   |  |  |
 | 14 | Dec 15, 18   |  |  |
@@ -89,3 +89,4 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * Homework4
 * Homework5
 * Homework6
+* Homework7 (bonus)
