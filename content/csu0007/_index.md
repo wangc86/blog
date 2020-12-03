@@ -24,7 +24,7 @@ This course is offered as an _all-English_ course. 此門課程為全英語授�
 
 * [Course Syllabus](#syllabus) <a name="syllabus"></a>
 * [Course Schedule](#schedule)
-* [Textbook](#resource)
+* [Textbook and Additional References](#resource)
 * [Accessibility](#accessibility)
 * [Academic Integrity](#accessibility)
 * [Homework Assignment](#hw)
@@ -63,6 +63,7 @@ This course is designed for first-year undergraduate students, in particular for
 | 18 | Jan 12, 15   | **Final Exam on Jan 15** |  |
 
 ## Textbook
+<a name="resource"></a>
 
 [1] Agarwal, Anant and Lang, Jeffrey H. _Foundations of Analog and Digital Electronic Circuits._ Morgan Kaufmann; 1 edition (July 18, 2005). ISBN 978-1558607354 **(Required)**
 
@@ -70,6 +71,10 @@ Purchase a copy of the book from [Elsevier](https://www.elsevier.com/books/found
 
 [Click here](csu0007_note_2020spring.pdf) for the lecture notes of the 2020 Spring edition of this course.
 
+## Additional References
+
+* [Link](2012.2.pdf) <-- A great introduction to semiconductor science, from the EE department at National Taiwan University.
+* Neamen, Donald A. Semiconductor physics and devices: basic principles. New York, NY: McGraw-Hill. 2012. ([NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2Ftsemiconductor%2Bphysics%2Band%2Bdevices%2Bbasic%2Bprinciples%2B4th%2Bedition%2Bsolution%2Ftsemiconductor%2Bphysics%2Band%2Bdevices%2Bbasic%2Bprinciples%2B%2B%2B%2B%2B%2B%2B%2B4th%2Bedition%2Bsolution%2F-3%252C0%252C0%252CB%2Fexact%26FF%3Dtsemiconductor%2Bphysics%2Band%2Bdevices%2Bbasic%2Bprinciples%261%252C2%252C%2Findexsort%3D-); also, [Google Scholar](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=semiconductor+physics+and+devices+basic+principles+4th+edition+solution&btnG=)) (I personally found this textbook wonderful)
 
 ## Accessibility
 <a name="integrity"></a>
