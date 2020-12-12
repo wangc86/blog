@@ -69,8 +69,8 @@ Basic working experience in C, C++, and Linux.
 | 9 | Nov 9   | **Midterm Exam** ([solution](midterm2020.pdf)) |  |
 | 10 | Nov 16   | Introducing Multiaccess Communication | Sec. 4.1; [CAN Specification, Version 2.0](http://esd.cs.ucr.edu/webres/can20.pdf) |
 | 11 | Nov 23   | The Aloha System and Its Analysis ([note](1127.pdf))| Sec. 4.2 |
-| 12 | Nov 30   | Broker-Based Communication |  |
-| 13 | Dec 7   | Scheduling Sensor Network Communication |  |
+| 12 | Nov 30   | Scheduling Sensor Network Communication | [5][6][7] |
+| 13 | Dec 7   | Broker-Based Data Communication | [5][6][7] |
 | 14 | Dec 14   | Routing Strategies |  |
 | 15 | Dec 21   | Network Flow Algorithms |  |
 | 16 | Dec 28   | Flow Control |  |
@@ -93,6 +93,13 @@ Basic working experience in C, C++, and Linux.
 
 [3] William Feller. _An Introduction to Probability Theory and Its Applications, Volume I (3rd edition)_. Wiley, 1968. ISBN 0471257087.
 
+[4] Chao Wang, Christopher Gill, Chenyang Lu. _Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things._ 2020 IEEE/ACM International Conference on Internet-of-Things Design and Implementation (IoTDI), 2020. ([pdf](https://wangc86.github.io/publication/iotdi20/iotdi20.pdf))
+
+[5] Chao Wang, Kuo-Feng Ssu. _A Distributed Collision-Free Low-Latency Link Scheduling Scheme in Wireless Sensor Networks_ 2010 IEEE Wireless Communication and Networking Conference, 2010. ([pdf](https://wangc86.github.io/publication/wcnc10/wcnc10.pdf))
+
+[6] Luby, Michael. "A simple parallel algorithm for the maximal independent set problem." SIAM journal on computing 15.4 (1986): 1036-1053. ([on Google Scholar](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=A+simple+parallel+algorithm+for+the+maximal+independent+set+problem&btnG=))
+
+[7] Ramanathan, Subramanian, and Errol L. Lloyd. "Scheduling algorithms for multihop radio networks." IEEE/ACM Transactions on networking 1.2 (1993): 166-177. ([on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/222924))
 
 <a name="accessibility"></a>
 
@@ -115,6 +122,6 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework1](https://github.com/wangc86/csc0056/blob/master/Homework1.md), due on Oct 5th, 9AM.
 * [Homework2](https://github.com/wangc86/csc0056), due on Oct 26th, 9AM. ([solution](hw2_solution.pdf))
 * [Homework3](https://github.com/wangc86/csc0056); Part 1 is due on Nov 6th, 9PM (Friday) and Part 2 is due on Nov 12th, 9PM (Thursday). ([solution for part 1](hw3_solution_part1.pdf))
-* Homework4
+* [Homework4](https://github.com/wangc86/csc0056); duee on Dec 12th, 9PM.
 * Homework5
 * Homework6
