@@ -59,12 +59,12 @@ math: true
 | 10 | Nov 17   | 邏輯閘的使用及 Static Discipline | [link](https://github.com/wangc86/csu0008/tree/master/11-17) |
 | 11 | Nov 24   | 3-Bit Full Adder Implementation | [link](https://github.com/wangc86/csu0008/tree/master/11-24) |
 | 12 | Dec 1   | Arduino 初探 | [link](https://github.com/wangc86/csu0008/tree/master/12-01) |
-| 13 | Dec 8   |  |  |
-| 14 | Dec 15   |  |  |
-| 15 | Dec 22   |  |  |
-| 16 | Dec 29   |  |  |
-| 17 | Jan 5   |  |  |
-| 18 | Jan 12   |  |  |
+| 13 | Dec 8   | 軟硬體整合（一） | [link](https://github.com/wangc86/csu0008/tree/master/12-08) |
+| 14 | Dec 15   | 軟硬體整合（二） | [link](https://github.com/wangc86/csu0008/tree/master/12-15) |
+| 15 | Dec 22   | MOSFET 元件特性 |  |
+| 16 | Dec 29   | MOSFET 放大電路 |  |
+| 17 | Jan 5   | 差分放大器 |  |
+| 18 | Jan 12   | 小型物聯網通訊 |  |
 
 ## Textbook
 
@@ -80,5 +80,5 @@ math: true
 請謹記 [校訓](http://archives.lib.ntnu.edu.tw/c2/c2_1.jsp): 誠, 正, 勤, 樸。 自己動手做實驗及分析，當有所得。
 
 ## Homework Assignment 
-預習報告及結果報告皆於課堂繳交；成績於 [Moodle](https://moodle.ntnu.edu.tw/) 通知。
+預習報告及結果報告；成績於 [Moodle](https://moodle.ntnu.edu.tw/) 通知。
 

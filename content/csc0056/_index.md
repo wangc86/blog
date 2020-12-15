@@ -70,11 +70,11 @@ Basic working experience in C, C++, and Linux.
 | 10 | Nov 16   | Introducing Multiaccess Communication | Sec. 4.1; [CAN Specification, Version 2.0](http://esd.cs.ucr.edu/webres/can20.pdf) |
 | 11 | Nov 23   | The Aloha System and Its Analysis ([note](1127.pdf))| Sec. 4.2 |
 | 12 | Nov 30   | Scheduling Sensor Network Communication | [5][6][7] |
-| 13 | Dec 7   | Broker-Based Data Communication | [5][6][7] |
-| 14 | Dec 14   | Routing Strategies |  |
-| 15 | Dec 21   | Network Flow Algorithms |  |
-| 16 | Dec 28   | Flow Control |  |
-| 17 | Jan 4   | Time Synchronization and Selected Topics |  |
+| 13 | Dec 7   | TDMA Scheduling and Broker-Based Data Communication | [5][6][7]; in particular, [5] |
+| 14 | Dec 14   | Real-Time Data Communication ([slides](real-time-data-communication.pdf))| [8] |
+| 15 | Dec 21   | Real-Time Fault-Tolerant Edge Computing | [9] |
+| 16 | Dec 28   | Network Flow Algorithms and Control |  |
+| 17 | Jan 4   | Time Synchronization and Review |  |
 | 18 | Jan 11   | **Final Exam** |  |
 
 <a name="resource"></a> The readings assignment each week is designed for you to gain some background of the topic _before_ class. Read them and note where you found interesting and/or challenging. Bring your findings to class. We will cover additional materials when needed.
@@ -101,6 +101,10 @@ Basic working experience in C, C++, and Linux.
 
 [7] Ramanathan, Subramanian, and Errol L. Lloyd. "Scheduling algorithms for multihop radio networks." IEEE/ACM Transactions on networking 1.2 (1993): 166-177. ([on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/222924))
 
+[8] Chao Wang, Christopher Gill, and Chenyang Lu. 2019. _Real-Time Middleware for Cyber-Physical Event Processing._ ACM Trans. Cyber-Phys. Syst. 3, 3, Article 29 (October 2019), 25 pages. DOI:https://doi.org/10.1145/3218816 ([link](https://dl.acm.org/doi/10.1145/3218816))
+
+[9] Chao Wang, Christopher Gill, and Chenyang Lu, _FRAME: Fault Tolerant and Real-Time Messaging for Edge Computing,_ 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, 2019, pp. 976-985, doi: 10.1109/ICDCS.2019.00101. ([link](https://ieeexplore.ieee.org/abstract/document/8884849))
+
 <a name="accessibility"></a>
 
 ## Accessibility
@@ -122,6 +126,6 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework1](https://github.com/wangc86/csc0056/blob/master/Homework1.md), due on Oct 5th, 9AM.
 * [Homework2](https://github.com/wangc86/csc0056), due on Oct 26th, 9AM. ([solution](hw2_solution.pdf))
 * [Homework3](https://github.com/wangc86/csc0056); Part 1 is due on Nov 6th, 9PM (Friday) and Part 2 is due on Nov 12th, 9PM (Thursday). ([solution for part 1](hw3_solution_part1.pdf))
-* [Homework4](https://github.com/wangc86/csc0056); duee on Dec 12th, 9PM.
+* [Homework4](https://github.com/wangc86/csc0056); due on Dec 12th, 9PM.
 * Homework5
 * Homework6

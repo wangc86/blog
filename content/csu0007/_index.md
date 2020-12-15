@@ -56,10 +56,10 @@ This course is designed for first-year undergraduate students, in particular for
 | 11 | Nov 24, 27   | The MOSFET Switch | Sec. 6.1-6.8 (self-study: Sec. 6.8.1) |
 | 12 | Dec 1, 4   | Amplification: Concepts and Applications | Sec. 6.9 and more |
 | 13 | Dec 8, 11   | The MOSFET Amplifier | Sec. 7.1-7.6 |
-| 14 | Dec 15, 18   |  |  |
-| 15 | Dec 22, 25   |  |  |
-| 16 | Dec 29   |  |  |
-| 17 | Jan 5, 8   |  |  |
+| 14 | Dec 15, 18   | MOSFET Circuit Analysis ([lecture note up to Dec 15](note-uptoDec15.pdf))| Sec. 7.6-7.7 (skip BJT) |
+| 15 | Dec 22, 25   | Advanced Analysis and Difference Amplifier | Chapter 8 |
+| 16 | Dec 29   | Difference Amplifier | Chapter 8 |
+| 17 | Jan 5, 8   | Selected Topics and Review |  |
 | 18 | Jan 12, 15   | **Final Exam on Jan 15** |  |
 
 ## Textbook
