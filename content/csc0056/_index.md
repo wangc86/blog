@@ -48,7 +48,7 @@ In particular, we will
 Basic working experience in C, C++, and Linux.
 
 **Grading:**  
-* Homework 45%  
+* Homework 45% (will count the highest six out of seven assignments) 
 * First Exam 20% <a name="schedule"></a>  
 * Final Exam 25%  
 * Participation 5%  
@@ -127,5 +127,6 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework2](https://github.com/wangc86/csc0056), due on Oct 26th, 9AM. ([solution](hw2_solution.pdf))
 * [Homework3](https://github.com/wangc86/csc0056); Part 1 is due on Nov 6th, 9PM (Friday) and Part 2 is due on Nov 12th, 9PM (Thursday). ([solution for part 1](hw3_solution_part1.pdf))
 * [Homework4](https://github.com/wangc86/csc0056); due on Dec 12th, 9PM.
-* Homework5
+* [Homework5](https://github.com/wangc86/csc0056); due on Dec 28th, 9PM.
 * Homework6
+* Homework7 (bonus)
