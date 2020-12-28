@@ -41,7 +41,7 @@ Data communication is essential for networked computing systems. The objectives 
 In particular, we will
 
 * learn the basics of the queueing model and analysis;
-* learn both Google's gRPC framework and the widely-used MQTT communication protocol; and
+* learn ~~both Google's gRPC framework and~~ the widely-used MQTT communication protocol; and
 * learn to study selected research papers.
 
 **Prerequisites:**  
@@ -73,7 +73,7 @@ Basic working experience in C, C++, and Linux.
 | 13 | Dec 7   | TDMA Scheduling and Broker-Based Data Communication | [5][6][7]; in particular, [5] |
 | 14 | Dec 14   | Real-Time Data Communication ([slides](real-time-data-communication.pdf))| [8] |
 | 15 | Dec 21   | Real-Time Fault-Tolerant Edge Computing | [9] |
-| 16 | Dec 28   | Network Flow Algorithms and Control |  |
+| 16 | Dec 28   | Network Flow Control | Sec. 6.1-6.2.1; 6.3 |
 | 17 | Jan 4   | Time Synchronization and Review |  |
 | 18 | Jan 11   | **Final Exam** |  |
 

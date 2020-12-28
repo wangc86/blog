@@ -61,8 +61,8 @@ math: true
 | 12 | Dec 1   | Arduino 初探 | [link](https://github.com/wangc86/csu0008/tree/master/12-01) |
 | 13 | Dec 8   | 軟硬體整合（一） | [link](https://github.com/wangc86/csu0008/tree/master/12-08) |
 | 14 | Dec 15   | 軟硬體整合（二） | [link](https://github.com/wangc86/csu0008/tree/master/12-15) |
-| 15 | Dec 22   | MOSFET 元件特性 |  |
-| 16 | Dec 29   | MOSFET 放大電路 |  |
+| 15 | Dec 22   | cancelled |  |
+| 16 | Dec 29   | MOSFET 特性與電路 | [link](https://github.com/wangc86/csu0008/tree/master/12-29) |
 | 17 | Jan 5   | 差分放大器 |  |
 | 18 | Jan 12   | 小型物聯網通訊 |  |
 

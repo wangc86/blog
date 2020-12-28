@@ -93,5 +93,5 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework3](homework03.pdf); due on November 10th, 9AM. ([solution](hw3_solution.pdf))
 * [Homework4](homework04.pdf); due on December 4th, 9PM. ([solution](hw4_solution.pdf))
 * [Homework5](homework05.pdf); due on December 19th, 9PM. ([solution](hw5_solution.pdf))
-* Homework6
+* [Homework6](homework06.pdf); due on Jan 5th, 9PM, 2021.
 * Homework7 (bonus)
