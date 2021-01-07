@@ -67,14 +67,14 @@ Basic working experience in C, C++, and Linux.
 | 7 | Oct 26   | (continuning the topic of Oct 19) |  |
 | 8 | Nov 2   | Applications and The M/M/m Queueing Systems ([note](1102.pdf)) | Sec. 3.4.1 |
 | 9 | Nov 9   | **Midterm Exam** ([solution](midterm2020.pdf)) |  |
-| 10 | Nov 16   | Introducing Multiaccess Communication | Sec. 4.1; [CAN Specification, Version 2.0](http://esd.cs.ucr.edu/webres/can20.pdf) |
+| 10 | Nov 16   | Introducing Multiaccess Communication ([note](CAN-note.pdf)) | Sec. 4.1; [CAN Specification, Version 2.0](http://esd.cs.ucr.edu/webres/can20.pdf) |
 | 11 | Nov 23   | The Aloha System and Its Analysis ([note](1127.pdf))| Sec. 4.2 |
 | 12 | Nov 30   | Scheduling Sensor Network Communication | [5][6][7] |
 | 13 | Dec 7   | TDMA Scheduling and Broker-Based Data Communication | [5][6][7]; in particular, [5] |
 | 14 | Dec 14   | Real-Time Data Communication ([slides](real-time-data-communication.pdf))| [8] |
 | 15 | Dec 21   | Real-Time Fault-Tolerant Edge Computing | [9] |
 | 16 | Dec 28   | Network Flow Control | Sec. 6.1-6.2.1; 6.3 |
-| 17 | Jan 4   | Time Synchronization and Review | Sec. 6.3 |
+| 17 | Jan 4   | Time Synchronization and Review ([slides](sync.pdf)) | Sec. 6.3 |
 | 18 | Jan 11   | **Final Exam** |  |
 
 <a name="resource"></a> The readings assignment each week is designed for you to gain some background of the topic _before_ class. Read them and note where you found interesting and/or challenging. Bring your findings to class. We will cover additional materials when needed.
@@ -128,5 +128,5 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework3](https://github.com/wangc86/csc0056); Part 1 is due on Nov 6th, 9PM (Friday) and Part 2 is due on Nov 12th, 9PM (Thursday). ([solution for part 1](hw3_solution_part1.pdf))
 * [Homework4](https://github.com/wangc86/csc0056); due on Dec 12th, 9PM. ([solution](hw4_solution.pdf))
 * [Homework5](https://github.com/wangc86/csc0056); due on Dec 28th, 9PM. ([solution](hw5_solution.pdf))
-* [Homework6](https://github.com/wangc86/csc0056)
-* Homework7 (bonus)
+* [Homework6](https://github.com/wangc86/csc0056); due on Jan 8th, 9PM.
+* [Homework7 (bonus)](https://github.com/wangc86/csc0056); due on Jan 15th, 9PM.
