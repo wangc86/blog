@@ -57,10 +57,10 @@ This course is designed for first-year undergraduate students, in particular for
 | 12 | Dec 1, 4   | Amplification: Concepts and Applications | Sec. 6.9 and more |
 | 13 | Dec 8, 11   | The MOSFET Amplifier | Sec. 7.1-7.6 |
 | 14 | Dec 15, 18   | MOSFET Circuit Analysis ([lecture note up to Dec 15](note-uptoDec15.pdf))| Sec. 7.6-7.7 (skip BJT) |
-| 15 | Dec 22, 25   | Advanced Analysis and Difference Amplifier | Chapter 8 |
+| 15 | Dec 22, 25   | Advanced Analysis and Difference Amplifier ([lecture note](note-Dec15-to-Dec25.pdf))| Chapter 8 |
 | 16 | Dec 29   | Difference Amplifier | Chapter 8 |
 | 17 | Jan 5, 8   | Selected Topics and Review |  |
-| 18 | Jan 12, 15   | **Final Exam on Jan 15** |  |
+| 18 | Jan 12, 15 | ([lecture note since Dec 25](note-since-Dec25.pdf)) **Final Exam on Jan 15** |  |
 
 ## Textbook
 <a name="resource"></a>
@@ -93,5 +93,5 @@ Students should submit all their homework assignments via [Moodle](https://moodl
 * [Homework3](homework03.pdf); due on November 10th, 9AM. ([solution](hw3_solution.pdf))
 * [Homework4](homework04.pdf); due on December 4th, 9PM. ([solution](hw4_solution.pdf))
 * [Homework5](homework05.pdf); due on December 19th, 9PM. ([solution](hw5_solution.pdf))
-* [Homework6](homework06.pdf); due on Jan 5th, 9PM, 2021.
-* Homework7 (bonus)
+* [Homework6](homework06.pdf); due on Jan 5th, 9PM, 2021. ([solution](hw6_solution.pdf))
+* [Homework7 (bonus)](homework07.pdf); due on Jan 14th, 5PM, 2021.
