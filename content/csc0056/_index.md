@@ -75,7 +75,7 @@ Basic working experience in C, C++, and Linux.
 | 15 | Dec 21   | Real-Time Fault-Tolerant Edge Computing | [9] |
 | 16 | Dec 28   | Network Flow Control | Sec. 6.1-6.2.1; 6.3 |
 | 17 | Jan 4   | Time Synchronization and Review ([slides](sync.pdf)) | Sec. 6.3 |
-| 18 | Jan 11   | **Final Exam** |  |
+| 18 | Jan 11   | **Final Exam** ([solution](final_solution.pdf)) | |
 
 <a name="resource"></a> The readings assignment each week is designed for you to gain some background of the topic _before_ class. Read them and note where you found interesting and/or challenging. Bring your findings to class. We will cover additional materials when needed.
 
