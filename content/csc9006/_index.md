@@ -18,7 +18,7 @@ math: true
 
 ![NTNU logo](../../img/ntnu_logo.png)
 
-**課程名稱:** CSC9006 Real-Time Systems 即時系統  
+**課程名稱:** CSC9006 Real-Time Systems 即時系統 <span style="color:red">(Spring 2020)</span>  
 **授課教師:** [王超](../../#people)  
 **課程網頁:** https://wangc86.github.io/csc9006  
 **上課時間:** 每週四 9:10-12:10 in room S403, 公館校區  

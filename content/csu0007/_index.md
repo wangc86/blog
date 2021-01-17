@@ -60,7 +60,7 @@ This course is designed for first-year undergraduate students, in particular for
 | 15 | Dec 22, 25   | Advanced Analysis and Difference Amplifier ([lecture note](note-Dec15-to-Dec25.pdf))| Chapter 8 |
 | 16 | Dec 29   | Difference Amplifier | Chapter 8 |
 | 17 | Jan 5, 8   | Selected Topics and Review |  |
-| 18 | Jan 12, 15 | ([lecture note since Dec 25](note-since-Dec25.pdf)) **Final Exam on Jan 15** |  |
+| 18 | Jan 12, 15 | ([lecture note since Dec 25](note-since-Dec25.pdf)) **Final Exam on Jan 15** ([solution](final_solution.pdf)) |  |
 
 ## Textbook
 <a name="resource"></a>

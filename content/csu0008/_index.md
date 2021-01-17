@@ -63,8 +63,8 @@ math: true
 | 14 | Dec 15   | 軟硬體整合（二） | [link](https://github.com/wangc86/csu0008/tree/master/12-15) |
 | 15 | Dec 22   | cancelled |  |
 | 16 | Dec 29   | MOSFET 特性與電路 | [link](https://github.com/wangc86/csu0008/tree/master/12-29) |
-| 17 | Jan 5   | 差分放大器 |  |
-| 18 | Jan 12   | 小型物聯網通訊 |  |
+| 17 | Jan 5   | 電流鏡 |  |
+| 18 | Jan 12   | (skipped) |  |
 
 ## Textbook
 
