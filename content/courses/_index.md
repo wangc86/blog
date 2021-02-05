@@ -24,8 +24,8 @@ comments: false  # Show comments?
 * [Fall 2019](../csc0056_fall2019)
 
 ### 即時系統  Real-Time Systems (CSC9006)
-* [Spring 2020](../csc9006)
-* Spring 2021
+* [Spring 2021](../csc9006)
+* [Spring 2020](../csc9006_spring2020)
 
 ### 資訊系統專論 (一)  Special Topic: Information Systems (1) (CSC0065)
 * [Fall 2020](../csc0065)
