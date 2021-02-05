@@ -37,7 +37,8 @@ This course is offered in _English_ (with Mandarin support). 此課程為英語�
 ## Course Syllabus
 Real-time systems are computing systems engineered for the real world.
 From self-driving cars to Internet-of-Things (IoT) systems,
-a hallmark of such systems is that they must respond to the world outside of the computer
+a hallmark of real-time systems is that they must interact with
+the world outside of the computer
 in a _timely_, _dependable_, and _efficient_ way.
 In this course,
 we will study both the theory and practice of
