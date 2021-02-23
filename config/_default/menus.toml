@@ -19,6 +19,11 @@
   weight = 30
 
 [[main]]
+  name = "Wiki"
+  url = "https://github.com/lawrence870521/NCL/wiki"
+  weight = 35
+
+[[main]]
   name = "Course"
   url = "courses"
   weight = 40

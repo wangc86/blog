@@ -42,6 +42,9 @@ At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cy
 * <span style="color:green">[Slides]</span> [Our research presentation at the CPS-IoT Week 2020](pdf/iotdi20-arrec-presentation.pdf).  
 
 
-"...他必像樹栽於水旁，在河邊扎根，炎熱來到，並不懼怕，葉子仍必青翠，在乾旱之年毫無掛慮，而且結果不止。"  _- 耶利米書 17:8_
+"He is like a tree<br>
+    planted by streams of water<br>
+that yields its fruit in its season,<br>
+    and its leaf does not wither." <br> _- Psalm 1:3a_
 
 
