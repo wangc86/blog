@@ -80,7 +80,7 @@ students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 
 | Date | Topic | Homework | Reading | 
 | ---  | --- | --- | --- |
-| Feb 25 | <span style="color:brown">The Real-Time Environment</span> | Homework 0 | [A] Chapter 1 | 
+| Feb 25 | <span style="color:brown">The Real-Time Environment</span> ([note1](https://github.com/wangc86/csc9006/blob/master/lecture00.pdf); [note2](https://github.com/wangc86/csc9006/blob/master/lecture01.pdf)) | [Homework 0](https://github.com/wangc86/csc9006/blob/master/hw0.pdf) | [A] Chapter 1 | 
 | Mar 04 | <span style="color:brown">Real-Time Operating Systems</span> | Homework 1 | [A] Chapter 9 | 
 | Mar 11 | <span style="color:brown">Real-Time Scheduling (1)</span> | | [A] Chapter 10 | 
 | Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | Homework 2 | [A] Chapter 10 |
