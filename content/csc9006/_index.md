@@ -128,15 +128,21 @@ students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 
 [11] D. Seto, B. Krogh, L. Sha, and A. Chutinan. (1998, June). _The Simplex Architecture for Safe Online Control System Upgrades_. In Proceedings of the 1998 American Control Conference. ACC (IEEE Cat. No. 98CH36207) (Vol. 6, pp. 3504-3508). IEEE.
 
-[12] [A quick introduction to callback functions](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+[12] [A quick introduction to callback functions](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function).
 
-[13] [An introduction to TAO's asynchronous messagee handling](https://objectcomputing.com/resources/publications/mnb/an-introduction-to-taos-asynchronous-message-handling)
+[13] [An introduction to TAO's asynchronous messagee handling](https://objectcomputing.com/resources/publications/mnb/an-introduction-to-taos-asynchronous-message-handling).
 
 [14] R. I. Davis .(2014). _A Review of Fixed Priority and EDF Scheduling for Hard Real-Time Uniprocessor Systems_. ACM SIGBED Review, 11(1), 8-19.
 
 [15] R. I. Davis and A. Burns. (2011). _A Survey of Hard Real-Time Scheduling for Multiprocessor Systems_. ACM Computing Surveys (CSUR), 43(4), 1-44.
 
-... more will be added in the semester.
+[16] [What really happened on Mars?](https://www.cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_version.html) by Glenn E. Reeves.
+
+[17] Liu, C. L., & Layland, J. W. (1973). Scheduling algorithms for multiprogramming in a hard-real-time environment. Journal of the ACM (JACM), 20(1), 46-61.
+
+[18] Keshav, S. (2007). How to read a paper. ACM SIGCOMM Computer Communication Review, 37(3), 83-84.
+
+**In most cases, you can find a PDF copy of each referenced paper via [Google Scholar](https://scholar.google.com/). Access them from the NTNU network for the campus authorization.**
 
 ## Accessibility
 <a name="integrity"></a>
