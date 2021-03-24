@@ -78,12 +78,12 @@ and will cover some additional materials.
 For homework assignments and critiques,
 students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 
-| Date | Topic | Homework | Reading | 
+| Date | Topic ([link to lecture notes](https://github.com/wangc86/csc9006/blob/master/lectures)) | Homework | Reading | 
 | ---  | --- | --- | --- |
-| Feb 25 | <span style="color:brown">The Real-Time Environment</span> ([note1](https://github.com/wangc86/csc9006/blob/master/lecture00.pdf); [note2](https://github.com/wangc86/csc9006/blob/master/lecture01.pdf)) | [Homework 0](https://github.com/wangc86/csc9006/blob/master/hw0.pdf) | [A] Chapter 1 | 
-| Mar 04 | <span style="color:brown">Real-Time Operating Systems</span> ([note](https://github.com/wangc86/csc9006/blob/master/lecture02.pdf)) | [Homework 1](https://github.com/wangc86/csc9006/blob/master/hw1.pdf) | [A] Chapter 9 | 
-| Mar 11 | <span style="color:brown">Real-Time Scheduling (1)</span> ([slides/notes](https://github.com/wangc86/csc9006))| | [A] Chapter 10 | 
-| Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> ([slides](https://github.com/wangc86/csc9006)) | [Homework 2](https://github.com/wangc86/csc9006/blob/master/homework%202%20resources/hw2.pdf);<br>[Critique1](https://github.com/wangc86/csc9006/blob/master/critique1.pdf) | [A] Chapter 10 |
+| Feb 25 | <span style="color:brown">The Real-Time Environment</span> | [Homework 0](https://github.com/wangc86/csc9006/blob/master/hw0.pdf) | [A] Chapter 1 | 
+| Mar 04 | <span style="color:brown">Real-Time Operating Systems</span> | [Homework 1](https://github.com/wangc86/csc9006/blob/master/hw1.pdf) | [A] Chapter 9 | 
+| Mar 11 | <span style="color:brown">Real-Time Scheduling (1)</span> | | [A] Chapter 10 | 
+| Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | [Homework 2](https://github.com/wangc86/csc9006/blob/master/homework%202%20resources/hw2.pdf);<br>[Critique1](https://github.com/wangc86/csc9006/blob/master/critique1.pdf) | [A] Chapter 10 |
 | Mar 25 | <span style="color:green">Simplicity and The Notion of Time</span> | Critique 1 Due | [A] Chapters 2 and 3 |
 | Apr 01 | (spring break) | Homework 3 |  |
 | Apr 08 | <span style="color:green">Real-Time Model</span> |  | [A] Chapter 4 |
