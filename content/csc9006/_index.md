@@ -85,7 +85,7 @@ students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 | Mar 11 | <span style="color:brown">Real-Time Scheduling (1)</span> | | [A] Chapter 10 | 
 | Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | [Homework 2](https://github.com/wangc86/csc9006/blob/master/homework%202%20resources/hw2.pdf);<br>[Critique1](https://github.com/wangc86/csc9006/blob/master/critique1.pdf) | [A] Chapter 10 |
 | Mar 25 | <span style="color:green">Simplicity and The Notion of Time</span> | Critique 1 Due | [A] Chapters 2 and 3 |
-| Apr 01 | (spring break) | Homework 3 |  |
+| Apr 01 | (spring break) | [Homework 3](https://github.com/wangc86/csc9006/blob/master/homework%203%20resources/hw3.pdf) |  |
 | Apr 08 | <span style="color:green">Real-Time Model</span> |  | [A] Chapter 4 |
 | Apr 15 | <span style="color:green">Temporal Relations</span> | Homework 4 | [A] Chapter 5 |
 | Apr 22 | <span style="color:blue">Dependability</span> | | [A] Chapter 6 |
