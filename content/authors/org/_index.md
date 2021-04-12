@@ -33,7 +33,7 @@ user_groups:
 
 # News
 
-* <span style="color:green">[Webinar]</span> [2021 The 5th Annual Symposium of Taiwanese Scholar Association in St. Louis](https://tsastlorg.wixsite.com/2021symposium).  
+* <span style="color:green">[Webinar]</span> [2021 The 5th Annual Symposium of Taiwanese Scholar Association in St. Louis](https://tsastlorg.wixsite.com/2021symposium). <span style="color:red">Beware of the timezone difference!</span> ([convert timezone](https://www.worldtimebuddy.com/cdt-to-taiwan-taipei))  
 * Congratulations to 余承恩, 梅志碩, 鍾尚值, and 林政佑 for their research posters being accepted at [2021 ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)](https://conferences.computer.org/iotDI/2021/index.html)!  
 * <span style="color:green">[Slides]</span> [Our research presentation at the CPS-IoT Week 2020](pdf/iotdi20-arrec-presentation.pdf).  
 
