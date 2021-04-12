@@ -50,7 +50,7 @@ local_business_type = ""
 org_name = "Networked Cyber-Physical Systems Laboratory"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "The Networked Cyber-Physical Systems Lab (NCL) was founded in 2019 at National Taiwan Normal University."
 
 ############################
 ## Site Features
@@ -95,14 +95,14 @@ phone = "+886 02-7749-6691"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "116 台北市文山區汀州路四段88號, 應用科學大樓, 國立台灣師範大學資訊工程學系", city = "", region = "(公館校區)", postcode = "", country = "Taiwan (R.O.C.)", country_code = "TW"}
+address = {street = "No.88, Sec. 4, Tingzhou Rd., Wenshan Dist.", city = "Taipei City", region = "", postcode = "116", country = "Taiwan (R.O.C.)", country_code = "TW"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "25.006637", longitude = "121.535779"}
 
 # Directions for visitors to locate you.
-directions = "Enter the \"Applied Science Building\" and take the stairs to Office 511 on Floor 5"
+directions = "Enter the \"Applied Science Building\" and take the stairs to Office 511 on the fifth floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
