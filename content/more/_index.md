@@ -18,3 +18,7 @@ and humble spirit, to revive the
 spirit of the humble, and to revive  
 the heart of the contrite ones."  
 -- Isaiah 57:15
+
+"Salvation belongs unto the Lord:
+your blessing is upon your people."
+-- Psalm 3:8
