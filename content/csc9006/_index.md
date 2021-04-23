@@ -83,18 +83,18 @@ students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 | Feb 25 | <span style="color:brown">The Real-Time Environment</span> | [Homework 0](https://github.com/wangc86/csc9006/blob/master/hw0.pdf) | [A] Chapter 1 | 
 | Mar 04 | <span style="color:brown">Real-Time Operating Systems</span> | [Homework 1](https://github.com/wangc86/csc9006/blob/master/hw1.pdf) | [A] Chapter 9 | 
 | Mar 11 | <span style="color:brown">Real-Time Scheduling (1)</span> | | [A] Chapter 10 | 
-| Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | [Homework 2](https://github.com/wangc86/csc9006/blob/master/homework%202%20resources/hw2.pdf);<br>[Critique1](https://github.com/wangc86/csc9006/blob/master/critique1.pdf) | [A] Chapter 10 |
-| Mar 25 | <span style="color:green">Simplicity and The Notion of Time</span> | Critique 1 Due | [A] Chapters 2 and 3 |
+| Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | [Homework 2](https://github.com/wangc86/csc9006/blob/master/homework%202%20resources/hw2.pdf);<br>[Critique 1](https://github.com/wangc86/csc9006/blob/master/critique1.pdf) | [A] Chapter 10 |
+| Mar 25 | <span style="color:green">Simplicity and The Notion of Time</span> |  | [A] Chapters 2 and 3 |
 | Apr 01 | (spring break) | [Homework 3](https://github.com/wangc86/csc9006/blob/master/homework%203%20resources/hw3.pdf) |  |
 | Apr 08 | <span style="color:green">Real-Time Model</span> |  | [A] Chapter 4 |
-| Apr 15 | <span style="color:green">Temporal Relations</span> | Homework 4 | [A] Chapter 5 |
-| Apr 22 | <span style="color:blue">Dependability</span> | | [A] Chapter 6 |
+| Apr 15 | <span style="color:green">Temporal Relations</span> |  | [A] Chapter 5 |
+| Apr 22 | <span style="color:blue">Dependability</span> | [Homework 4](https://github.com/wangc86/csc9006/blob/master/hw4.pdf);<br>[Critique 2](https://github.com/wangc86/csc9006/blob/master/critique2.pdf) | [A] Chapter 6 |
 | Apr 29 | <span style="color:blue">Real-Time Communication</span> | Homework 5 | [A] Chapter 7 |
-| May 06 | <span style="color:blue">Patterns for Building Real-Time Software</span> | Critique 2 Due | [12] [13] |
+| May 06 | <span style="color:blue">Patterns for Building Real-Time Software</span> |  | [12] [13] |
 | May 13 | <span style="color:blue">Fault-Tolerant Real-Time Edge Computing</span> | Homework 6 | [6] [9] [10]|
 | May 20 | <span style="color:red">System Design</span> | | [A] Chapter 11 |
 | May 27 | <span style="color:red">Validation</span> | Homework 7 | [A] Chapter 12; [11] |
-| Jun 03 | <span style="color:red">Internet of Things</span> | Critique 3 Due | [A] Chapter 13 |
+| Jun 03 | <span style="color:red">Internet of Things</span> | Critique 3 | [A] Chapter 13 |
 | Jun 10 | <span style="color:red">The Time-Triggered Archtecture</span> | Homework 8 | [A] Chapter 14 <a name="resource"></a>|
 | Jun 17 | <span style="color:black">(Workshop)</span> |  |  |
 | Jul 24 | <span style="color:black">(Workshop)</span> |  |  |
