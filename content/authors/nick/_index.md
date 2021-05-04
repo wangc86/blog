@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 林政佑 Nick Lin
+title: 林政佑 Cheng You Lin
 
 # Username (this should match the folder name)
 authors:

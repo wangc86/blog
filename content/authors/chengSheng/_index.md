@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 彭成聖 ChengSheng Peng
+title: 彭成聖 Cheng-Sheng Peng
 
 # Username (this should match the folder name)
 authors:

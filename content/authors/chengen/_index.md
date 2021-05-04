@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 余承恩 Chengen Yu
+title: 余承恩 Cheng-En Yu
 
 # Username (this should match the folder name)
 authors:

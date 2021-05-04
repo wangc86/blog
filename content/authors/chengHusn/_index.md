@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 莊承勳 Cheng-Husn
+title: 莊承勳 Cheng-Hsun Chuang
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李奕萱 Yih-Shiuan Lee
+title: 李奕萱 Yih Shiuan Lee
 
 # Username (this should match the folder name)
 authors:

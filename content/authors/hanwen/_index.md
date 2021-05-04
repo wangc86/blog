@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 鍾尚值 Shang Chih Chung
+title: 劉瀚文 Han-wen Liu
 
 # Username (this should match the folder name)
 authors:
-- shang
+- hanwen
 
-weight: 13
+weight: 19
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 梅志碩 Eric Mei
+title: 梅志碩 Chih-Shuo Mei
 
 # Username (this should match the folder name)
 authors:
