@@ -92,12 +92,12 @@ students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 | Apr 29 | <span style="color:blue">Real-Time Communication</span> | | [A] Chapter 7 |
 | May 06 | <span style="color:blue">Patterns for Building Real-Time Software</span> | [Homework 5](https://github.com/wangc86/csc9006/blob/master/hw5.pdf) | [12] [13] |
 | May 13 | <span style="color:blue">Fault-Tolerant Real-Time Edge Computing</span> | | [6] [9] [10]|
-| May 20 | <span style="color:red">System Design</span> | Homework 6 | [A] Chapter 11 |
+| May 20 | <span style="color:red">System Design</span> | [Homework 6](https://github.com/wangc86/csc9006/blob/master/hw6.pdf) | [A] Chapter 11 |
 | May 27 | <span style="color:red">Validation</span> | Homework 7 | [A] Chapter 12; [11] |
 | Jun 03 | <span style="color:red">Internet of Things</span> | Critique 3 | [A] Chapter 13 |
 | Jun 10 | <span style="color:red">The Time-Triggered Archtecture</span> | Homework 8 | [A] Chapter 14 <a name="resource"></a>|
-| Jun 17 | <span style="color:black">(Workshop)</span> |  |  |
-| Jul 24 | <span style="color:black">(Workshop)</span> |  |  |
+| Jun 17 | <span style="color:black">(supplementary materials)</span> |  |  |
+| Jul 24 | <span style="color:black">(supplementary materials)</span> |  |  |
 
 ## Textbooks and References
 
