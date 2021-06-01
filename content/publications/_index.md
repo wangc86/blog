@@ -17,13 +17,14 @@ comments: false  # Show comments?
 - C. Chou, K. Ssu, H. C. Jiau, W. Wang and C. Wang, "A Dead-End Free Topology Maintenance Protocol for Geographic Forwarding in Wireless Sensor Networks," in IEEE Transactions on Computers, vol. 60, no. 11, pp. 1610-1621, Nov. 2011, doi: 10.1109/TC.2010.208. ([author copy](tc11.pdf))
 
 ## Conference Papers
-- Lin, C-Y., & Wang, C. (2021). Poster Abstract: Benefits of GPU-CPU Task Replacement for Edge Device and Platform. Accepted for publication in 2021 ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI).
+- Cheng-You Lin and Chao Wang. 2021. Benefits of GPU-CPU Task Replacement for Edge Device and Platform: Poster Abstract. In <i>Proceedings of the International Conference on Internet-of-Things Design and Implementation</i> (<i>IoTDI '21</i>). Association for Computing Machinery, New York, NY, USA, 249–250. DOI:https://doi.org/10.1145/3450268.3453505
+([author copy](iotdi21posters-final2.pdf))
 
-- Yu, C-E., & Wang, C. (2021). Poster Abstract: Enabling a Flexible and Sustainable Smart Campus Networking Backbone Using LoRaWAN. Accepted for publication in 2021 ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI).
+- Cheng-En Yu and Chao Wang. 2021. Enabling a Flexible and Sustainable Smart Campus Networking Backbone Using LoRaWAN: Poster Abstract. In <i>Proceedings of the International Conference on Internet-of-Things Design and Implementation</i> (<i>IoTDI '21</i>). Association for Computing Machinery, New York, NY, USA, 251–252. DOI:https://doi.org/10.1145/3450268.3453506 ([author copy](iotdi21posters-final3.pdf))
 
-- Mei, C-S., & Wang, C. (2021). Poster Abstract: Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications. Accepted for publication in 2021 ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI).
+- Chih-Shuo Mei and Chao Wang. 2021. Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications: Poster Abstract. In <i>Proceedings of the International Conference on Internet-of-Things Design and Implementation</i> (<i>IoTDI '21</i>). Association for Computing Machinery, New York, NY, USA, 253–254. DOI:https://doi.org/10.1145/3450268.3453507 ([author copy](iotdi21posters-final4.pdf))
 
-- Chung, S. C., & Wang, C. (2021). Poster Abstract: Design of an Energy-Efficient End-to-End Messaging Protocol for Smart Cities. Accepted for publication in 2021 ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI).
+- Shang Chih Chung and Chao Wang. 2021. Design of an Energy-Efficient End-to-End Messaging Protocol for Smart Cities: Poster Abstract. In <i>Proceedings of the International Conference on Internet-of-Things Design and Implementation</i> (<i>IoTDI '21</i>). Association for Computing Machinery, New York, NY, USA, 255–256. DOI:https://doi.org/10.1145/3450268.3453508 ([author copy](iotdi21posters-final5.pdf))
 
 - Wang, C., Gill, C., & Lu, C. (2020, April). Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things. In 2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation (IoTDI) (pp. 128-134). IEEE. ([author copy](iotdi20.pdf); [slides](iotdi20-arrec-presentation.pdf)).
 
