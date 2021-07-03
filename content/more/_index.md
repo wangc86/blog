@@ -9,8 +9,8 @@ comments: false  # Show comments?
 
 ---
 
-"For thus says the high and lofty  
-One that inhabits eternity,  
+"For thus says the high and lofty One  
+that inhabits eternity,  
 whose name is Holy;  
 I dwell in the high and holy place,  
 with him also that is of a contrite  
@@ -19,6 +19,6 @@ spirit of the humble, and to revive
 the heart of the contrite ones."  
 -- Isaiah 57:15
 
-"Salvation belongs unto the Lord:
-your blessing is upon your people."
+"Salvation belongs unto the Lord:  
+your blessing is upon your people."  
 -- Psalm 3:8

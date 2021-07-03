@@ -6,13 +6,13 @@ title: 陳治瑋 David Cheng
 authors:
 - david
 
-weight: 10
+weight: 9999
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: 2020 (M.S. Program)
 
 # Organizations/Affiliations
 organizations:

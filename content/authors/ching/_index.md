@@ -4,7 +4,7 @@ title: 鍾佳欽 Chia-Chin Chung
 
 # Username (this should match the folder name)
 authors:
-- ching
+- ccchung
 
 weight: 18
 
@@ -74,6 +74,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Graduate Students
 # - Visitors
 ---
 

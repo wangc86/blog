@@ -16,7 +16,8 @@ title = "NCL Members"
   #               "Researchers",
   #               "Visitors",
   user_groups = ["Principal Investigator",
-                 "Researchers",
+                 "Graduate Students",
+                 "Undergraduate Students",
                  "Alumni"]
 
 [design]
