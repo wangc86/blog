@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 曾翊萱 Yi-Hsuan Tseng
+title: 曾翊瑄 Yi-Hsuan Tseng
 
 # Username (this should match the folder name)
 authors:

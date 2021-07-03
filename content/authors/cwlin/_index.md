@@ -12,7 +12,7 @@ weight: 9997
 superuser: false
 
 # Role/position
-role: 2020 (B.S. Program)
+role: 2020 (undergraduate research project)
 
 # Organizations/Affiliations
 organizations:
