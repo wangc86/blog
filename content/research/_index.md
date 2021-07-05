@@ -1,5 +1,5 @@
 ---
-title: Research Publications
+title: Research at NCL
 date: "2020-02-22"
 
 reading_time: false  # Show estimated reading time?
@@ -8,6 +8,11 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
+At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), a reasoned integration of computing and environment, for the joy of re-discoverying how things may work together.
+
+Take a look at our research CV ([English](NCL_intro_english.pdf), [Mandarin](NCL_intro_mandarin.pdf)).
+
+# Publications
 
 ## Journal Papers
 

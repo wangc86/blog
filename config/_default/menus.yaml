@@ -10,8 +10,8 @@ main:
   - name: Team
     url: 'team'
     weight: 20
-  - name: Publications
-    url: 'publications'
+  - name: Research
+    url: 'research'
     weight: 30
   - name: Wiki
     url: 'https://github.com/lawrence870521/NCL/wiki'
