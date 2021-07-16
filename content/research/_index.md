@@ -8,7 +8,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), a reasoned integration of computing and environment, for the purpose of serving our society, and for the joy of re-discovering how things may work together. Take a look at our research CV ([English](NCL_intro_english.pdf), [Mandarin](NCL_intro_mandarin.pdf)).
+At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), for the service of our society, and for the joy of re-discovering how things may work together. Take a look at our research CV ([English](NCL_intro_english.pdf), [Mandarin](NCL_intro_mandarin.pdf)).
 
 # Publications
 

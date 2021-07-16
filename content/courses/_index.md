@@ -33,3 +33,5 @@ comments: false  # Show comments?
 ### 資訊系統專論 (一)  Special Topic: Information Systems (1) (CSC0065)
 * [Fall 2020](../csc0065)
 
+### 通識課程：台灣教育  Education in Taiwan (OSUG528)
+* Fall 2021 (TBA)
