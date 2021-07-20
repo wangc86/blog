@@ -13,17 +13,17 @@ comments: false  # Show comments?
 ## Courses Offered at NTNU
 
 ### 基礎電子學  Basic Electronics (CSU0007)
-* Fall 2021 (TBA)
-* [Fall 2020](../csu0007)
+* [Fall 2021](../csu0007)
+* [Fall 2020](../csu0007_fall2020)
 * [Spring 2020](../csu0007_spring2020)
 
 ### 基礎電子學實驗  Basic Electronics Laboratory (CSU0008)
-* Fall 2021 (TBA)
-* [Fall 2020](../csu0008)
+* [Fall 2021](../csu0008)
+* [Fall 2020](../csu0008_fall2020)
 
 ### 資料通訊  Data Communication (CSC0056)
-* Fall 2021 (TBA)
-* [Fall 2020](../csc0056)
+* [Fall 2021](../csc0056)
+* [Fall 2020](../csc0056_fall2020)
 * [Fall 2019](../csc0056_fall2019)
 
 ### 即時系統  Real-Time Systems (CSC9006)
@@ -34,4 +34,4 @@ comments: false  # Show comments?
 * [Fall 2020](../csc0065)
 
 ### 通識課程：台灣教育  Education in Taiwan (OSUG528)
-* Fall 2021 (TBA)
+* Fall 2021
