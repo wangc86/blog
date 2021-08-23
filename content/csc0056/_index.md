@@ -38,7 +38,7 @@ In particular, we will
 * learn to work with a cloud platform (Amazon AWS as an example); and
 * learn to do critical study on scientific papers.
 
-Starting at the 2021 fall semester, this course is offered as a [hybrid course (數位課程)](https://www.co.ntnu.edu.tw/): the lectures are divided into three categories: <span style="color:green">asynchronous online</span> (learn at your own pace), <span style="color:red">synchronous online</span> (real-time remote class), and <span style="color:blue">traditional face-to-face</span> (i.e., come). See the course schedule below for detail.
+In the 2021 fall semester, this course is structured as a hybrid course (數位課程) and is also offered on [Taiwan Online Campus](https://toc.co.ntnu.edu.tw/). The lectures are divided into three categories: <span style="color:green">asynchronous online</span> (learn at your own pace), <span style="color:red">synchronous online</span> (real-time remote class), and <span style="color:blue">traditional face-to-face</span> (i.e., come). See the course schedule below for detail.
 
 Such a hybrid course is new, and to see how we may improve learning experience, we'd like to collect course-related activity data as well as students' comments. Therefore, most of the course materials will be posted on [Moodle](https://moodle.ntnu.edu.tw/), since it is possible to trace online activities there (e.g., the number of clicks/watches for each subject).
 
