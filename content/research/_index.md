@@ -39,8 +39,14 @@ At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cy
 * Wang, C., & Ssu, K-F. (2010, April). A distributed collision-free low-latency link scheduling scheme in wireless sensor networks. In 2010 IEEE Wireless Communication and Networking Conference (pp. 1-6). IEEE. ([author copy](wcnc10.pdf))
 
 ## PhD Dissertation
-* Wang, Chao (2019). Real-Time Reliable Middleware for Industrial Internet-of-Things. ([link](https://openscholarship.wustl.edu/eng_etds/459/))
+* Wang, Chao (2019). Real-Time Reliable Middleware for Industrial Internet-of-Things. Washington University in St. Louis. ([link](https://openscholarship.wustl.edu/eng_etds/459/))
 
 ## Master Thesis
-* Wang, Chao (2010). Low-Latency Link Scheduling in Wireless Sensor Networks. ([link](http://etds.lib.ncku.edu.tw/etdservice/view_metadata?etdun=U0026-0607201000151100)) (For the corrected version of the proofs in Chapter 5, see _Yang, C-H., Ssu, K-F. and Wang, C. (2018) 'Effects of vertex insertion on local rescheduling in wireless sensor networks', Int. J. Ad Hoc and Ubiquitous Computing, Vol. 27, No. 3, pp.195–209._)
+* Lin, Cheng-You (2021). Cyber-Physical Systems Integration for Data Reuse and Tasks Replacements. National Taiwan Normal University.
+   
+* Mei, Chih-Shuo (2021). Energy Efficiency and Timeliness in Model Training for AIoT Applications. National Taiwan Normal University.
+
+* Chung, Shang Chih (2021). A Real-Time Energy-Efficient End-to-End Messaging Architecture for Industrial Internet-of-Things Applications. National Taiwan Normal University.
+
+* Wang, Chao (2010). Low-Latency Link Scheduling in Wireless Sensor Networks. National Cheng Kung University. ([link](http://etds.lib.ncku.edu.tw/etdservice/view_metadata?etdun=U0026-0607201000151100)) (For the corrected version of the proofs in Chapter 5, see _Yang, C-H., Ssu, K-F. and Wang, C. (2018) 'Effects of vertex insertion on local rescheduling in wireless sensor networks', Int. J. Ad Hoc and Ubiquitous Computing, Vol. 27, No. 3, pp.195–209._)
 

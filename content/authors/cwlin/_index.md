@@ -12,7 +12,7 @@ weight: 9997
 superuser: false
 
 # Role/position
-role: 2020 (undergraduate research project)
+role: Undergraduate research project, 2020
 
 # Organizations/Affiliations
 organizations:

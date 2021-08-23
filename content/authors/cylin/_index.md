@@ -12,7 +12,8 @@ weight: 14
 superuser: false
 
 # Role/position
-role: M.S. Student
+#role: M.S. Student
+role: M.S. in Computer Science, 2021
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +75,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Students
+#- Graduate Students
+- Alumni
 # - Visitors
 ---
 

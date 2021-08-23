@@ -1,19 +1,18 @@
 ---
 # Display name
-title: 鍾尚值 Shang Chih Chung
+title: 許庭瑋
 
 # Username (this should match the folder name)
 authors:
-- scchung
+- tmp
 
-weight: 13
+weight: 57
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: M.S. Student
-role: M.S. in Computer Science, 2021
+role: Undergraduate research project
 
 # Organizations/Affiliations
 organizations:
@@ -75,8 +74,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-#- Graduate Students
-- Alumni
+- Undergraduate Students
+#- Alumni
 # - Visitors
 ---
 

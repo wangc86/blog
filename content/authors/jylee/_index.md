@@ -12,7 +12,7 @@ weight: 51
 superuser: false
 
 # Role/position
-role: B.S. Student
+role: Undergraduate research project, 2020--2021
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Undergraduate Students
+#- Undergraduate Students
+- Alumni
 # - Visitors
 ---
 
