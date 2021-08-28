@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 詹力彥
+title: 李彥儒 Alex Lee
 
 # Username (this should match the folder name)
 authors:
 - tmp
 
-weight: 55
+weight: 56
 
 # Is this the primary user of the site?
 superuser: false

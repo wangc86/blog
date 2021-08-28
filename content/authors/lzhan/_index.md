@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 彭建霖
+title: 詹力彥 Liyan Zhan
 
 # Username (this should match the folder name)
 authors:
 - tmp
 
-weight: 53
+weight: 55
 
 # Is this the primary user of the site?
 superuser: false
