@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 許庭瑋
+title: 許庭瑋 Ting-Wei Hsu
 
 # Username (this should match the folder name)
 authors:
-- tmp
+- twhsu
 
 weight: 57
 
