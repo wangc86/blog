@@ -10,7 +10,8 @@ comments: false  # Show comments?
 ---
 ![NTNU logo](../../img/ntnu_logo.png)
 
-## Courses Offered at NTNU
+"教育不是灌輸，而是點燃火焰。"  
+-- 蘇格拉底
 
 ### 基礎電子學  Basic Electronics (CSU0007)
 * [Fall 2021](../csu0007)
