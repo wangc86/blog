@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 林士傑
+title: 林士傑 Shih-Jie Lin
 
 # Username (this should match the folder name)
 authors:
-- tmp
+- sjlin
 
 weight: 54
 
