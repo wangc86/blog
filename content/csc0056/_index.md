@@ -12,10 +12,11 @@ math: true
 
 **Course Name:** CSC0056 Data Communication 資料通訊 <span style="color:red">(Fall 2021)</span>  
 **Instructor:** Chao Wang 王超  
-**Course Meetings:** Mondays 14:20 - 17:20 (mostly online, and on some selected dates in room 001 in the Gongguan-Campus Library; see the schedule below)  
-**Office Hours:** Wednesdays and Thursdays, 2-4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
-**Midterm Exam:** Nov 9, Monday 9:10 - 12:10  
-**Final Exam:** Jan 11, Monday 9:10 - 12:10  
+**Teaching Assistant:** Cheng-Hsun Chuang 莊承勳  
+**Course Meetings:** Mondays 14:20--17:20 (mostly online, and on some selected dates in room 001 in the Gongguan-Campus Library; see the schedule below)  
+**Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
+**Midterm Exam:** Nov 9, Monday 9:10--12:10  
+**Final Exam:** Jan 11, Monday 9:10--12:10  
 
 This course is offered _in English_ (with Mandarin support). 此門課程為全英語授課 (配合中文輔助).
 
@@ -84,7 +85,7 @@ We will pick materials from the following textbooks and references:
 
 **Textbook:**
 
-[1] Harchol-Balter, Mor. _Performance modeling and design of computer systems: queueing theory in action._ Cambridge University Press, 2013. ISBN 9781107027503. ([Read it at NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2FtPerformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputing%2Bsystems%2Ftperformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputing%2Bsystems%2F-3%252C0%252C0%252CB%2Fframeset%26FF%3Dtperformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputer%2Bsystems%2Bqueueing%2Btheory%2Bin%2Baction%261%252C1%252C%2Findexsort%3D-))
+[1] Harchol-Balter, Mor. _Performance modeling and design of computer systems: queueing theory in action._ Cambridge University Press, 2013. ISBN 9781107027503. ([Read it at NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2FtPerformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputing%2Bsystems%2Ftperformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputing%2Bsystems%2F-3%252C0%252C0%252CB%2Fframeset%26FF%3Dtperformance%2Bmodeling%2Band%2Bdesign%2Bof%2Bcomputer%2Bsystems%2Bqueueing%2Btheory%2Bin%2Baction%261%252C1%252C%2Findexsort%3D-). Our library also purchased an e-copy; [click here](https://doi.org/10.1017/CBO9781139226424) via campus network.)
 
 [2] Bertsekas, Dimitri and Gallager, Robert. _Data networks (2nd edition)_. Prentice Hall, 1992. ISBN 0132009161. ([Read it at NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?newQuery=true&searchtype=t&search=Data+Networks)) ([author's page](http://web.mit.edu/dimitrib/www/datanets.html))
 

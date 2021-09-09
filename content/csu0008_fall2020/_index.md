@@ -12,6 +12,7 @@ math: true
 
 **Course Name:** CSU0008 Basic Electronics Laboratory 基礎電子學實驗 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** 王超  
+**Teaching Assistant:** 林政佑  
 **Course Meetings:** 每週二 10:20--12:10 @ 公館校區 C208  
 **Office Hours:** 每週三週五, 8-10am @ 公館校區應用科學大樓 511, or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** N/A  
