@@ -109,6 +109,8 @@ We will pick materials from the following textbooks and references:
 
 [8] Chao Wang, Christopher Gill, and Chenyang Lu, _FRAME: Fault Tolerant and Real-Time Messaging for Edge Computing,_ 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS), Dallas, TX, USA, 2019, pp. 976-985, doi: 10.1109/ICDCS.2019.00101. ([link](https://ieeexplore.ieee.org/abstract/document/8884849))
 
+[9] Ho, Yao-Hua; Tai, Yun-Juo; Chen, Ling-Jyh. 2021. "COVID-19 Pandemic Analysis for a Country’s Ability to Control the Outbreak Using Little’s Law: Infodemiology Approach" Sustainability 13, no. 10: 5628. https://doi.org/10.3390/su13105628
+
 <a name="accessibility"></a>
 
 ## Accessibility
