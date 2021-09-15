@@ -1,27 +1,49 @@
+# Individual meetings
+* Tuesdays: Po-Hsuan, Cheng-Sheng, Guo-Hao, Han-Wen
+* Wednesdays: Shao-Qun, Ting-Wei, Yi-Hsuan
+* Thursdays: Yih Shiuan, Cheng-Hsun, Chia-Chin
+* By appointment: cw@ntnu.edu.tw
+
+# Group meetings
+## Schedule of presentation:  
+Cheng-Sheng $\rightarrow$ Yih Shiuan $\rightarrow$ Cheng-Hsun  
+$\rightarrow$ Han-Wen $\rightarrow$ Chia-Chin $\rightarrow$ Ting-Wei  
+$\rightarrow$ Shao-Qun $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan  
+$\rightarrow$ Guo-Hao
+
+
+## 2021/09/17 
+> Presenters: Cheng-Sheng and Chia-Chin
+* Cheng-Sheng: S. Chamanian, H. Uluşan, Özge Zorlu, S. Baghaee, E. Uysal-
+Biyikoglu, and H. Külah, ``Wearable battery-less wireless sensor
+network with electromagnetic energy harvesting system,'' Sensors and
+Actuators A: Physical, vol. 249, pp. 77–84, 2016.
+* Chia-Chin: Kevin Bürstinghaus-Steinbach, Christoph Krauß, Ruben Niederhagen, and Michael Schneider. 2020. "Post-Quantum TLS on Embedded Systems: Integrating and Evaluating Kyber and SPHINCS+ with mbed TLS". In Proceedings of the 15th ACM Asia Conference on Computer and Communications Security (ASIA CCS '20). Association for Computing Machinery, New York, NY, USA, 841–852.
+
 ## 2021/09/03 
 > Presenters: Cheng-Hsun and Han-Wan
 * Cheng-Hsun: Sumukh Marathe, Akshay Nambi, Manohar Swaminathan, and Ronak Sutaria. 2021. CurrentSense: A novel approach for fault and drift detection in environmental IoT sensors. Proceedings of the International Conference on Internet-of-Things Design and Implementation. Association for Computing Machinery, New York, NY, USA, 93–105. DOI:https://doi.org/10.1145/3450268.3453535
-* Han-Wan: Y. Ge, Y. Wu, L. Zeng, H. Zu, R. Yu and Q. Han, "[Vehicle Density Oriented V2V Field Test Architecture and Test Procedure Design](https://docs.google.com/presentation/d/16Mx_mhi4gt8WhLmcIiPpI6N5V3eJJnyO/edit?usp=sharing&ouid=118126110288719123578&rtpof=true&sd=true)" 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021, pp. 1-5, doi: 10.1109/VTC2021-Spring51267.2021.9448687.
+* Han-Wan: Y. Ge, Y. Wu, L. Zeng, H. Zu, R. Yu and Q. Han, "Vehicle Density Oriented V2V Field Test Architecture and Test Procedure Design", 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021, pp. 1-5, doi: 10.1109/VTC2021-Spring51267.2021.9448687.
 
 ## 2021/08/13 
 > Presenters: Cheng-En and Yih Shiuan
 * Cheng-En : Introduction to LoRaWAN and testbed demo.
-* Yih Shiuan : Xuan Hieu Nguyen, Minh Phuong Nguyen, "[Mathematical modeling of photovoltaic cell/module/arrays with tags in Matlab/Simulink](https://docs.google.com/presentation/d/14f24gg6j8tN_zto7AzNQRhSw0dSvLLxr/edit?usp=sharing&ouid=104229850468156799911&rtpof=true&sd=true)", Environmental systems research, Nguyen and Nguyen ﻿Environ Syst Res (2015), DOI 10.1186/s40068-015-0047-9.
+* Yih Shiuan : Xuan Hieu Nguyen, Minh Phuong Nguyen, "Mathematical modeling of photovoltaic cell/module/arrays with tags in Matlab/Simulink", Environmental systems research, Nguyen and Nguyen ﻿Environ Syst Res (2015), DOI 10.1186/s40068-015-0047-9.
 
 ## 2021/08/06 
 > Presenters: Chia-Chin and Cheng-Sheng
-* Cheng-Sheng : "Kwon, K.; Yang, J.; Yoo, Y. [Adaptive Control of the Packet Transmission Period with Solar Energy Harvesting Prediction in Wireless Sensor Networks](https://docs.google.com/presentation/d/1ObkHwHpRPPqpyciqeq28s2hOTp9MCPxp5OEt6TOEjwg/edit?usp=sharing). Sensors 2015, 15, 9741-9755. https://doi.org/10.3390/s150509741"
+* Cheng-Sheng : "Kwon, K.; Yang, J.; Yoo, Y. Adaptive Control of the Packet Transmission Period with Solar Energy Harvesting Prediction in Wireless Sensor Networks. Sensors 2015, 15, 9741-9755. https://doi.org/10.3390/s150509741"
 * Chia-Chin : Master thesis progress - "Implementation of MQTT over TLS using Post-Quantum Cryptography"
 
 ## 2021/07/30 
 > Presenters: Shang Chih and Cheng You
-* Cheng You : Master thesis - "Cyber-Physical Systems Integration for Data Reuse and Tasks Replacements​"
+* Cheng You : Master thesis - "Cyber-Physical Systems Integration for Data Reuse and Tasks Replacements"
 * Shang Chih : Master thesis progress - "A Real-Time Energy-Efficient End-To-End Messaging Architecture for Industrial Internet-of-Things Applications"
 
 ## 2021/07/23 
 > Presenters: Han-Wan and Chih-Shuo 
-* Han-Wan : J. Singh, B. Altinel, C. Bornkessel, R. Stephan and M. A. Hein, "[V2V communication performance of conformal plastic-embedded side-mount antennas investigated with field-operational tests](https://drive.google.com/file/d/1lR96z5x3O9CzqgxqH4ToErqecwbWLo_t/view?usp=sharing)" 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021, pp. 1-5, doi: 10.1109/VTC2021-Spring51267.2021.9448811.
-* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for AIoT Applications​"
+* Han-Wan : J. Singh, B. Altinel, C. Bornkessel, R. Stephan and M. A. Hein, "V2V communication performance of conformal plastic-embedded side-mount antennas investigated with field-operational tests", 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021, pp. 1-5, doi: 10.1109/VTC2021-Spring51267.2021.9448811.
+* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for AIoT Applications"
 
 ## 2021/07/16
 > Presenters: Shang Chih and Cheng-Hsun 
@@ -31,7 +53,7 @@
 ## 2021/07/09
 > Presenters: Cheng-En and Yih Shiuan
 * Yih Shiuan :
- 1. Xavier Guillaud, M.Omar Faruque, Alexandre Teninge, Ali Hasan Hariri, Luigi Vanfretti, Mario Paolone, Venkata Dinavahi, Pinaka Mitra, Georg Lauss, Christian Dufour, Paul Forsyth, Anurag K.Srivastava, Kai Strunz, Thomas Strasser, Ali Davoudi, "[Applications of Real-Time Simulation Technologies in Power and Energy Systems](https://drive.google.com/file/d/1w7965_u2NX0jNKvg9SLs2RENHHl9leSr/view?usp=sharing)", IEEE Power and Energy Technology Systems Journal, VOLUME 2, NO. 3, SEPTEMBER 2015; 
+ 1. Xavier Guillaud, M.Omar Faruque, Alexandre Teninge, Ali Hasan Hariri, Luigi Vanfretti, Mario Paolone, Venkata Dinavahi, Pinaka Mitra, Georg Lauss, Christian Dufour, Paul Forsyth, Anurag K.Srivastava, Kai Strunz, Thomas Strasser, Ali Davoudi, "Applications of Real-Time Simulation Technologies in Power and Energy Systems", IEEE Power and Energy Technology Systems Journal, VOLUME 2, NO. 3, SEPTEMBER 2015; 
  2. Christoph Molitor, Andrea Benigni, Alexander Helmedag, Kan Chen, Davide Calì, Pooyan Jahangiri, Dirk Müller, Antonello Monti, "Multiphysics Test Bed for Renewable Energy Systems in Smart Homes", IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS, VOL. 60, NO. 3, MARCH 2013
 * Cheng-En : Master thesis progress - "Enabling a Flexible and Sustainable Smart Campus Networking Backbone Using LoRaWAN"
 
@@ -41,13 +63,13 @@
 
 ## 2021/06/25
 > Presenters: Chih-Shuo and Han-Wan 
-* Han-Wan: Z. Tian, X. Gao, S. Su and J. Qiu, "[Vcash: A Novel Reputation Framework for Identifying Denial of Traffic Service in Internet of Connected Vehicles](https://drive.google.com/file/d/1CI9G-5xoT02O3uYfcMrwMGCQNkc5ScK-/view?usp=sharing)"in IEEE Internet of Things Journal, vol. 7, no. 5, pp. 3901-3909, May 2020, doi: 10.1109/JIOT.2019.2951620.
-* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications​"
+* Han-Wan : Z. Tian, X. Gao, S. Su and J. Qiu, "Vcash: A Novel Reputation Framework for Identifying Denial of Traffic Service in Internet of Connected Vehicles", in IEEE Internet of Things Journal, vol. 7, no. 5, pp. 3901-3909, May 2020, doi: 10.1109/JIOT.2019.2951620.
+* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications"
 
 ## 2021/06/18
 > Presenters: Shang Chih and Cheng-Hsun 
 * Shang Chih : Master thesis progress - "Design of an Energy-Efficient End-to-End Messaging Protocol for Smart Cities"
-* Cheng-Hsun : M. T. Islam, B. Islam and S. Nirjon, "[Duty-Cycle-Aware Real-Time Scheduling of Wireless Links in Low Power WANs](https://drive.google.com/file/d/15Pwe4PCALFJ284SHW_3IK0KZ8N9fcvl3/view?usp=sharing)"  https://www.cs.unc.edu/techreports/17-003.pdf
+* Cheng-Hsun : Islam, Md Tamzeed, Bashima Islam, and Shahriar Nirjon. "Duty-cycle-aware real-time scheduling of wireless links in low power wans." 2018 14th International Conference on Distributed Computing in Sensor Systems (DCOSS). IEEE, 2018.
 
 ## 2021/06/11
 > Presenters: Cheng You and Yih Shiuan
@@ -80,7 +102,7 @@ C. Delgado, J. M. Sanz and J. Famaey, "On the Feasibility of Battery-Less LoRaWA
 
 ## 2021/04/30
 > Presenters: Chih-Shuo and Cheng-En
-* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications​"
+* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications"
 * Cheng-En : Master thesis progress
 
 ## 2021/04/23
@@ -104,7 +126,7 @@ C. Delgado, J. M. Sanz and J. Famaey, "On the Feasibility of Battery-Less LoRaWA
 ## 2021/03/12
 > Presenters: Chih-Shuo and Chia-Chin
 * Chia-Chin : Master thesis progress
-* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications​"
+* Chih-Shuo : Master thesis progress - "Energy Efficiency and Timeliness in Model Training for Internet-of-Things Applications"
 
 ## 2021/03/05 
 > Presenters: Shang Chih and Cheng-Hsun
