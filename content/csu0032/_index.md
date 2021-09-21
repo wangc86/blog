@@ -25,5 +25,3 @@ Topics that I plan to cover:
 * Applications in Computer Engineering and Cyber-Physical Systems (CPS)
 
 Students who would like to take this course should learn Calculus first.
-
-**Textbook:**
