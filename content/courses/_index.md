@@ -22,6 +22,9 @@ comments: false  # Show comments?
 * [Fall 2021](../csu0008)
 * [Fall 2020](../csu0008_fall2020)
 
+### 工程數學  Engineering Mathematics (CSU0032)
+* [Spring 2022](../csu0032)
+
 ### 資料通訊  Data Communication (CSC0056)
 * [Fall 2021](../csc0056)
 * [Fall 2020](../csc0056_fall2020)

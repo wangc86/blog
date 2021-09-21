@@ -24,7 +24,7 @@ This course is offered _in English_ (with Mandarin support). 此門課程為全�
 
 * [Course Syllabus](#syllabus) <a name="syllabus"></a>
 * [Course Schedule](#schedule)
-* [Textbook and Additional References](#resource)
+* [Textbook, Notes, and Additional References](#resource)
 * [Accessibility](#accessibility)
 * [Academic Integrity](#accessibility)
 * [Homework Assignment](#hw)
@@ -62,19 +62,20 @@ This course is designed for first-year undergraduate students, in particular for
 | 17 |   | Supplementary Topics |  |
 | 18 |   | Supplementary Topics |  |
 
-## Textbook
+## Textbook and Lecture Notes
 <a name="resource"></a>
 
-[1] Agarwal, Anant and Lang, Jeffrey H. _Foundations of Analog and Digital Electronic Circuits._ Morgan Kaufmann; 1 edition (July 18, 2005). ISBN 978-1558607354 **(Required)**
+[1] Agarwal, Anant and Lang, Jeffrey H. _Foundations of Analog and Digital Electronic Circuits._ Morgan Kaufmann; 1 edition (July 18, 2005). ISBN 978-1558607354. **(Required)**
 
 Purchase a copy of the book from [Elsevier](https://www.elsevier.com/books/foundations-of-analog-and-digital-electronic-circuits/agarwal/978-0-08-050681-4), [books.google.com](https://books.google.com.tw/books?id=lGgP7FDEv3AC&printsec=copyright&redir_esc=y#v=onepage&q&f=false), etc. You may also read it at [the NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?newQuery=true&searchtype=t&search=Foundations+of+Analog+and+Digital+Electronic+Circuits).
 
-The updated lecture notes will be posted here.
+Click [here](./p1-p115.pdf) for the lecture notes for this course, revised Sep. 21, 2021.
 
 ## Additional References
 
+* Sedra, Adel S. and Smith, Kenneth C. _Microelectronic Circuits._ Oxford University Press, Inc.; 5th edition. ISBN 978-0195142525. (A solid reference text for advanced study in this field.)
 * [Link](2012.2.pdf) <-- A great introduction to semiconductor science, from the EE department at National Taiwan University.
-* Neamen, Donald A. Semiconductor physics and devices: basic principles. New York, NY: McGraw-Hill. 2012. ([NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2Ftsemiconductor%2Bphysics%2Band%2Bdevices%2Bbasic%2Bprinciples%2B4th%2Bedition%2Bsolution%2Ftsemiconductor%2Bphysics%2Band%2Bdevices%2Bbasic%2Bprinciples%2B%2B%2B%2B%2B%2B%2B%2B4th%2Bedition%2Bsolution%2F-3%252C0%252C0%252CB%2Fexact%26FF%3Dtsemiconductor%2Bphysics%2Band%2Bdevices%2Bbasic%2Bprinciples%261%252C2%252C%2Findexsort%3D-); also, [Google Scholar](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=semiconductor+physics+and+devices+basic+principles+4th+edition+solution&btnG=)) (I personally found this textbook wonderful)
+* Neamen, Donald A. Semiconductor physics and devices: basic principles. New York, NY: McGraw-Hill. 2012. (A great reference for related physics.)
 
 ## Accessibility
 <a name="integrity"></a>
