@@ -18,7 +18,7 @@ math: true
 **Midterm Exam:** Nov 9, Monday 9:10--12:10  
 **Final Exam:** Jan 11, Monday 9:10--12:10  
 
-This course is offered _in English_ (with Mandarin support). 此門課程為全英語授課 (配合中文輔助).
+This course is offered _in English_ (EMI), with Mandarin support. 此門課程為 EMI 全英語授課 (配合中文輔助).
 
 ## Contents
 

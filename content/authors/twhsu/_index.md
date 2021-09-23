@@ -12,7 +12,7 @@ weight: 57
 superuser: false
 
 # Role/position
-role: Undergraduate research project
+role: Messaging middleware
 
 # Organizations/Affiliations
 organizations:

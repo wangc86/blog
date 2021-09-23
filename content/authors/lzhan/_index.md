@@ -12,7 +12,7 @@ weight: 55
 superuser: false
 
 # Role/position
-role: Undergraduate research project
+role: HIL platform
 
 # Organizations/Affiliations
 organizations:

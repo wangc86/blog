@@ -18,7 +18,7 @@ math: true
 **Midterm Exam:** Nov 12, Friday 14:20--16:20, in class  
 **Final Exam:** Jan 7, Friday 14:20--16:20, in class  
 
-This course is offered _in English_ (with Mandarin support). 此門課程為全英語授課 (配合中文輔助).
+This course is offered _in English_ (EMI), with Mandarin support. 此門課程為 EMI 全英語授課 (配合中文輔助).
 
 ## Contents
 
@@ -51,7 +51,7 @@ This course is designed for first-year undergraduate students, in particular for
 | 6 | Oct 29; Nov 2   | Nonlinear Circuits and Basic Analysis | Sec. 4 up to Sec. 4.3 |
 | 7 | Nov 5, 9   | Approximation and The Small-Signal Analysis | Sec. 4.4-4.5 |
 | 8 | Nov 12, 16   | **Midterm Exam on Nov 12**; Exam Review | |
-| 9 | Nov 19, 23   | The Digital Abstraction | Sec. 5 |
+| 9 | Nov 19, 23   | The Digital Abstraction | Chapter 5 |
 | 10 | Nov 26, 30   | The MOSFET Switch | Sec. 6.1-6.8 |
 | 11 | Dec 3, 7   | Amplification: Concepts and Applications | Sec. 6.9 |
 | 12 | Dec 14   | The MOSFET Amplifier | Sec. 7.1-7.6 |

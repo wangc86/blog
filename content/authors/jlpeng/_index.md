@@ -12,7 +12,7 @@ weight: 53
 superuser: false
 
 # Role/position
-role: Undergraduate research project
+role: Real-Time OS
 
 # Organizations/Affiliations
 organizations:

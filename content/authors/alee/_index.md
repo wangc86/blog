@@ -12,7 +12,7 @@ weight: 56
 superuser: false
 
 # Role/position
-role: Undergraduate research project
+role: Smart campus AIoT
 
 # Organizations/Affiliations
 organizations:

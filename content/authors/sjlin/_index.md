@@ -12,7 +12,7 @@ weight: 54
 superuser: false
 
 # Role/position
-role: Undergraduate research project
+role: CPS application
 
 # Organizations/Affiliations
 organizations:
