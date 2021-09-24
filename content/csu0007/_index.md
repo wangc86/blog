@@ -15,8 +15,8 @@ math: true
 **Teaching Assistant:** Shih-Jie Lin 林士傑  
 **Course Meetings:** Tuesdays 9:10--10:00 and Fridays 15:30--17:20, in room E302, Gongguan Campus  
 **Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
-**Midterm Exam:** Nov 12, Friday 14:20--16:20, in class  
-**Final Exam:** Jan 7, Friday 14:20--16:20, in class  
+**Midterm Exam:** Nov 12, Friday 15:30--17:20, in class  
+**Final Exam:** Jan 7, Friday 15:30--17:20, in class  
 
 This course is offered _in English_ (EMI), with Mandarin support. 此門課程為 EMI 全英語授課 (配合中文輔助).
 
