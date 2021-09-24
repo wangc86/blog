@@ -43,7 +43,7 @@ This course is designed for first-year undergraduate students, in particular for
 
 | \#  | Date | Topic | [Reading](#resource) |
 | --- | ---  | --- | --- | 
-| 1 | Sep 24, 28  | The Circuit Abstraction | Chapter 1; Appendix A.1 |
+| 1 | Sep 24, 28  | [The Circuit Abstraction](./csu0007-introduction.pdf) | Chapter 1; Appendix A.1 |
 | 2 | Oct 1, 5  | Resistive Networks | Chapter 2 to Sec. 2.5 |
 | 3 | Oct 8, 12  | The Node Analysis Method | Sec. 3.1-3.3 (except Sec. 3.3.3) |
 | 4 | Oct 15, 19   | Superposition | Sec. 3.5 up to Example 3.16 |
