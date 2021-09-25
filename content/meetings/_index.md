@@ -11,13 +11,17 @@ $\rightarrow$ Han-Wen $\rightarrow$ Chia-Chin $\rightarrow$ Ting-Wei
 $\rightarrow$ Shao-Qun $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan  
 $\rightarrow$ Guo-Hao
 
+([Some candidate papers](./papertoberead))
+
+## 2021/09/27 
+> Presenters: Yih Shiuan and Cheng-En
+* Yih Shiuan: Kanchev, Hristiyan, et al. "Energy management and operational planning of a microgrid with a PV-based active generator for smart grid applications." IEEE transactions on industrial electronics 58.10 (2011): 4583-4592.
+* Cheng-En: Master thesis progress presentation
+
 
 ## 2021/09/17 
 > Presenters: Cheng-Sheng and Chia-Chin
-* Cheng-Sheng: S. Chamanian, H. Uluşan, Özge Zorlu, S. Baghaee, E. Uysal-
-Biyikoglu, and H. Külah, ``Wearable battery-less wireless sensor
-network with electromagnetic energy harvesting system,'' Sensors and
-Actuators A: Physical, vol. 249, pp. 77–84, 2016.
+* Cheng-Sheng: S. Chamanian, H. Uluşan, Özge Zorlu, S. Baghaee, E. Uysal-Biyikoglu, and H. Külah, ``Wearable battery-less wireless sensor network with electromagnetic energy harvesting system,'' Sensors and Actuators A: Physical, vol. 249, pp. 77–84, 2016.
 * Chia-Chin: Kevin Bürstinghaus-Steinbach, Christoph Krauß, Ruben Niederhagen, and Michael Schneider. 2020. "Post-Quantum TLS on Embedded Systems: Integrating and Evaluating Kyber and SPHINCS+ with mbed TLS". In Proceedings of the 15th ACM Asia Conference on Computer and Communications Security (ASIA CCS '20). Association for Computing Machinery, New York, NY, USA, 841–852.
 
 ## 2021/09/03 

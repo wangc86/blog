@@ -33,6 +33,7 @@ user_groups:
 
 # News
 
+* [2021 Embedded Systems Week (ESWEEK'21)](https://esweek.org), October 8-15, virtual conference
 * <span style="color:green">[Webinar]</span> [2021 The 5th Annual Symposium of Taiwanese Scholar Association in St. Louis](https://tsastlorg.wixsite.com/2021symposium). ([video link](https://youtu.be/A28H9H9A0Sg?t=186))  
 * Congratulations to 余承恩, 梅志碩, 鍾尚值, and 林政佑 for their research posters being accepted at [2021 ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)](https://conferences.computer.org/iotDI/2021/index.html)!  
 
