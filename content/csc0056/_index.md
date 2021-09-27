@@ -15,8 +15,8 @@ math: true
 **Teaching Assistant:** Cheng-Hsun Chuang 莊承勳  
 **Course Meetings:** Mondays 14:20--17:20 (mostly online, and on some selected dates in room 001 in the Gongguan-Campus Library; see the schedule below)  
 **Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
-**Midterm Exam:** Nov 9, Monday 9:10--12:10  
-**Final Exam:** Jan 11, Monday 9:10--12:10  
+**Midterm Exam:** Nov 15, in class during the course meeting time  
+**Final Exam:** Jan 10, in class during the course meeting time  
 
 This course is offered _in English_ (EMI), with Mandarin support. 此門課程為 EMI 全英語授課 (配合中文輔助).
 
@@ -58,7 +58,7 @@ Color scheme: green for <span style="color:green">asynchronous online lectures</
 
 | \#  | Date | Topic |
 | --- | ---  | --- |
-| 1 | <span style="color:blue">Sep 27</span> | Course Introduction |
+| 1 | <span style="color:blue">Sep 27</span> | [Course Introduction](csc0056-introduction-annotated.pdf) |
 | 2 | <span style="color:red">Oct 4</span>  | Network Flow Algorithms |
 | 3 | <span style="color:green">Async.</span> | Broker-Based Data Communication |
 | 4 | <span style="color:red">Oct 18</span> | Data Communication Programming Basics |
