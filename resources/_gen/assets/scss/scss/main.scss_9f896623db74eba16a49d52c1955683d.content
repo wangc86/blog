@@ -7188,7 +7188,7 @@ a.text-dark:hover, a.text-dark:focus {
  *  Wowchemy: The Website Builder for Hugo
  *  Designed by @GeorgeCushen
  *  https://wowchemy.com/
- *  License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md
+ *  License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md
  **************************************************/
 /* Wowchemy Helpers */
 /*************************************************
@@ -8534,14 +8534,16 @@ ul.toc-top {
   padding-left: 0.8rem; }
 
 #TableOfContents li {
-  display: block; }
+  display: block;
+  margin-bottom: 8px; }
 
 #TableOfContents li a,
 .toc-top li a {
   display: block;
-  padding: 0.125rem 1.5rem;
+  padding: 0 1.5rem;
   color: rgba(0, 0, 0, 0.65);
-  font-size: 0.7rem; }
+  line-height: 1.75;
+  font-size: 16px; }
 
 .dark #TableOfContents li a,
 .dark .toc-top li a {
@@ -8925,6 +8927,14 @@ html[dir='rtl'] body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
+
+.bg-video {
+  position: absolute;
+  top: 0;
+  max-height: initial; }
+
+.bg-video.flip {
+  transform: rotateY(180deg); }
 
 /* Create a parallax-like scrolling effect on desktop browsers. */
 .parallax {

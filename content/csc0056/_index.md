@@ -13,7 +13,7 @@ math: true
 **Course Name:** CSC0056 Data Communication 資料通訊 <span style="color:red">(Fall 2021)</span>  
 **Instructor:** Chao Wang 王超  
 **Teaching Assistant:** Cheng-Hsun Chuang 莊承勳  
-**Course Meetings:** Mondays 14:20--17:20 (mostly online, and on some selected dates in room 001 in the Gongguan-Campus Library; see the schedule below)  
+**Course Meetings:** Mondays 14:20--17:20 (mostly online, and on some selected dates in <span style="color:red">room S101, Lecture \& Research Building</span>, Gongguan-Campus; see the schedule below)  
 **Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** Nov 15, in class during the course meeting time  
 **Final Exam:** Jan 10, in class during the course meeting time  
