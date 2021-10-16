@@ -13,6 +13,15 @@ $\rightarrow$ Guo-Hao
 
 ([Some candidate papers](./papertoberead))
 
+## 2021/10/18 
+> Presenters: Cheng-En and Cheng-Hsun
+* Cheng-En: Dry run for the Master thesis defense
+* Cheng-Hsun: Master thesis proposal
+
+## 2021/10/11 
+> Presenters: Han-Wen
+* Han-Wen: Liu, Shengzhong, et al. “On removing algorithmic priority inversion from mission-critical machine inference pipelines.” 2020 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2020.
+
 ## 2021/09/27 
 > Presenters: Yih Shiuan and Cheng-En
 * Yih Shiuan: Kanchev, Hristiyan, et al. "Energy management and operational planning of a microgrid with a PV-based active generator for smart grid applications." IEEE transactions on industrial electronics 58.10 (2011): 4583-4592.

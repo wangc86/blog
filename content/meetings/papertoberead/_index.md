@@ -12,7 +12,6 @@ Some candidate papers to study:
 
 * Haoran Li, Chenyang Lu, and Christopher D. Gill. 2021. RT-ZooKeeper: Taming the Recovery Latency of a Coordination Service. In EMSOFT ’21: ACM Transactions on Embedded Computing Systems (TECS), October 10–15, 2021, Virtual. ACM, New York, NY, USA, Article 1, 22 pages. https://doi.org/10.1145/3477034
 * Gunatilaka, Dolvara, and Chenyang Lu. "REACT: an Agile Control Plane for Industrial Wireless Sensor-Actuator Networks." 2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation (IoTDI). IEEE, 2020.
-* Liu, Shengzhong, et al. "On removing algorithmic priority inversion from mission-critical machine inference pipelines." 2020 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2020.
 * G. Hackmann, W. Guo, G. Yan, Z. Sun, C. Lu and S. Dyke, Cyber-Physical Codesign of Distributed Structural Health Monitoring with Wireless Sensor Networks, IEEE Transactions on Parallel and Distributed Systems, 25(1): 63-72, January 2014. (Extended version of the ICCPS'10 paper)
 * Vestal, Steve. "Preemptive scheduling of multi-criticality systems with varying degrees of execution time assurance." 28th IEEE International Real-Time Systems Symposium (RTSS 2007). IEEE, 2007.
 * Liu, Chung Laung, and James W. Layland. "Scheduling algorithms for multiprogramming in a hard-real-time environment." Journal of the ACM (JACM) 20.1 (1973): 46-61.
