@@ -13,6 +13,11 @@ $\rightarrow$ Guo-Hao
 
 ([Some candidate papers](./papertoberead))
 
+## 2021/10/25 
+> Presenters: Chia-Chin and Ting-Wei
+* Chia-Chin: Master thesis research progress
+* Ting-Wei: LAM, Ka-Ho; CHEUNG, Chi-Chung; LEE, Wah-Ching. New RSSI-based LoRa localization algorithms for very noisy outdoor environment. In: 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC). IEEE, 2018. p. 794-799.
+
 ## 2021/10/18 
 > Presenters: Cheng-En and Cheng-Hsun
 * Cheng-En: Dry run for the Master thesis defense
