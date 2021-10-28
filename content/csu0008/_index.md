@@ -48,17 +48,17 @@ math: true
 
 ## Course Schedule
 
-| \#  | Date | Topic | 相關連結 |
+| \#  | Date | Topic |  |
 | --- | ---  | --- | --- | 
 | 1 | Sep 28   | Matlab Onramp |  |  |
 | 2 | Oct 5   | Simulink Onramp |  |
 | 3 | Oct 12   | Simulink Onramp and Basic Simulations |  |
 | 4 | Oct 19   | 基本電路實作、疊加原理 |  |
 | 5 | Oct 26   | Superposition 及雙電源供應器的使用 |  |
-| 6 | Nov 2   | 非線性元件、訊號產生器 |  |
-| 7 | Nov 9   | 示波器基本操作 |  |
+| 6 | Nov 2   | Thevenin Theorem 的應用與實驗設計 |  |
+| 7 | Nov 9   | 元件特性量測與訊號產生器的使用 |  |
 | 8 | Nov 16   | 期中回顧與補充 |  |
-| 9 | Nov 23   | 整流電路實作 |  |
+| 9 | Nov 23   | 整流電路與示波器的使用 |  |
 | 10 | Nov 30   | 驗證操作點的概念 |  |
 | 11 | Dec 7   | 邏輯閘及 Full Adder |  |
 | 12 | Dec 14   | Arduino 初探 |  |

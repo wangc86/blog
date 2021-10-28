@@ -42,6 +42,8 @@ At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cy
 * Wang, Chao (2019). Real-Time Reliable Middleware for Industrial Internet-of-Things. Washington University in St. Louis. ([link](https://openscholarship.wustl.edu/eng_etds/459/))
 
 ## Master Thesis
+* Yu, Cheng-En (2021). A Sustainable LoRaWAN IoT Ecosystem Architecture for Smart Campus. National Taiwan Normal University.
+
 * Lin, Cheng-You (2021). Cyber-Physical Systems Integration for Data Reuse and Tasks Replacements. National Taiwan Normal University.
    
 * Mei, Chih-Shuo (2021). Energy Efficiency and Timeliness in Model Training for AIoT Applications. National Taiwan Normal University.
