@@ -13,6 +13,16 @@ $\rightarrow$ Guo-Hao
 
 ([Some candidate papers](./papertoberead))
 
+## 2021/11/8 
+> Presenters: Yi-Hsuan and Guo-Hao
+* Yi-Hsuan: Liu, Chung Laung, and James W. Layland. "Scheduling algorithms for multiprogramming in a hard-real-time environment." Journal of the ACM (JACM) 20.1 (1973): 46-61.
+* Guo-Hao: Xiang, Yecheng, and Hyoseung Kim. "Pipelined data-parallel CPU/GPU scheduling for multi-DNN real-time inference." 2019 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2019.
+
+## 2021/11/1 
+> Presenters: Po-Hsuan and Shao-Qun
+* Po-Hsuan: Project progress report
+* Shao-Qun: Y. Zhang, C. Lu, C. Gill, P. Lardieri and G. Thaker, Middleware Support for Aperiodic Tasks in Distributed Real-Time Systems, IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'07), April 2007.
+
 ## 2021/10/25 
 > Presenters: Chia-Chin and Ting-Wei
 * Chia-Chin: Master thesis research progress
