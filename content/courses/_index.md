@@ -39,3 +39,6 @@ comments: false  # Show comments?
 
 ### 通識課程：台灣教育  Education in Taiwan (OSUG528)
 * Fall 2021
+
+### 科學英文  English for Science and Technology
+* Spring 2022

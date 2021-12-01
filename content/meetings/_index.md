@@ -13,6 +13,19 @@ $\rightarrow$ Guo-Hao
 
 ([Some candidate papers](./papertoberead))
 
+## 2021/11/29 
+> Presenters: Cheng-Hsun and Han-Wen
+* Cheng-Hsun: F. Cuomo, M. Campo, A. Caponi, G. Bianchi, G. Rossini and P. Pisani, "EXPLoRa: Extending the performance of LoRa by suitable spreading factor allocations," 2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 2017, pp. 1-8, doi: 10.1109/WiMOB.2017.8115779.
+* Han-Wen: A. E. Eshratifar, A. Esmaili and M. Pedram, "BottleNet: A Deep Learning Architecture for Intelligent Mobile Cloud Computing Services," 2019 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2019, pp. 1-6, doi: 10.1109/ISLPED.2019.8824955.
+
+## 2021/11/22 
+> Presenters: Cheng-Sheng and Yih Shiuan
+* Cheng-Sheng: Mohsen Karimi and Hyoseung Kim. 2020. Energy scheduling for task execution on intermittently-powered devices. SIGBED Rev. 17, 1 (February 2020), 36–41.
+* Yih Shiuan: Master Thesis proposal
+
+## 2021/11/15 
+> Midterm exam week
+
 ## 2021/11/8 
 > Presenters: Yi-Hsuan and Guo-Hao
 * Yi-Hsuan: Liu, Chung Laung, and James W. Layland. "Scheduling algorithms for multiprogramming in a hard-real-time environment." Journal of the ACM (JACM) 20.1 (1973): 46-61.

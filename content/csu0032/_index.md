@@ -12,6 +12,11 @@ math: true
 
 **Course Name:** CSU0032 Engineering Mathematics 工程數學 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  
+**Teaching Assistant:** TBD  
+**Course Meetings:** Fridays 14:20--17:20, in room S204, Gongguan Campus  
+**Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
+**Midterm Exam:** TBD  
+**Final Exam:** TBD  
 
 The purpose of this early announcement is to attract enough number of students to take this course, in the hope to meet our school's requirement on the enrollment numbers, to make this subject available to undergraduate students in computer science and information engineering. So, please help spread the word. I'd appreciate it.
 
@@ -25,3 +30,5 @@ Topics that I plan to cover:
 * Applications in Computer Engineering and Cyber-Physical Systems (CPS)
 
 Students who would like to take this course should learn Calculus first.
+
+**Textbook:** TBD.
