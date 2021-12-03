@@ -13,6 +13,11 @@ $\rightarrow$ Guo-Hao
 
 ([Some candidate papers](./papertoberead))
 
+## 2021/12/6 
+> Presenters: Chia-Chin and Ting-Wei
+* Chia-Chin: D. Auten and T. Gamage, "Impact of Resource-Constrained Networks on the Performance of NIST Round-3 PQC Candidates," 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021, pp. 768-773, doi: 10.1109/COMPSAC51774.2021.00109.
+* Ting-Wei: Y. Li, J. Yang and J. Wang, "DyLoRa: Towards Energy Efficient Dynamic LoRa Transmission Control," IEEE INFOCOM 2020 - IEEE Conference on Computer Communications, 2020, pp. 2312-2320, doi: 10.1109/INFOCOM41043.2020.9155407.
+
 ## 2021/11/29 
 > Presenters: Cheng-Hsun and Han-Wen
 * Cheng-Hsun: F. Cuomo, M. Campo, A. Caponi, G. Bianchi, G. Rossini and P. Pisani, "EXPLoRa: Extending the performance of LoRa by suitable spreading factor allocations," 2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 2017, pp. 1-8, doi: 10.1109/WiMOB.2017.8115779.
