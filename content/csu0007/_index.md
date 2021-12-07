@@ -74,7 +74,7 @@ Click [here](./p1-p115.pdf) for the lecture notes for this course, revised Sep. 
 ## Additional References
 
 * Sedra, Adel S. and Smith, Kenneth C. _Microelectronic Circuits._ Oxford University Press, Inc.; 5th edition. ISBN 978-0195142525. (A solid reference text for advanced study in this field.)
-* [Link](2012.2.pdf) <-- A great introduction to semiconductor science, from the EE department at National Taiwan University.
+* [Link](2012.02.pdf) <-- A great introduction to semiconductor science, from the EE department at National Taiwan University.
 * Neamen, Donald A. Semiconductor physics and devices: basic principles. New York, NY: McGraw-Hill. 2012. (A great reference for related physics.)
 
 ## Accessibility
