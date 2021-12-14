@@ -13,7 +13,7 @@ math: true
 **Course Name:** CSU0032 Engineering Mathematics 工程數學 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  
 **Teaching Assistant:** TBD  
-**Course Meetings:** Fridays 14:20--17:20, in room S204, Gongguan Campus  
+**Course Meetings:** Tuesday 09:10--12:10, Gongguan Campus, classroom TBD  
 **Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** TBD  
 **Final Exam:** TBD  
