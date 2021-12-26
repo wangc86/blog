@@ -13,6 +13,21 @@ $\rightarrow$ Guo-Hao
 
 ([Some candidate papers](./papertoberead))
 
+## 2021/12/27 
+> Presenters: Cheng-Sheng and Yih Shiuan
+* Cheng-Sheng: F. Wu, J. Redouté and M. R. Yuce, "WE-Safe: A Self-Powered Wearable IoT Sensor Network for Safety Applications Based on LoRa," in IEEE Access, vol. 6, pp. 40846-40853, 2018, doi: 10.1109/ACCESS.2018.2859383. 
+* Yih Shiuan: Master thesis progress
+
+## 2021/12/20 
+> Presenters: Yi-Hsuan and Guo-Hao
+* Yi-Hsuan: T. Rausch, S. Nastic and S. Dustdar, "EMMA: Distributed QoS-Aware MQTT Middleware for Edge Computing Applications," 2018 IEEE International Conference on Cloud Engineering (IC2E), 2018, pp. 191-197, doi: 10.1109/IC2E.2018.00043.
+* Guo-Hao: Guo, Z., Bhuiyan, A., Liu, D., Khan, A., Saifullah, A., & Guan, N. (2019, April). Energy-efficient real-time scheduling of DAGs on clustered multi-core platforms. In 2019 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)(pp. 156-168). IEEE.
+
+## 2021/12/13 
+> Presenters: Shao-Qun and Po-Hsuan
+* Shao-Qun: M. Aminul Hoque, M. Hossain and R. Hasan, "IGaaS: An IoT Gateway-as-a-Service for On-demand Provisioning of IoT Gateways," 2020 IEEE 6th World Forum on Internet of Things (WF-IoT), 2020, pp. 1-6, doi: 10.1109/WF-IoT48130.2020.9221225.
+* Po-Hsuan: G. Hackmann; W. Guo; G. Yan; Z. Sun; C. Lu; and S. Dyke, "Cyber-Physical Codesign of Distributed Structural Health Monitoring with Wireless Sensor Networks." IEEE Transactions on Parallel and Distributed Systems ( Volume: 25, Issue: 1, Jan. 2014), pp. 63 - 72, DOI: 10.1109/TPDS.2013.30.
+
 ## 2021/12/6 
 > Presenters: Chia-Chin and Ting-Wei
 * Chia-Chin: D. Auten and T. Gamage, "Impact of Resource-Constrained Networks on the Performance of NIST Round-3 PQC Candidates," 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), 2021, pp. 768-773, doi: 10.1109/COMPSAC51774.2021.00109.
