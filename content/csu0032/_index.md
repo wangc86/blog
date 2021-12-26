@@ -41,5 +41,5 @@ Students who would like to take this course must learn Calculus first.
 
 **Textbook:**
 
-Zill, Dennis G. Advanced engineering mathematics. 7th edition. Jones & Bartlett Publishers, 2022. ISBN 9781284240771
+(**Required**) Zill, Dennis G. Advanced engineering mathematics. 7th edition. Jones & Bartlett Publishers, 2022. ISBN 9781284240771
 (台灣代理商: 滄海圖書 0938-723438 [link](https://tsanghai.com.tw/book_detail.php?c=116&no=4392#p=1) )
