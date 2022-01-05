@@ -13,7 +13,7 @@ math: true
 **Course Name:** 00UB9L1 English (III): English for Science 英文(三):科學英文 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  
 **Teaching Assistant:** TBD  
-**Course Meetings:** Monday 13:20--15:10, Gongguan Campus, classroom S203  
+**Course Meetings:** Monday 13:20--15:10, Gongguan Campus, S506 PBL classroom  
 **Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** N/A  
 **Final Exam:** N/A  
@@ -22,7 +22,7 @@ math: true
 
 Fluency in the academic use of English is key to your success in the study of science and engineering. Historically, a significant portion of the body of knowledge is written and communicated in English, and it would be an unfortunate loss to us if the language itself prevents us from the access to it.
 
-In this course, we will introduce the basics of academic English, in the setting of science and engineering. The course includes four modules:
+In this course, we will introduce the basics of academic English in the setting of science and engineering. The course includes four modules:
 
 1. Effective and critical reading of scientific literature
 
@@ -32,7 +32,7 @@ In this course, we will introduce the basics of academic English, in the settin
 
 4. Verbal and visual presentation using academic English
 
-Base on my background, I will cover the materials in the context of computer science and engineering. But no worries if you're not in the department of CSIE - the goal of this course is really about leveraging English as an effective medium in study, not about learning computer science in English. But throughout the semester, we do will learn a bit of computer science as a side effect of no harm :)
+Base on my background, I will cover the materials in the context of computer science and engineering. But no worries if you're not in the department of CSIE - the goal of this course is really about leveraging English as an effective medium in study, not about learning computer science in English. Nevertheless, throughout the semester we do will learn a bit of computer science as a side effect of no harm :)
 
 **Textbook:**
 
@@ -44,4 +44,4 @@ Optional:
 
 - "On Writing Well" by William Zinsser.
 
-And we will make use of IEEE xplore and ACM ditigal library.
+And we will make use of IEEE Xplore and ACM Ditigal Library.
