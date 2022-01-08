@@ -12,7 +12,7 @@ weight: 18
 superuser: false
 
 # Role/position
-role: M.S. Student (co-advised with Dr. Ling-Jyh Chen)
+role: IoT security (M.S. program, co-advised by Dr. Ling-Jyh Chen)
 
 # Organizations/Affiliations
 organizations:

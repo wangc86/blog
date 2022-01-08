@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Cyber-Physical Systems (Assistant Professor)
 
 # Organizations/Affiliations
 organizations:

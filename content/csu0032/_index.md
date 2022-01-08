@@ -32,7 +32,7 @@ Since this is the first time in the recent ten years that we offer Engineering M
 
 4. Series Solutions of Linear Equations
 
-5. Matrices and Vector Calculus
+5. Matrices and Vector Calculus (Complementary to what is covered by Calculus II and Linear Algebra)
 
 6. Fourier Series and Fourier Transform
 
@@ -41,5 +41,6 @@ Students who would like to take this course must learn Calculus first.
 
 **Textbook:**
 
-(**Required**) Zill, Dennis G. Advanced engineering mathematics. 7th edition. Jones & Bartlett Publishers, 2022. ISBN 9781284240771
-(台灣代理商: 滄海圖書 0938-723438 [link](https://tsanghai.com.tw/book_detail.php?c=116&no=4392#p=1) )
+- (**Required**) Zill, Dennis G. Advanced engineering mathematics. 7th edition. Jones & Bartlett Publishers, 2022. ISBN 9781284240771
+(台灣代理商: 滄海圖書 0938-723438 [link](https://tsanghai.com.tw/book_detail.php?c=116&no=4392#p=1) ) (_We will make heavy use of this text_)
+- (Optional) O'neil, Peter V. Advanced engineering mathematics. (The latest edition is the 8th edition published in 2018). (_The book from which I first learned this topic (I used the 5th edition then)_)

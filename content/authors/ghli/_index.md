@@ -12,7 +12,7 @@ weight: 24
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. program
 
 # Organizations/Affiliations
 organizations:

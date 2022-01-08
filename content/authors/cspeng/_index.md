@@ -12,7 +12,7 @@ weight: 15
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Batteryless IoT (M.S. program)
 
 # Organizations/Affiliations
 organizations:

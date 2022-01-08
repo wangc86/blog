@@ -12,7 +12,7 @@ weight: 17
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Mobile LoRaWAN (M.S. program)
 
 # Organizations/Affiliations
 organizations:
