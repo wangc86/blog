@@ -42,5 +42,5 @@ Students who would like to take this course must learn Calculus first.
 **Textbook:**
 
 - (**Required**) Zill, Dennis G. Advanced engineering mathematics. 7th edition. Jones & Bartlett Publishers, 2022. ISBN 9781284240771
-(台灣代理商: 滄海圖書 0938-723438 [link](https://tsanghai.com.tw/book_detail.php?c=116&no=4392#p=1) ) (_We will make heavy use of this text_)
-- (Optional) O'neil, Peter V. Advanced engineering mathematics. (The latest edition is the 8th edition published in 2018). (_The book from which I first learned this topic (I used the 5th edition then)_)
+(台灣代理商：滄海圖書 0938-723438 [link](https://tsanghai.com.tw/book_detail.php?c=116&no=4392#p=1) ) (_We will make heavy use of this text_)
+- (Optional) O'neil, Peter V. Advanced engineering mathematics. 8th edition. Cengage Learning. (台灣代理商：東華書局/新月圖書 0933-328278) (_This is the book from which I first learned this topic (I used the 5th edition then)_)
