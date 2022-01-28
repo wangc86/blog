@@ -12,7 +12,7 @@ math: true
 
 **Course Name:** CSU0032 Engineering Mathematics 工程數學 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  
-**Teaching Assistant:** TBD  
+**Teaching Assistant:** TBA  
 **Course Meetings:** Tuesday 09:10--12:10, Gongguan Campus, classroom B101  
 **Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
 **Midterm Exam:** TBD  
@@ -30,9 +30,9 @@ Since this is the first time in the recent ten years that we offer Engineering M
 
 3. The Laplace Transform
 
-4. Series Solutions of Linear Equations
+4. ~~Series Solutions of Linear Equations~~ Numerical Solutions of Ordinary Differential Equations
 
-5. Matrices and Vector Calculus (Complementary to what is covered by Calculus II and Linear Algebra)
+5. Matrices and Vector Calculus (Complementary to topics covered in Calculus II and Linear Algebra)
 
 6. Fourier Series and Fourier Transform
 
@@ -43,4 +43,4 @@ Students who would like to take this course must learn Calculus first.
 
 - (**Required**) Zill, Dennis G. Advanced engineering mathematics. 7th edition. Jones & Bartlett Publishers, 2022. ISBN 9781284240771
 (台灣代理商：滄海圖書 0938-723438 [link](https://tsanghai.com.tw/book_detail.php?c=116&no=4392#p=1) ) (_We will make heavy use of this text_)
-- (Optional) O'neil, Peter V. Advanced engineering mathematics. 8th edition. Cengage Learning. (台灣代理商：東華書局/新月圖書 0933-328278) (_This is the book from which I first learned this subject (I used the 5th edition then)_)
+- (Optional) O'Neil, Peter V. Advanced engineering mathematics. 8th edition. Cengage Learning. (台灣代理商：東華書局/新月圖書 0933-328278) (_The book from which I first learned this subject (I used the 5th edition then)_)
