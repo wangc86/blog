@@ -12,9 +12,9 @@ math: true
 
 **Course Name:** 00UB9L1 English (III): English for Science 英文(三):科學英文 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  
-**Teaching Assistant:** TBA  
+**Teaching Assistant:** Guo-Hao Li 李國豪  
 **Course Meetings:** Monday 13:20--15:10, Gongguan Campus, S506 PBL classroom  
-**Office Hours:** Wednesdays and Thursdays, 2--4pm (room 511, Applied Science Building, Gongguan Campus), or [by appointment](mailto:cw@ntnu.edu.tw)  
+**Office Hours:** see [contact](../#contact)  
 **Midterm Exam:** N/A  
 **Final Exam:** N/A  
 

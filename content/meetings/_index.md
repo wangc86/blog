@@ -1,22 +1,31 @@
+* Office hours: Wednesdays and Thursdays 2–4 PM 
+* By appointment: cw@ntnu.edu.tw 
+
 # Individual meetings
-* Tuesdays: Po-Hsuan, Cheng-Sheng, Guo-Hao, Han-Wen
-* Wednesdays: Shao-Qun, Ting-Wei, Yi-Hsuan
-* Thursdays: Yih Shiuan, Cheng-Hsun, Chia-Chin
-* By appointment: cw@ntnu.edu.tw
+* Tuesdays: Chia-Chin, Yi-Hsuan, Han-Wen, Po-Hsuan, Yih Shiuan, Jhong-Sian 
+* Thursdays: Cheng-Hsun, Cheng-Sheng, Guo-Hao 
 
 # Group meetings
 ## Schedule of presentation:  
 Cheng-Sheng $\rightarrow$ Yih Shiuan $\rightarrow$ Cheng-Hsun  
-$\rightarrow$ Han-Wen $\rightarrow$ Chia-Chin $\rightarrow$ Ting-Wei  
-$\rightarrow$ Shao-Qun $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan  
-$\rightarrow$ Guo-Hao
+$\rightarrow$ Han-Wen $\rightarrow$ Chia-Chin $\rightarrow$ Shao-Qun  
+$\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan $\rightarrow$ Guo-Hao  
 
 ([Some candidate papers](./papertoberead))
+
+## 2021/01/24 
+> Presenter: Chia-Chin
+* Topic: Master thesis research progress
+
+## 2021/01/17 
+> Presenters: Cheng-Hsun and Han-Wen
+* Cheng-Hsun: Master thesis research progress
+* Han-Wen: N. Mouawad, R. Naja and S. Tohme, "Fast and Seamless Handover in Software Defined Vehicular Networks," 2019 Eleventh International Conference on Ubiquitous and Future Networks (ICUFN), 2019, pp. 484-489, doi: 10.1109/ICUFN.2019.8806144. 
 
 ## 2021/12/27 
 > Presenters: Cheng-Sheng and Yih Shiuan
 * Cheng-Sheng: F. Wu, J. Redouté and M. R. Yuce, "WE-Safe: A Self-Powered Wearable IoT Sensor Network for Safety Applications Based on LoRa," in IEEE Access, vol. 6, pp. 40846-40853, 2018, doi: 10.1109/ACCESS.2018.2859383. 
-* Yih Shiuan: Master thesis progress
+* Yih Shiuan: Master thesis research progress
 
 ## 2021/12/20 
 > Presenters: Yi-Hsuan and Guo-Hao

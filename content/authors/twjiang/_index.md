@@ -6,13 +6,13 @@ title: 江庭葳 Ting-Wei Jiang
 authors:
 - twjiang
 
-weight: 20
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. program
+role: M.S. program, 2021
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Students
+#- Graduate Students
+- Alumni
 # - Visitors
 ---
 

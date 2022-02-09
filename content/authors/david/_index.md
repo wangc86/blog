@@ -12,7 +12,7 @@ weight: 9999
 superuser: false
 
 # Role/position
-role: M.S. Program, 2020
+role: M.S. program, 2020
 
 # Organizations/Affiliations
 organizations:
