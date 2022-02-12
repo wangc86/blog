@@ -30,7 +30,7 @@ math: true
 * [Homework Assignment](#hw)
 
 ## Course Syllabus
-Engineering Mathematics is the core subject in many engineering branches. For computer science and information engineering (CSIE), Engineering Mathematics serves as a mathematical foundation for machine learning/deep learning, computer graphics, multimedia processing, and cyber-physical systems (CPS), to name a few. For those of you who have already engaged in the study of those CSIE fields, you might feel that you are fine without doing much math; but in my opinion, learning Engineering Mathematics may shed lights on the 'why' part of those CSIE techniques and algorithms, and it could be a gateway for you to explore other engineering disciplines (such as electrical engineering).
+Engineering Mathematics is the core subject in many engineering branches. For computer science and information engineering (CSIE), Engineering Mathematics serves as a mathematical foundation for machine learning/deep learning, computer graphics, multimedia processing, and cyber-physical systems (CPS), to name a few, and it could be a gateway for you to explore other engineering disciplines (such as electrical engineering).
 
 Since this is the first time in the recent ten years that we offer Engineering Mathematics in our department, we will cover at least the following key topics and, depending on how the class will go, we may cover some additional topics:
 
