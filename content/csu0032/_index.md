@@ -52,8 +52,8 @@ Students who would like to take this course must learn Calculus first.
 We will follow the development in the required textbook.
 | \#  | Date | Tentative Progress |
 | --- | ---  | --- |
-| 01 | Feb 15 | Chapter 1 |
-| 02 | Feb 22 | Chapter 2 |
+| 01 | Feb 15 | [Course overview](./csu0032-introduction.pdf) and Chapter 1 |
+| 02 | Feb 22 | Chapters 1 and 2 |
 | 03 | Mar 01 | Chapter 2 |
 | 04 | Mar 08 | Chapter 3 |
 | 05 | Mar 15 | Chapter 3 |

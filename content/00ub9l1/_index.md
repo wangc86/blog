@@ -52,10 +52,10 @@ Base on my background, I will cover the materials in the context of computer 
 ## Course Schedule
 | \#  | Date | Topic |
 | --- | ---  | --- |
-| 01 | Feb 14 | Course overview |
+| 01 | Feb 14 | [Course overview](./eng3-introduction.pdf) |
 | 02 | Feb 21 | Critical reading |
-| 03 | Feb 28 | (cont.) |
-| 04 | Mar 07 | (cont.) |
+| 03 | Feb 28 | _Holiday (no class)_ |
+| 04 | Mar 07 | Critical readding (cont.) |
 | 05 | Mar 14 | On academic research proposal |
 | 06 | Mar 21 | Elements of writing style |
 | 07 | Mar 28 | (cont.) |
@@ -66,8 +66,8 @@ Base on my background, I will cover the materials in the context of computer 
 | 12 | May 02 | (cont.) |
 | 13 | May 09 | On academic presentations |
 | 14 | May 16 | (cont.) |
-| 15 | May 23 | (cont.) |
-| 16 | May 30 | _Student final presentation_ |
+| 15 | May 23 | _Student final presentation_ |
+| 16 | May 30 | _(cont.)_ |
 | 17 | Async. | Supplementary materials |
 | 18 | Async. | Supplementary materials |
 
