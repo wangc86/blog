@@ -3,7 +3,7 @@
 
 # Individual meetings
 * Tuesdays: Chia-Chin, Yi-Hsuan, Han-Wen, Po-Hsuan, Yih Shiuan, Jhong-Sian 
-* Thursdays: Cheng-Hsun, Cheng-Sheng, Guo-Hao 
+* Thursdays: Cheng-Hsun, Cheng-Sheng, Guo-Hao, Shao-Qun
 
 # Group meetings
 ## Schedule of presentation:  
@@ -11,7 +11,11 @@ Cheng-Sheng $\rightarrow$ Yih Shiuan $\rightarrow$ Cheng-Hsun
 $\rightarrow$ Han-Wen $\rightarrow$ Chia-Chin $\rightarrow$ Shao-Qun  
 $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan $\rightarrow$ Guo-Hao  
 
-([Some candidate papers](./papertoberead))
+([Some candidate papers]({{< ref "papersToBeRead.md" >}}))
+
+## 2021/02/16 
+> Presenter: Po-Hsuan
+* Gunatilaka, Dolvara, and Chenyang Lu. “REACT: an Agile Control Plane for Industrial Wireless Sensor-Actuator Networks.” 2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation (IoTDI). IEEE, 2020.
 
 ## 2021/01/24 
 > Presenter: Chia-Chin
