@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 ---
 
-Some years ago, between the pages of an old NKJV Bible distributed by The Gideons International, I came across a series of hand-written verse references, with a final remark saying that "Now that you have read God's plan of salvation, it is my prayer that you will understand and accept Jesus as your Saviour." Those verses now I copied down here, in the hope that they would help the readers, too:
+Some years ago, in a second-hand Bible I came across a series of hand-written verse references, asking the reader to turn to the pages here and there. By the end of the reference chain a remark put in this way: "Now that you have read God's plan of salvation, it is my prayer that you will understand and accept Jesus as your Saviour." Those verse references now I copied down here, in the hope that they would help those who read this, too:
 
 Romans 3:23  
 Romans 6:23  
@@ -59,3 +59,21 @@ The following are translations from the KJV Bible:
 > Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus. And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him. And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
 
 --Acts 8:35-39
+
+And I would like to add three more verse references.
+First, on God the Father and His promise, from Isaiah 49:24-25:
+
+> Shall the prey be taken from the mighty,  
+> or the lawful captive delivered?  
+> But thus saith the Lord,  
+> Even the captives of the mighty shall be taken away,  
+> and the prey of the terrible shall be delivered:  
+> for I will contend with him that contendeth with thee,  
+> and I will save thy children.  
+
+And finally, on God the Son and His work, from Hebrews 2:14-15, and from Hebrews 7:24-25:
+
+> Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage.
+
+> but this man, because he continueth ever, hath an unchangeable priesthood. Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.
+

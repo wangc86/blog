@@ -55,7 +55,7 @@ Base on my background, I will cover the materials in the context of computer 
 | 01 | Feb 14 | [Course overview](./eng3-introduction.pdf) |
 | 02 | Feb 21 | Critical reading |
 | 03 | Feb 28 | _Holiday (no class)_ |
-| 04 | Mar 07 | Critical readding (cont.) |
+| 04 | Mar 07 | Critical reading (cont.) |
 | 05 | Mar 14 | On academic research proposal |
 | 06 | Mar 21 | Elements of writing style |
 | 07 | Mar 28 | (cont.) |
