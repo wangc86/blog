@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 ---
 
-Some years ago, in a second-hand Bible I came across a series of hand-written verse references, asking the reader to turn to the pages here and there. By the end of the reference chain a remark put in this way: "Now that you have read God's plan of salvation, it is my prayer that you will understand and accept Jesus as your Saviour." Those verse references now I copied down here, in the hope that they would help those who read this, too:
+Some years ago, in a second-hand Bible I came across a series of hand-written verse references, asking the reader to turn to the pages here and there. By the end of the reference chain a remark put it this way: "Now that you have read God's plan of salvation, it is my prayer that you will understand and accept Jesus as your Saviour." Those verse references now I copied down here, in the hope that they would help the reader, too:
 
 Romans 3:23  
 Romans 6:23  
@@ -61,7 +61,7 @@ The following are translations from the KJV Bible:
 --Acts 8:35-39
 
 And I would like to add three more verse references.
-First, on God the Father and His promise, from Isaiah 49:24-25:
+First, of God the Father and His promise, from Isaiah 49:24-25:
 
 > Shall the prey be taken from the mighty,  
 > or the lawful captive delivered?  
@@ -71,7 +71,7 @@ First, on God the Father and His promise, from Isaiah 49:24-25:
 > for I will contend with him that contendeth with thee,  
 > and I will save thy children.  
 
-And finally, on God the Son and His work, from Hebrews 2:14-15, and from Hebrews 7:24-25:
+And finally, of God the Son and His work, from Hebrews 2:14-15, and from Hebrews 7:24-25:
 
 > Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage.
 
