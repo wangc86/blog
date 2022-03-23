@@ -8,7 +8,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), for the service of this generation, and for the joy of discovering how things may work together. Take a look at our research briefings ([English](NCL_intro_english.pdf), [Mandarin](NCL_intro_mandarin.pdf)).
+At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), for the service of this generation, and for the joy of discovering how things may work together.
+
+We are recruiting. Prospective students please take a look at [this page]({{< ref "recruit.md" >}}).
 
 # Publications
 
