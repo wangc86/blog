@@ -13,6 +13,31 @@ $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan $\rightarrow$ Guo-Hao
 
 ([Some candidate papers]({{< ref "papersToBeRead.md" >}}))
 
+## 2021/03/30 
+> Presenters: Shao-Qun and Po-Hsuan
+* Shao-Qun: Xie, Binbin, and Jie Xiong. "Combating interference for long range LoRa sensing." Proceedings of the 18th Conference on Embedded Networked Sensor Systems. 2020.
+* Po-Hsuan: L. R. Pinto, L. Almeida, H. Alizadeh and A. Rowe, "Aerial Video Stream over Multi-hop Using Adaptive TDMA Slots," 2017 IEEE Real-Time Systems Symposium (RTSS), 2017, pp. 157-166, doi: 10.1109/RTSS.2017.00022.
+
+## 2021/03/23 
+> Presenters: Chia-Chin and Han-Wen
+* Chia-Chin: Master thesis research progress
+* Han-Wen: Master thesis proposal
+
+## 2021/03/16 
+> Presenters: Yih Shiuan and Cheng-Hsun
+* Yih Shiuan: Master thesis research progress
+* Cheng-Hsun: Master thesis research progress
+
+## 2021/03/09 
+> Presenters: Cheng-Sheng and Shao-Qun
+* Cheng-Sheng: Master thesis research progress
+* Shao-Qun: Introduction to SPI (Serial Peripheral Interface)
+
+## 2021/03/02 
+> Presenters: Yi-Hsuan and Guo-Hao
+* Yi-Hsuan: Mosquitto broker architecture and implementation
+* Guo-Hao: Li, H., Lu, C., & Gill, C. D. (2021). RT-ZooKeeper: Taming the Recovery Latency of a Coordination Service. ACM Transactions on Embedded Computing Systems (TECS), 20(5s), 1-22.
+
 ## 2021/02/16 
 > Presenter: Po-Hsuan
 * Gunatilaka, Dolvara, and Chenyang Lu. “REACT: an Agile Control Plane for Industrial Wireless Sensor-Actuator Networks.” 2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation (IoTDI). IEEE, 2020.
