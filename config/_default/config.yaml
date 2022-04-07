@@ -5,8 +5,8 @@
 
 # Website name
 title: Networked Cyber-Physical Systems Lab - National Taiwan Normal University - Deptartment of Computer Science and Information Engineering 
-#baseurl: 'https://wangc86.github.io/' # Website URL
-baseurl: 'https://web.ntnu.edu.tw/~cw/' # Website URL
+baseurl: 'https://wangc86.github.io/' # Website URL
+#baseurl: 'https://web.ntnu.edu.tw/~cw/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

@@ -33,3 +33,16 @@ user_groups:
 
 We have moved to [https://web.ntnu.edu.tw/~cw/](https://web.ntnu.edu.tw/~cw/)
 
+* We are recruiting. Prospective students please take a look at [this page]({{< ref "recruit.md" >}}).
+* [IEEE RTCSA 2022](https://rtcsa.org/index.html), August 23--25, 2022.
+* [2021 Embedded Systems Week (ESWEEK'21)](https://esweek.org), October 8-15, 2021, virtual conference
+
+The Networked Cyber-Physical Systems Laboratory (NCL) was founded in 2019 at National Taiwan Normal University.
+
+"He is like a tree  
+planted by streams of water  
+that yields its fruit in its season,  
+and its leaf does not wither."  
+-- Psalm 1:3a
+
+
