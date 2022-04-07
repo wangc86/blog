@@ -16,7 +16,7 @@ comments: false  # Show comments?
 - 彭成聖 Cheng-Sheng Peng
 - 李奕萱 Yih Shiuan Lee
 - 莊承勳 Cheng-Hsun Chuang
-- 鍾佳欽 Chia-Chin Chung
+- 鍾佳欽 Chia-Chin Chung (co-advised with Prof. Ling-Jyh Chen)
 - 劉瀚文 Han-Wen Liu
 - 張劭群 Shao-Qun Zhang
 - 周柏瑄 Po-Hsuan Chou
