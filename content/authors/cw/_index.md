@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cyber-Physical Systems (Assistant Professor)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -27,8 +27,8 @@ organizations:
 #bio: My research interests include ...
 
 interests:
-- Cyber-Physical Systems
-- Internet-of-Things Systems
+- Cyber-Physical Systems (CPS)
+- Industrial Internet of Things (IIoT)
 - Real-Time Systems
 - Fault-Tolerant Systems
 

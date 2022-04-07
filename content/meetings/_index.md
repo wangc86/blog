@@ -13,6 +13,11 @@ $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan $\rightarrow$ Guo-Hao
 
 ([Some candidate papers]({{< ref "papersToBeRead.md" >}}))
 
+## 2021/04/06
+> Presenters: Guo-Hao and Yi-Hsuan
+* Guo-Hao: Kang, Woosung, et al. "LaLaRAND: Flexible Layer-by-Layer CPU/GPU Scheduling for Real-Time DNN Tasks." 2021 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2021.
+* Yi-Hsuan: Banno, R., Sun, J., Fujita, M., Takeuchi, S., & Shudo, K. (2017, September). Dissemination of edge-heavy data on heterogeneous MQTT brokers. In 2017 IEEE 6th International Conference on Cloud Networking (CloudNet) (pp. 1-7). IEEE. 
+
 ## 2021/03/30 
 > Presenters: Shao-Qun and Po-Hsuan
 * Shao-Qun: Xie, Binbin, and Jie Xiong. "Combating interference for long range LoRa sensing." Proceedings of the 18th Conference on Embedded Networked Sensor Systems. 2020.
