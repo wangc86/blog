@@ -8,7 +8,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSU0008 Basic Electronics Laboratory 基礎電子學實驗 <span style="color:red">(Fall 2021)</span>  
 **Instructor:** 王超  

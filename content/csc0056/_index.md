@@ -8,7 +8,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSC0056 Data Communication 資料通訊 <span style="color:red">(Fall 2021)</span>  
 **Instructor:** Chao Wang 王超  
@@ -58,7 +60,7 @@ Color scheme: green for <span style="color:green">asynchronous online lectures</
 
 | \#  | Date | Topic |
 | --- | ---  | --- |
-| 1 | <span style="color:blue">Sep 27</span> | [Course Introduction](csc0056-introduction-annotated.pdf) |
+| 1 | <span style="color:blue">Sep 27</span> | Course Introduction |
 | 2 | <span style="color:red">Oct 4</span>  | Network Flow Algorithms |
 | 3 | <span style="color:green">Async.</span> | Broker-Based Data Communication |
 | 4 | <span style="color:red">Oct 18</span> | Data Communication Programming Basics |
@@ -97,13 +99,13 @@ We will pick materials from the following textbooks and references:
 
 [2] William Feller. _An Introduction to Probability Theory and Its Applications, Volume I (3rd edition)_. Wiley, 1968. ISBN 0471257087.
 
-[3] Chao Wang, Christopher Gill, Chenyang Lu. _Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things._ 2020 IEEE/ACM International Conference on Internet-of-Things Design and Implementation (IoTDI), 2020. ([pdf](https://wangc86.github.io/publication/iotdi20/iotdi20.pdf))
+[3] Chao Wang, Christopher Gill, Chenyang Lu. _Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things._ 2020 IEEE/ACM International Conference on Internet-of-Things Design and Implementation (IoTDI), 2020. 
 
-[4] Chao Wang, Kuo-Feng Ssu. _A Distributed Collision-Free Low-Latency Link Scheduling Scheme in Wireless Sensor Networks_ 2010 IEEE Wireless Communication and Networking Conference, 2010. ([pdf](https://wangc86.github.io/publication/wcnc10/wcnc10.pdf))
+[4] Chao Wang, Kuo-Feng Ssu. _A Distributed Collision-Free Low-Latency Link Scheduling Scheme in Wireless Sensor Networks_ 2010 IEEE Wireless Communication and Networking Conference, 2010. 
 
-[5] Luby, Michael. "A simple parallel algorithm for the maximal independent set problem." SIAM journal on computing 15.4 (1986): 1036-1053. ([on Google Scholar](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=A+simple+parallel+algorithm+for+the+maximal+independent+set+problem&btnG=))
+[5] Luby, Michael. "A simple parallel algorithm for the maximal independent set problem." SIAM journal on computing 15.4 (1986): 1036-1053. 
 
-[6] Ramanathan, Subramanian, and Errol L. Lloyd. "Scheduling algorithms for multihop radio networks." IEEE/ACM Transactions on networking 1.2 (1993): 166-177. ([on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/222924))
+[6] Ramanathan, Subramanian, and Errol L. Lloyd. "Scheduling algorithms for multihop radio networks." IEEE/ACM Transactions on networking 1.2 (1993): 166-177. 
 
 [7] Chao Wang, Christopher Gill, and Chenyang Lu. 2019. _Real-Time Middleware for Cyber-Physical Event Processing._ ACM Trans. Cyber-Phys. Syst. 3, 3, Article 29 (October 2019), 25 pages. DOI:https://doi.org/10.1145/3218816 ([link](https://dl.acm.org/doi/10.1145/3218816))
 

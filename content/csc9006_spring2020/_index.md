@@ -16,7 +16,9 @@ math: true
 
 ---
 
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **課程名稱:** CSC9006 Real-Time Systems 即時系統 <span style="color:red">(Spring 2020)</span>  
 **授課教師:** [王超](../../#people)  
@@ -58,20 +60,20 @@ math: true
 
 | Date | Topic | Homework Assignment | Related Material |
 | ---  | --- | --- | ---|
-| Mar 5  | [Course Overview](overview.pdf) | [<span style="color:blue">Lab 0</span>](lab0.pdf) | |
-| Mar 12 | [Real-Time Scheduling (1)](scheduling1.pdf) | [<span style="color:blue">Lab 1</span>](https://github.com/wangc86/csc9006) | |
-| Mar 19 | [Real-Time Scheduling (2)](scheduling2.pdf) |  | |
-| Mar 26 | Real-Time Operating Systems;<br><span style="color:brown">Project Proposal Presentation</span> | <span style="color:red">Critique 1</span><br>[(guideline)](critique_guideline.pdf) | |
+| Mar 5  | Course Overview | Lab 0 | |
+| Mar 12 | Real-Time Scheduling (1) | Lab 1 | |
+| Mar 19 | Real-Time Scheduling (2) |  | |
+| Mar 26 | Real-Time Operating Systems; Project Proposal Presentation | Critique 1 | |
 | Apr 2  | 補假 |  | |
 | Apr 9  | Real-Time Event Service |  | |
 | Apr 16 | Real-Time Systems Engineering |  | |
-| Apr 23 | Real-Time Multi-threaded Programming;<br>[(CPS-IoT Week)](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html) | [<span style="color:blue">Lab 2</span>](https://github.com/wangc86/csc9006) | [example code](https://resources.oreilly.com/examples/9781565921153/);<br>[pthreads tutorial](https://randu.org/tutorials/threads/)|
+| Apr 23 | Real-Time Multi-threaded Programming;<br>[(CPS-IoT Week)](https://www.cse.unsw.edu.au/~cpsiot/cpsweek2020/index.html) | Lab 2;<br>[pthreads tutorial](https://randu.org/tutorials/threads/)|
 | Apr 30 | <span style="color:brown">Project Demo 1</span>; | |
-| May 7  | Serving Periodic/Aperiodic Real-Time Tasks | <span style="color:red">Critique 2 </span> | Textbook 3, Sections 5.1-5.4; 5.6|
+| May 7  | Serving Periodic/Aperiodic Real-Time Tasks | Critique 2 | Textbook 3, Sections 5.1-5.4; 5.6|
 | May 14| Patterns for Building RealTime Software |  | Textbook 2, Chapter 11 |
 | May 21| <span style="color:brown">Project Demo 2</span> | | |
-| May 28| Fault-Tolerant Real-Time Messaging | [<span style="color:blue">Lab 3</span>](https://github.com/wangc86/csc9006)<a name="resource"></a>| Reference 9|
-| Jun 4 | Real-Time CPS: Power and Energy Awareness | <span style="color:red">Critique 3</span> | |
+| May 28| Fault-Tolerant Real-Time Messaging | Lab 3 | Reference 9|
+| Jun 4 | Real-Time CPS: Power and Energy Awareness | Critique 3 | |
 | Jun 11| The Time-Triggered Architecture |  | |
 | Jun 18| <span style="color:brown">Project Final Demo</span> |  | |
 | Jun 25| 端午節放假 |  | |

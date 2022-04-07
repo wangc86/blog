@@ -8,7 +8,7 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
 
 **Course Name:** CSU0032 Engineering Mathematics 工程數學 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  

@@ -8,7 +8,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSC0056 Data Communication 資料通訊 <span style="color:red">(Fall 2019)</span>  
 **Instructor:** Chao Wang 王超  
@@ -52,24 +54,24 @@ This course is for both senior undergraduate students and graduate students. Stu
 
 | \#  | Date | Topic | [Readings](#resource) |
 | --- | ---  | --- | --- |
-| 1 | Sep 9   | [Course Introduction](lecture01.pdf) | [1] Sections 1.1-1.2|
-| 2 | Sep 16  | [Layered Network Architecture](lecture02.pdf);<br>[lecture note](lec2note.pdf) | [1] Sections 1.3, 2.1-2.3|
-| 3 | Sep 23  | [Point-to-Point Protocols](lecture03.pdf);<br>[lecture note](lec3note.pdf) | [1] Sections 2.3-2.4.2, 2.8.1-2.8.2, 2.9.1-2.9.4|
+| 1 | Sep 9   | Course Introduction | [1] Sections 1.1-1.2|
+| 2 | Sep 16  | Layered Network Architecture | [1] Sections 1.3, 2.1-2.3|
+| 3 | Sep 23  | Point-to-Point Protocols | [1] Sections 2.3-2.4.2, 2.8.1-2.8.2, 2.9.1-2.9.4|
 | 4 | Sep 30  | (cancelled due to typhoon) | same as above|
-| 5 | Oct 7   | [Point-to-Point Protocols (2)](lecture05.pdf);<br>[lecture note](lec5note.pdf);<br>[lecture note 2](lec5note2.pdf) | same as above, plus 2.4.3 and 2.8.4 |
-| 6 | Oct 14  | [Queueing Model and Little's Theorem](lec6note.pdf) | [1] Sections 3.1-3.2|
-| 7 | Oct 21  | [Markov Chain and Queueing Systems](lec7note.pdf) | [1] Sections 3.3-3.3.1 and Appendix A|
-| 8 | Oct 28  | [More on Queueing Systems](lec8note.pdf);<br>[Review of Poisson Distribution](note_PoissonDistribution.pdf);<br>First Exam Review | [1] Sections 3.3.1-3.4.1|
-| 9 | Nov 4   | [**First Exam**](Midterm_2019.pdf) | |
-| 10 | Nov 11 | [Multiaccess Communication](lecture10.pdf) | [1] Sections 4.1-4.2|
-| 11 | Nov 18 | [Aloha protocols](lecture11_annotated2.pdf) | [1] Sections 4.2, 4.4-4.4.1, 4.5 before 4.5.1, and 4.6|
+| 5 | Oct 7   | Point-to-Point Protocols (2) | same as above, plus 2.4.3 and 2.8.4 |
+| 6 | Oct 14  | Queueing Model and Little's Theorem | [1] Sections 3.1-3.2|
+| 7 | Oct 21  | Markov Chain and Queueing Systems | [1] Sections 3.3-3.3.1 and Appendix A|
+| 8 | Oct 28  | More on Queueing Systems | [1] Sections 3.3.1-3.4.1|
+| 9 | Nov 4   | First Exam | |
+| 10 | Nov 11 | Multiaccess Communication | [1] Sections 4.1-4.2|
+| 11 | Nov 18 | Aloha protocols | [1] Sections 4.2, 4.4-4.4.1, 4.5 before 4.5.1, and 4.6|
 | 12 | Nov 25 | Shortest Path Routing | [1] Sections 5.2-5.2.3|
-| 13 | Dec 2  | Network Flow Algorithms;<br>[lecture note](lec13note.pdf) | [1] Section 5.4 before 5.4.1; Sections 5.5-5.6 |
+| 13 | Dec 2  | Network Flow Algorithms | [1] Section 5.4 before 5.4.1; Sections 5.5-5.6 |
 | 14 | Dec 9  | Flow Control | [1] Sections 6.1-6.2.1, 6.3, and 6.5.1|
-| 15 | Dec 16 | [Real-Time Data Communication](lecture15.pdf) | see page 4 in the lecture slides|
-| 16 | Dec 23 | [Time Synchronization and Timely Data Replication](lecture16.pdf) | see page 4 in the lecture slides|
-| 17 | Dec 30 | Error Correction Code, CAN, and Course Review;<br>[lecture note](lec17note.pdf) | [(i)](#lec17ref) and [(j)](#lec17ref) |
-| 18 | Jan 6  | [**Final Exam**](FinalExam_2019.pdf) | |
+| 15 | Dec 16 | Real-Time Data Communication | see page 4 in the lecture slides|
+| 16 | Dec 23 | Time Synchronization and Timely Data Replication | see page 4 in the lecture slides|
+| 17 | Dec 30 | Error Correction Code, CAN, and Course Review | [(i)](#lec17ref) and [(j)](#lec17ref) |
+| 18 | Jan 6  | Final Exam | |
 
 <a name="resource"></a> The readings assignment each week is designed for you to gain some background of the topic _before_ class. Read them and note where you found interesting and/or challenging. Bring your findings to class for further discussion. I will also cover additional materials in class.
 
@@ -100,11 +102,11 @@ A wealth of helpful and relevant articles/tools may be found on-line. Here I pic
 
 (e) [Industrial Internet Reference Architecture v1.9](https://www.iiconsortium.org/IIRA.htm)
 
-(f) Chao Wang, Christopher Gill, and Chenyang Lu. _Real-Time Middleware for Cyber-Physical Event Processing._ ACM Transactions on Cyber-Physical Systems 3, 3, Article 29 (August 2019) ([manuscript](https://wangc86.github.io/pdf/tcps-cpep.pdf))
+(f) Chao Wang, Christopher Gill, and Chenyang Lu. _Real-Time Middleware for Cyber-Physical Event Processing._ ACM Transactions on Cyber-Physical Systems 3, 3, Article 29 (August 2019) 
 
 <a name="lec17ref"></a>
 <a name="accessibility"></a>
-(g) Chao Wang, Christopher Gill, Chenyang Lu. _FRAME: Fault Tolerant and Real-Time Messaging for Edge Computing._ IEEE International Conference on Distributed Computing Systems (ICDCS), 2019. ([manuscript](https://wangc86.github.io/pdf/icdcs19-frame.pdf))
+(g) Chao Wang, Christopher Gill, Chenyang Lu. _FRAME: Fault Tolerant and Real-Time Messaging for Edge Computing._ IEEE International Conference on Distributed Computing Systems (ICDCS), 2019.  
 
 (h) Time synchronization: [Difference between _accuracy_ and _precision_ in measurement](https://en.wikipedia.org/wiki/Accuracy_and_precision)
 
@@ -128,9 +130,9 @@ Academic integrity is a key component of your education, which is for your benef
 
 Students should submit all their homework assignments via [Moodle](https://moodle.ntnu.edu.tw/).
 
-* [Homework1](Homework01.pdf)
-* [Homework2](Homework02.pdf)
-* [Homework3](Homework03.pdf)
-* [Homework4](Homework04.pdf)
-* [Homework5](Homework05.pdf)
-* [Homework6](Homework06.pdf)
+* Homework1
+* Homework2
+* Homework3
+* Homework4
+* Homework5
+* Homework6

@@ -8,7 +8,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSU0007 Basic Electronics 基礎電子學 <span style="color:red">(Fall 2021)</span>  
 **Instructor:** Chao Wang 王超  
@@ -43,7 +45,7 @@ This course is designed for first-year undergraduate students, in particular for
 
 | \#  | Date | Topic | [Reading](#resource) |
 | --- | ---  | --- | --- | 
-| 1 | Sep 24, 28  | [The Circuit Abstraction](./csu0007-introduction.pdf) | Chapter 1; Appendix A.1 |
+| 1 | Sep 24, 28  | The Circuit Abstraction | Chapter 1; Appendix A.1 |
 | 2 | Oct 1, 5  | Resistive Networks | Chapter 2 to Sec. 2.5 |
 | 3 | Oct 8, 12  | The Node Analysis Method | Sec. 3.1-3.3 (except Sec. 3.3.3) |
 | 4 | Oct 15, 19   | Superposition | Sec. 3.5 up to Example 3.16 |
@@ -69,7 +71,7 @@ This course is designed for first-year undergraduate students, in particular for
 
 Purchase a copy of the book from [Elsevier](https://www.elsevier.com/books/foundations-of-analog-and-digital-electronic-circuits/agarwal/978-0-08-050681-4), [books.google.com](https://books.google.com.tw/books?id=lGgP7FDEv3AC&printsec=copyright&redir_esc=y#v=onepage&q&f=false), etc. You may also read it at [the NTNU library](http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?newQuery=true&searchtype=t&search=Foundations+of+Analog+and+Digital+Electronic+Circuits).
 
-Click [here](./p1-p115.pdf) for the lecture notes for this course, revised Sep. 21, 2021.
+See the archive (link at the top of this page) for the lecture notes for this course.
 
 ## Additional References
 

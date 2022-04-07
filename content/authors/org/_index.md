@@ -22,8 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-#<span style="color:red">We are recruiting!</span> Contact cw@ntnu.edu.tw
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

@@ -8,7 +8,7 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
 
 **Course Name:** 00UB9L1 English (III): English for Science 英文(三):科學英文 <span style="color:red">(Spring 2022)</span>  
 **Instructor:** Chao Wang 王超  

@@ -9,7 +9,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **課程名稱:** CSU0007 Basic Electronics 基礎電子學 <span style="color:red">(Spring 2020)</span>  
 **授課教師:** 王超  
@@ -46,23 +48,23 @@ math: true
 
 | \#  | Date | Topic | [Reading](#resource) | Homework |
 | --- | ---  | --- | --- | --- |
-| 1 | Mar 2   | [The Circuit Abstraction;](lecture01.pdf)<br>[note1](note1.pdf) | Sec. 1.1-1.6; 1.8 | |
-| 2 | Mar 9   | [Resistive Networks (1)](lecture02.pdf) | Chapter 2 up to Example 2.19 | [Homework 1](homework01.pdf);<br>[solution](homework01_solution.pdf) |
-| 3 | Mar 16   | [Resistive Networks (2)](lecture03.pdf) | Chapter 2 up to Example 2.29 | |
-| 4 | Mar 23   | [Network Theorems](lecture04.pdf) | Sec. 3.1-3.3.2; 3.5 (before 3.5.1); 3.6 | [Homework 2](homework02.pdf);<br>[solution](homework02_solution.pdf);<br>[alternative to 7C](homework02_alternativeSolutionTo7C.pdf) |
-| 5 | Mar 30   | [Nonlinear Elements](lecture05.pdf) | Sec. 3.6-4.2 | |
-| 6 | Apr 6   | [Nonlinear Analysis](lecture06.pdf) | Sec. 4.3-4.4 | [some exercise](exercise01.pdf) |
-| 7 | Apr 13   | [First Review and Selected Topics](lecture07.pdf) | Sec. 4.5 | Review Questions |
-| 8 | Apr 20   | [The Digital Abstraction](lecture08.pdf) | Sec. 5.1-5.3; 5.6 | |
-| 9 | Apr 27   | [First Exam](midtermExam.pdf);<br>[updated solution](MidtermSol_corrected.pdf) | | |
-| 10 | May 4   | [The MOSFET Switch (1)](lecture10-12.pdf) | Sec. 6.1-6.4; 5.5 | [Homework 3](homework03.pdf);<br>[solution](homework03_solutionSketch.pdf) |
-| 11 | May 11   | The MOSFET Switch (2);<br>see the lecture note on May 4| Sec. 6.5-6.8 | |
-| 12 | May 18   | The MOSFET Amplifier (1);<br>see the lecture note on May 4;<br>[lecture recordings](https://drive.google.com/drive/folders/1nHWGbp_EVOgjo6S_lTtPWJwu18pItKPM?usp=sharing)| Sec. 6.8-6.9; 7.1-7.3 | [Homework 4](homework04.pdf);<br>[solution](homework04_solution.pdf) |
-| 13 | May 25   | The MOSFET Amplifier (2);<br>see the lecture note on June 1;<br>[lecture recordings](https://drive.google.com/open?id=1lEhEYzQzUkZUhyIxLnIZbC4eJNXx2tRV) | Sec. 7.3-7.5; 7.7; 2.6;<br>skip Examples 7.13-7.18 | <a name="resource"></a>|
-| 14 | Jun 1   | [MOSFET Amplifier Analysis](lecture13-14.pdf);<br>[lecture recordings](https://drive.google.com/open?id=1fohG7_8kJbuJrUqwJ8vnvp4NaiEnImSe) | Sec. 7.5-7.7 | [Homework 5](homework05.pdf);<br>[solution](homework05_solution.pdf)|
-| 15 | Jun 8   | [The Small-Signal Analysis](lecture15.pdf);<br>[lecture recordings](https://drive.google.com/open?id=1UMT7g5NmVaB4RS5-qqQUUh_UQai7EDsT) | Chapter 8 | [Bonus Homework](homework06.pdf);<br>[solution](homework06_solution.pdf)|
-| 16 | Jun 15   | Final Exam; [answer](finalExam_and_answer.pdf) |  | |
-| 17 | Jun 22   | Difference Amplifier;<br>[lecture recordings](https://drive.google.com/drive/folders/1RDMn7xo7kFpAom8BUlCNCG_zVKRgqOCh?usp=sharing)  | Example 8.3 in Sec. 8.2 | |
+| 1 | Mar 2   | The Circuit Abstraction | Sec. 1.1-1.6; 1.8 | |
+| 2 | Mar 9   | Resistive Networks (1) | Chapter 2 up to Example 2.19 | Homework 1 |
+| 3 | Mar 16   | Resistive Networks (2) | Chapter 2 up to Example 2.29 | |
+| 4 | Mar 23   | Network Theorems | Sec. 3.1-3.3.2; 3.5 (before 3.5.1); 3.6 | Homework 2 |
+| 5 | Mar 30   | Nonlinear Elements | Sec. 3.6-4.2 | |
+| 6 | Apr 6   | Nonlinear Analysis | Sec. 4.3-4.4 |  |
+| 7 | Apr 13   | First Review and Selected Topics | Sec. 4.5 | Review Questions |
+| 8 | Apr 20   | The Digital Abstraction | Sec. 5.1-5.3; 5.6 | |
+| 9 | Apr 27   | First Exam | | |
+| 10 | May 4   | The MOSFET Switch (1) | Sec. 6.1-6.4; 5.5 | Homework 3 |
+| 11 | May 11   | The MOSFET Switch (2) | Sec. 6.5-6.8 | |
+| 12 | May 18   | The MOSFET Amplifier (1) | Sec. 6.8-6.9; 7.1-7.3 | Homework 4 |
+| 13 | May 25   | The MOSFET Amplifier (2) | Sec. 7.3-7.5; 7.7; 2.6; skip Examples 7.13-7.18 | <a name="resource"></a>|
+| 14 | Jun 1   | MOSFET Amplifier Analysis | Sec. 7.5-7.7 | Homework 5|
+| 15 | Jun 8   | The Small-Signal Analysis | Chapter 8 | Bonus Homework|
+| 16 | Jun 15   | Final Exam |  | |
+| 17 | Jun 22   | Difference Amplifier  | Example 8.3 in Sec. 8.2 | |
 | 18 | Jun 29   | Arduino and Some Electronic Experiments |  | |
 
 ## Textbook

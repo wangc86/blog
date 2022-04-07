@@ -16,7 +16,9 @@ math: true
 
 ---
 
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSC9006 Real-Time Systems 即時系統 <span style="color:red">(Spring 2021)</span>  
 **Instructor:** Chao Wang 王超  
@@ -78,24 +80,24 @@ and will cover some additional materials.
 For homework assignments and critiques,
 students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 
-| Date | Topic ([link to lecture notes](https://github.com/wangc86/csc9006/blob/master/lectures)) | Homework | Reading | 
+| Date | Topic | Homework | Reading | 
 | ---  | --- | --- | --- |
-| Feb 25 | <span style="color:brown">The Real-Time Environment</span> | [Homework 0](https://github.com/wangc86/csc9006/blob/master/hw0.pdf) | [A] Chapter 1 | 
-| Mar 04 | <span style="color:brown">Real-Time Operating Systems</span> | [Homework 1](https://github.com/wangc86/csc9006/blob/master/hw1.pdf) | [A] Chapter 9 | 
+| Feb 25 | <span style="color:brown">The Real-Time Environment</span> | Homework 0 | [A] Chapter 1 | 
+| Mar 04 | <span style="color:brown">Real-Time Operating Systems</span> | Homework 1 | [A] Chapter 9 | 
 | Mar 11 | <span style="color:brown">Real-Time Scheduling (1)</span> | | [A] Chapter 10 | 
-| Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | [Homework 2](https://github.com/wangc86/csc9006/blob/master/homework%202%20resources/hw2.pdf);<br>[Critique 1](https://github.com/wangc86/csc9006/blob/master/critique1.pdf) | [A] Chapter 10 |
+| Mar 18 | <span style="color:brown">Real-Time Scheduling (2)</span> | Homework 2; Critique 1 | [A] Chapter 10 |
 | Mar 25 | <span style="color:green">Simplicity and The Notion of Time</span> |  | [A] Chapters 2 and 3 |
-| Apr 01 | (spring break) | [Homework 3](https://github.com/wangc86/csc9006/blob/master/homework%203%20resources/hw3.pdf) |  |
+| Apr 01 | (spring break) | Homework 3 |  |
 | Apr 08 | <span style="color:green">Real-Time Model</span> |  | [A] Chapter 4 |
 | Apr 15 | <span style="color:green">Temporal Relations</span> |  | [A] Chapter 5 |
-| Apr 22 | <span style="color:blue">Dependability</span> | [Homework 4](https://github.com/wangc86/csc9006/blob/master/hw4.pdf);<br>[Critique 2](https://github.com/wangc86/csc9006/blob/master/critique2.pdf) | [A] Chapter 6 |
+| Apr 22 | <span style="color:blue">Dependability</span> | Homework 4;Critique 2 | [A] Chapter 6 |
 | Apr 29 | <span style="color:blue">Real-Time Communication</span> | | [A] Chapter 7 |
-| May 06 | <span style="color:blue">Patterns for Building Real-Time Software</span> | [Homework 5](https://github.com/wangc86/csc9006/blob/master/hw5.pdf) | [12] [13] |
+| May 06 | <span style="color:blue">Patterns for Building Real-Time Software</span> | Homework 5 | [12] [13] |
 | May 13 | <span style="color:blue">Fault-Tolerant Real-Time Edge Computing</span> | | [6] [9] [10]|
-| May 20 | <span style="color:red">System Design</span> | [Homework 6](https://github.com/wangc86/csc9006/blob/master/hw6.pdf) | [A] Chapter 11 |
-| May 27 | <span style="color:red">Validation</span> | [Homework 7](https://github.com/wangc86/csc9006/blob/master/hw7.pdf) | [A] Chapter 12; [11] |
-| Jun 03 | <span style="color:red">Internet of Things</span> | [Critique 3](https://github.com/wangc86/csc9006/blob/master/critique3.pdf) | [A] Chapter 13 |
-| Jun 10 | <span style="color:red">The Time-Triggered Archtecture</span> | [Homework 8](https://github.com/wangc86/csc9006/blob/master/hw8.pdf) | [A] Chapter 14 <a name="resource"></a>|
+| May 20 | <span style="color:red">System Design</span> | Homework 6 | [A] Chapter 11 |
+| May 27 | <span style="color:red">Validation</span> | Homework 7 | [A] Chapter 12; [11] |
+| Jun 03 | <span style="color:red">Internet of Things</span> | Critique 3 | [A] Chapter 13 |
+| Jun 10 | <span style="color:red">The Time-Triggered Archtecture</span> | Homework 8 | [A] Chapter 14 <a name="resource"></a>|
 | Jun 17 | <span style="color:black">(supplementary materials)</span> |  |  |
 | Jul 24 | <span style="color:black">(supplementary materials)</span> |  |  |
 
@@ -124,7 +126,7 @@ students should submit all their work via [Moodle](https://moodle.ntnu.edu.tw/).
 [9] C. Wang, C. Gill, and C. Lu, _FRAME: Fault Tolerant and Real-Time Messaging for Edge Computing_, IEEE 39th International Conference on Distributed Computing Systems (ICDCS), 2019, pp. 976-985
 <a name="accessibility"></a>
 
-[10] C. Wang, C. Gill, C. Lu. _Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things._ 2020 IEEE/ACM International Conference on Internet-of-Things Design and Implementation (IoTDI), 2020. ([pdf](https://wangc86.github.io/publication/iotdi20/iotdi20.pdf))
+[10] C. Wang, C. Gill, C. Lu. _Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things._ 2020 IEEE/ACM International Conference on Internet-of-Things Design and Implementation (IoTDI), 2020. 
 
 [11] D. Seto, B. Krogh, L. Sha, and A. Chutinan. (1998, June). _The Simplex Architecture for Safe Online Control System Upgrades_. In Proceedings of the 1998 American Control Conference. ACC (IEEE Cat. No. 98CH36207) (Vol. 6, pp. 3504-3508). IEEE.
 

@@ -8,7 +8,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSC0065 Special Topic: Information Systems  資訊系統專論 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** 王弘倫, 王超  
@@ -31,11 +33,11 @@ math: true
 | \#  | Date | Topic | Homework |
 | --- | ---  | --- | --- | 
 | 1 | Sep 17   | 第一章 |  |
-| 2 | Sep 24   | 第一章 ([note](note1.pdf)) | 作業一： 1.1~1.11; 1.16 |
+| 2 | Sep 24   | 第一章 | 作業一： 1.1~1.11; 1.16 |
 | 3 | Oct 1   | 中秋節放假 |  |
 | 4 | Oct 8   | 調課 |  |
-| 5 | Oct 15   | 第二章 | [作業一參考解答](sol_hw1.pdf); Problem 1.16 [alternative 1](sol_prob_1-16_1.jpg), and [alternative 2](sol_prob_1-16_2.pdf) |
-| 6 | Oct 22   | 第二章 ([note](1022.pdf)) | 作業二： 2.2~2.3, 2.5~2.6, and 2.12~2.14, 總共七題 |
+| 5 | Oct 15   | 第二章 |  |
+| 6 | Oct 22   | 第二章  | 作業二： 2.2~2.3, 2.5~2.6, and 2.12~2.14, 總共七題 |
 | 7 | Oct 29   | 第二章 | 作業三： 2.7~2.9, 2.17, 2.19, 2.21 |
 | 8 | Nov 5   | 第二章 finished Section 2.6 | 作業四： 2.11, 2.23, 2.24, 2.27, 2.29 |
 | 9 | Nov 12   | 第五章 |  |

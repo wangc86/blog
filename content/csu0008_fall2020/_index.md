@@ -8,7 +8,9 @@ comments: false  # Show comments?
 math: true
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
+![NTNU logo](../img/ntnu_logo.png)
+
+<span style="color:red">Note: This page is for the past semester. For historical data, see the [archives](https://web.ntnu.edu.tw/~cw/shares/courses/).</span>
 
 **Course Name:** CSU0008 Basic Electronics Laboratory 基礎電子學實驗 <span style="color:red">(Fall 2020)</span>  
 **Instructor:** 王超  
@@ -49,21 +51,21 @@ math: true
 | \#  | Date | Topic | 實驗相關連結 |
 | --- | ---  | --- | --- | 
 | 1 | Sep 15   | 課程介紹及分組 |  |  |
-| 2 | Sep 22   | 工具介紹與基本電阻電壓電流量測 | [link](https://github.com/wangc86/csu0008/tree/master/09-22)  |
-| 3 | Sep 29   | Voltage Divider and Current Divider | [link](https://github.com/wangc86/csu0008/tree/master/09-29) |
-| 4 | Oct 6   | 加法電路 and Superposition | [link](https://github.com/wangc86/csu0008/tree/master/10-06) |
-| 5 | Oct 13   | 驗證及使用 Thevenin Theorem | [link](https://github.com/wangc86/csu0008/tree/master/10-13) |
-| 6 | Oct 20   | 非線性元件的操作及基本的資料視覺化 | [link](https://github.com/wangc86/csu0008/tree/master/10-20) |
-| 7 | Oct 27   | 訊號產生器、示波器、半波整流電路 | [link](https://github.com/wangc86/csu0008/tree/master/10-27) |
-| 8 | Nov 3   | 驗證操作點的概念 | [link](https://github.com/wangc86/csu0008/tree/master/11-03) |
-| 9 | Nov 10   | 期中回顧 | [link](https://github.com/wangc86/csu0008/tree/master/11-10) |
-| 10 | Nov 17   | 邏輯閘的使用及 Static Discipline | [link](https://github.com/wangc86/csu0008/tree/master/11-17) |
-| 11 | Nov 24   | 3-Bit Full Adder Implementation | [link](https://github.com/wangc86/csu0008/tree/master/11-24) |
-| 12 | Dec 1   | Arduino 初探 | [link](https://github.com/wangc86/csu0008/tree/master/12-01) |
-| 13 | Dec 8   | 軟硬體整合（一） | [link](https://github.com/wangc86/csu0008/tree/master/12-08) |
-| 14 | Dec 15   | 軟硬體整合（二） | [link](https://github.com/wangc86/csu0008/tree/master/12-15) |
+| 2 | Sep 22   | 工具介紹與基本電阻電壓電流量測 |   |
+| 3 | Sep 29   | Voltage Divider and Current Divider |  |
+| 4 | Oct 6   | 加法電路 and Superposition |  |
+| 5 | Oct 13   | 驗證及使用 Thevenin Theorem |  |
+| 6 | Oct 20   | 非線性元件的操作及基本的資料視覺化 |  |
+| 7 | Oct 27   | 訊號產生器、示波器、半波整流電路 |  |
+| 8 | Nov 3   | 驗證操作點的概念 |  |
+| 9 | Nov 10   | 期中回顧 |  |
+| 10 | Nov 17   | 邏輯閘的使用及 Static Discipline |  |
+| 11 | Nov 24   | 3-Bit Full Adder Implementation |  |
+| 12 | Dec 1   | Arduino 初探 |  |
+| 13 | Dec 8   | 軟硬體整合（一） |  |
+| 14 | Dec 15   | 軟硬體整合（二） |  |
 | 15 | Dec 22   | cancelled |  |
-| 16 | Dec 29   | MOSFET 特性與電路 | [link](https://github.com/wangc86/csu0008/tree/master/12-29) |
+| 16 | Dec 29   | MOSFET 特性與電路 |  |
 | 17 | Jan 5   | 電流鏡 |  |
 | 18 | Jan 12   | (skipped) |  |
 

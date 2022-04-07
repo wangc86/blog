@@ -8,10 +8,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-![NTNU logo](../../img/ntnu_logo.png)
-
-"教育不是灌輸，而是點燃火焰。"  
--- 蘇格拉底
+![NTNU logo](../img/ntnu_logo.png)
 
 - 基礎電子學  Basic Electronics (CSU0007)
     * [Fall 2021](../csu0007), [Fall 2020](../csu0007_fall2020), [Spring 2020](../csu0007_spring2020)
