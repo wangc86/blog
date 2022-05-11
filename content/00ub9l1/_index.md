@@ -85,6 +85,15 @@ you should be able to download the listed papers via campus network.
 
 1. "On Writing Well," a book by William Zinsser.
 2. Saxena, Abhinav, et al. "Damage propagation modeling for aircraft engine run-to-failure simulation." 2008 international conference on prognostics and health management. IEEE, 2008. (Both the mentioned data set and the paper can be downloaded via NASA's [Prognostics Center of Excellence](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) data repository, entry 6: Turbofan Engine Degradation Simulation Data Set.) 
+3. [Heilmeier's Catechism](https://www.csee.umbc.edu/~finin/home/heilmeyerCatechism.html)
+4. Wang, C., Gill, C., & Lu, C. (2019, July). Frame: Fault tolerant and real-time messaging for edge computing. In 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS) (pp. 976-985). IEEE.
+5. Keshav, S. (2007). How to read a paper. ACM SIGCOMM Computer Communication Review, 37(3), 83-84.
+6. Barricelli, Barbara Rita, Elena Casiraghi, and Daniela Fogli. "A survey
+on digital twin: Definitions, characteristics, applications, and design
+implications." IEEE access 7 (2019): 167653-167671.
+7. Wang, C., Gill, C., & Lu, C. (2020, April). Adaptive Data Replication in Real-Time Reliable Edge Computing for Internet of Things. In 2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation (IoTDI) (pp. 128-134). IEEE.
+8. Wang, Chao, "Real-Time Reliable Middleware for Industrial Internet-of-Things" (2019). McKelvey School of Engineering Theses & Dissertations. 459. [https://openscholarship.wustl.edu/eng_etds/459](https://openscholarship.wustl.edu/eng_etds/459)
+
 
 ## Accessibility
 <a name="integrity"></a>

@@ -24,6 +24,8 @@ We are recruiting. Prospective students please take a look at [this page]({{< re
    
 ## Conference Papers
 
+* Cheng-En Yu, Chao Wang, and Shao-Qun Zhang. 2022. Fault-Tolerant Energy-Efficient LoRaWAN Networking Architecture. Accepted for publication at 10th International Conference on Cyber-Physical Systems (<i>CPSIoT'2022</i>). Mediterranean Embedded Computing Resources.
+
 * Cheng-You Lin and Chao Wang. 2021. Benefits of GPU-CPU Task Replacement for Edge Device and Platform: Poster Abstract. In <i>Proceedings of the International Conference on Internet-of-Things Design and Implementation</i> (<i>IoTDI '21</i>). Association for Computing Machinery, New York, NY, USA, 249–250. ([author copy](iotdi21posters-final2.pdf))
    
 * Cheng-En Yu and Chao Wang. 2021. Enabling a Flexible and Sustainable Smart Campus Networking Backbone Using LoRaWAN: Poster Abstract. In <i>Proceedings of the International Conference on Internet-of-Things Design and Implementation</i> (<i>IoTDI '21</i>). Association for Computing Machinery, New York, NY, USA, 251–252. ([author copy](iotdi21posters-final3.pdf))

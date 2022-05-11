@@ -31,10 +31,10 @@ user_groups:
 
 # News
 
+* Our LoRaWAN paper has been accepted for publication at [CPSIoT 2022](https://mecoconference.me/cpsiot2022/), June 7--10, at Budva, Montenegro. Congratulations to Cheng-En and Shao-Qun!
 * [ACM MobiSys 2022](https://www.sigmobile.org/mobisys/2022/), June 25--July 1, 2022.
 * We are recruiting. Prospective students please take a look at [this page]({{< ref "recruit.md" >}}).
 * [IEEE RTCSA 2022](https://rtcsa.org/index.html), August 23--25, 2022.
-* [2021 Embedded Systems Week (ESWEEK'21)](https://esweek.org), October 8-15, 2021, virtual conference
 
 The Networked Cyber-Physical Systems Laboratory (NCL) was founded in 2019 at National Taiwan Normal University.
 At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), for the service of this generation, and for the joy of exploring where virtual world and physical world meets.
