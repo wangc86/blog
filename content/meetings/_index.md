@@ -13,6 +13,26 @@ $\rightarrow$ Po-Hsuan $\rightarrow$ Yi-Hsuan $\rightarrow$ Guo-Hao
 
 ([Some candidate papers]({{< ref "papersToBeRead.md" >}}))
 
+## 2021/05/11
+> Presenters: Yi-Hsuan and Po-Hsuan
+* Yi-Hsuan: F. Xiong, A. Li, H. Wang and L. Tang, "An SDN-MQTT Based Communication System for Battlefield UAV Swarms," in IEEE Communications Magazine, vol. 57, no. 8, pp. 41-47, August 2019, doi: 10.1109/MCOM.2019.1900291.
+* Po-Hsuan: G. von der Brüggen, K. -H. Chen, W. -H. Huang and J. -J. Chen, "Systems with Dynamic Real-Time Guarantees in Uncertain and Faulty Execution Environments," 2016 IEEE Real-Time Systems Symposium (RTSS), 2016, pp. 303-314.
+
+## 2021/05/04
+> Presenters: Shao-Qun and Chia-Chin
+* Shao-Qun: Xie, Binbin, and Jie Xiong. "Combating interference for long range LoRa sensing." Proceedings of the 18th Conference on Embedded Networked Sensor Systems. 2020.
+* Chia-Chin: Master thesis research progress
+
+## 2021/04/20
+> Presenters: Cheng-Hsun and Han-Wen
+* Cheng-Hsun: Master thesis research progress
+* Han-Wen: 交通部車聯網技術應用於機車安全改善之研究與場域試驗計畫
+
+## 2021/04/13
+> Presenters: Yih Shiuan and Cheng-Sheng
+* Yih Shiuan: Master thesis research progress
+* Cheng-Sheng: Master thesis research progress
+
 ## 2021/04/06
 > Presenters: Guo-Hao and Yi-Hsuan
 * Guo-Hao: Kang, Woosung, et al. "LaLaRAND: Flexible Layer-by-Layer CPU/GPU Scheduling for Real-Time DNN Tasks." 2021 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2021.

@@ -8,7 +8,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), for the service of this generation, and for the joy of discovering how things may work together.
+Currently, we focus on developing dependable and sustainable [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system). Some key performance metrics include _timeliness_, _fault tolerance_, and _energy efficiency_ of CPS systems. In general, we are doing applied, interdisciplinary research revolving around computer science, electrical engineering, a bit of math, and a bit of aesthetics :)
 
 We are recruiting. Prospective students please take a look at [this page]({{< ref "recruit.md" >}}).
 

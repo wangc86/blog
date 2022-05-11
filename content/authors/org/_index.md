@@ -37,11 +37,11 @@ user_groups:
 * [2021 Embedded Systems Week (ESWEEK'21)](https://esweek.org), October 8-15, 2021, virtual conference
 
 The Networked Cyber-Physical Systems Laboratory (NCL) was founded in 2019 at National Taiwan Normal University.
+At NCL, we study [Cyber-Physical Systems (CPS)](https://en.wikipedia.org/wiki/Cyber-physical_system), for the service of this generation, and for the joy of exploring where virtual world and physical world meets.
 
-"He is like a tree  
-planted by streams of water  
-that yields its fruit in its season,  
-and its leaf does not wither."  
--- Psalm 1:3a
+> And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.  
+> 他要像一棵樹栽在溪水旁，按時候結果子，葉子也不枯乾。凡他所做的盡都順利。"  
+
+-- Psalm 詩篇 1:3
 
 
