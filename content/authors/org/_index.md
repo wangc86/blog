@@ -32,7 +32,7 @@ user_groups:
 # News
 
 * Our LoRaWAN paper has been accepted for publication at [CPSIoT 2022](https://mecoconference.me/cpsiot2022/), June 7--10, at Budva, Montenegro. Congratulations to Cheng-En and Shao-Qun!
-* [ACM MobiSys 2022](https://www.sigmobile.org/mobisys/2022/), June 25--July 1, 2022.
+* [ACM MobiSys 2022](https://www.sigmobile.org/mobisys/2022/), June 27--July 1, 2022.
 * We are recruiting. Prospective students please take a look at [this page]({{< ref "recruit.md" >}}).
 * [IEEE RTCSA 2022](https://rtcsa.org/index.html), August 23--25, 2022.
 
